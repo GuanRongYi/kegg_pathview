@@ -2,16 +2,23 @@ import os
 import streamlit as st
 import streamlit.components.v1 as components
 
-hide_github_icon = f"""
-  #GithubIcon {
-    visibility: hidden;
-  }
-"""
-st.markdown(hide_github_icon, unsafe_allow_html=True)
 
 st.set_page_config(page_title="KEGG Path View", page_icon=":dna:", layout="wide", menu_items={
         'About': "About"
     })
+
+st.markdown(
+    """
+    <style>
+    .css-1jc7ptx, .e1ewe7hr3, .viewerBadge_container__1QSob,
+    .styles_viewerBadge__1yB5_, .viewerBadge_link__1S137,
+    .viewerBadge_text__1JaDK {
+        display: none;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 
 st.markdown(
     f"""
