@@ -7,6 +7,18 @@ st.set_page_config(page_title="KEGG Path View", page_icon=":dna:", layout="wide"
         'About': "About"
     })
 
+hide_github_icon_style = """
+<style>
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+.viewerBadge_container__1QSob {visibility: hidden;}
+.viewerBadge_link__1S137 {visibility: hidden;}
+.main .block-container {padding-top: 1rem;}
+</style>
+"""
+
+st.markdown(hide_github_icon_style, unsafe_allow_html=True)
+
 st.markdown(
     f"""
         <style>
