@@ -7,12 +7,108 @@ st.set_page_config(page_title="KEGG Path View", page_icon=":dna:", layout="wide"
         'About': "About"
     })
 
-hide_github_icon = """
-        #MainMenu {
-          visibility: hidden;
-}
+"""Shows a sticky navigation bar with links to other apps at the top of the page."""
+st.write(
 """
-st.markdown(hide_github_icon, unsafe_allow_html=True)
+<style>
+    /* Add a black background color to the top navigation */
+    .topnav-container {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 3.5rem;
+        border-bottom: 1px solid rgba(38, 39, 48, 0.2);
+        /* padding-left: 60px; */
+        /* padding-top: 0.5rem;
+        padding-bottom: 0.5rem; */
+        /* padding-right: 100px; */
+        background-color: white;
+        z-index: 98;
+        
+        line-height: 3.5rem;
+        
+        flex: 1 1 0%;
+        
+    }
+    
+    .topnav {
+        overflow: hidden;
+        /* position: relative;
+        top: -50px; */
+        padding-left: 1rem;
+        padding-right: 1rem;
+    
+        max-width: 730px;
+        margin: 0 auto;
+        
+        display: flex;
+        /*justify-content: space-between;*/
+        justify-content: center;
+        align-items: center;
+        
+        vertical-align: middle;
+    }
+    
+    /* Style the links inside the navigation bar */
+    .topnav a {
+        color: rgb(38, 39, 48);
+        text-align: center;
+        text-decoration: none;
+        /* font-size: 17px; */
+    }
+    
+    /* Change the color of links on hover */
+    .topnav a:hover {
+        color: #e24768;
+    }
+    
+    /* Add a color to the active/current link */
+    .topnav a.active {
+        color: #e24768;
+    }
+    
+    /*.topnav-right a {
+        margin-left: 3rem;
+    }*/
+    
+    .topnav-right {
+        display: none;
+    }
+    
+    @media screen and (max-width: 800px) {
+        .topnav-right {
+            display: none;
+        }
+        
+        .topnav {
+            justify-content: center;
+        }
+    }
+    
+    .topnav-title {
+        margin-left: 1rem;
+        font-weight: 500;
+    }
+</style>
+
+<div class="topnav-container">
+    <nav class="topnav">
+        <div class="topnav-left">
+            <a href="https://share.streamlit.io/jrieke/st-frontpage/main">
+                <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width=35>
+                <span class="topnav-title">View all apps</span>
+            </a>
+        </div>
+        <div class="topnav-right">
+            <a href="https://share.streamlit.io/jrieke/st-frontpage/main">View all apps</a>
+            <a href="https://share.streamlit.io/" target="_blank"><img src="https://screenshots.imgix.net/mui-org/material-ui-icons/account-circle-outlined/~v=3.9.2/e6ffca0e-87fa-4e5b-92ca-05c6079b5f9e.png?ixlib=js-1.2.0&s=c0f87e872aac058178a34a41422a425d" width=35 style="border-radius: 100%; margin-left: 1rem;"></a>
+        </div>
+    </nav>
+</div>
+""",
+unsafe_allow_html=True,
+)
 
 
 st.markdown(
