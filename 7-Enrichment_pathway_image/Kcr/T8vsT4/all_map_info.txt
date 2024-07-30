@@ -1,0 +1,74 @@
+KEGG pathway	Protein accession	KEGG KO No.	T8/T4 Ratio	Regulated Type
+map00650 Butanoate metabolism	P61922	K13524	2.7826352599202955	Up
+map00650 Butanoate metabolism	Q80XN0	K00019	1.6743460442210718	Up
+map00240 Pyrimidine metabolism	P52624	K00757	0.6502816347917212	Down
+map00240 Pyrimidine metabolism	Q3U5Q7	K13809	0.6611597710422188	Down
+map02010 ABC transporters	P21958	K05653	0.3754567062818336	Down
+map02010 ABC transporters	Q8K441	K05649	0.6194102714313612	Down
+map04064 NF-kappa B signaling pathway	P10810	K04391	0.558328564740155	Down
+map04064 NF-kappa B signaling pathway	Q61510	K10652	0.6224426169719643	Down
+map04064 NF-kappa B signaling pathway	Q6Q899	K12646	0.5693524650478292	Down
+map04145 Phagosome	P01899	K06751	0.6337030067662249	Down
+map04145 Phagosome	P10810	K04391	0.558328564740155	Down
+map04145 Phagosome	P21958	K05653	0.3754567062818336	Down
+map04612 Antigen processing and presentation	P01899	K06751	0.6337030067662249	Down
+map04612 Antigen processing and presentation	P21958	K05653	0.3754567062818336	Down
+map04612 Antigen processing and presentation	Q9R233	K08058	0.4428352363387695	Down
+map04620 Toll-like receptor signaling pathway	P10810	K04391	0.558328564740155	Down
+map04620 Toll-like receptor signaling pathway	P42225	K11220	0.3857156981486517	Down
+map04621 NOD-like receptor signaling pathway	P0DOV2	K20914	0.6005267020679532	Down
+map04621 NOD-like receptor signaling pathway	P42225	K11220	0.3857156981486517	Down
+map04621 NOD-like receptor signaling pathway	Q91Z40	K20899	0.4770705884642581	Down
+map04622 RIG-I-like receptor signaling pathway	Q61510	K10652	0.6224426169719643	Down
+map04622 RIG-I-like receptor signaling pathway	Q64339	K12159	0.5014966591602028	Down
+map04622 RIG-I-like receptor signaling pathway	Q6Q899	K12646	0.5693524650478292	Down
+map05160 Hepatitis C	P42225	K11220	0.3857156981486517	Down
+map05160 Hepatitis C	Q03963	K16195	0.2877185035173737	Down
+map05160 Hepatitis C	Q64282	K14217	0.16796901007777745	Down
+map05160 Hepatitis C	Q6Q899	K12646	0.5693524650478292	Down
+map05161 Hepatitis B	P17918	K04802	0.454913428019936	Down
+map05161 Hepatitis B	P42225	K11220	0.3857156981486517	Down
+map05161 Hepatitis B	Q6Q899	K12646	0.5693524650478292	Down
+map05162 Measles	P42225	K11220	0.3857156981486517	Down
+map05162 Measles	Q03963	K16195	0.2877185035173737	Down
+map05162 Measles	Q6Q899	K12646	0.5693524650478292	Down
+map05163 Human cytomegalovirus infection	P01899	K06751	0.6337030067662249	Down
+map05163 Human cytomegalovirus infection	P21958	K05653	0.3754567062818336	Down
+map05163 Human cytomegalovirus infection	Q9R233	K08058	0.4428352363387695	Down
+map05164 Influenza A	P42225	K11220	0.3857156981486517	Down
+map05164 Influenza A	Q03963	K16195	0.2877185035173737	Down
+map05164 Influenza A	Q60953	K10054	0.4245383829653493	Down
+map05164 Influenza A	Q61510	K10652	0.6224426169719643	Down
+map05164 Influenza A	Q6Q899	K12646	0.5693524650478292	Down
+map05165 Human papillomavirus infection	P01899	K06751	0.6337030067662249	Down
+map05165 Human papillomavirus infection	P42225	K11220	0.3857156981486517	Down
+map05165 Human papillomavirus infection	Q03963	K16195	0.2877185035173737	Down
+map05165 Human papillomavirus infection	Q64339	K12159	0.5014966591602028	Down
+map05167 Kaposi sarcoma-associated herpesvirus infection	P01899	K06751	0.6337030067662249	Down
+map05167 Kaposi sarcoma-associated herpesvirus infection	P42225	K11220	0.3857156981486517	Down
+map05167 Kaposi sarcoma-associated herpesvirus infection	Q03963	K16195	0.2877185035173737	Down
+map05168 Herpes simplex virus 1 infection	P01899	K06751	0.6337030067662249	Down
+map05168 Herpes simplex virus 1 infection	P21958	K05653	0.3754567062818336	Down
+map05168 Herpes simplex virus 1 infection	P42225	K11220	0.3857156981486517	Down
+map05168 Herpes simplex virus 1 infection	Q03963	K16195	0.2877185035173737	Down
+map05168 Herpes simplex virus 1 infection	Q60953	K10054	0.4245383829653493	Down
+map05168 Herpes simplex virus 1 infection	Q6Q899	K12646	0.5693524650478292	Down
+map05168 Herpes simplex virus 1 infection	Q9R233	K08058	0.4428352363387695	Down
+map05169 Epstein-Barr virus infection	P01899	K06751	0.6337030067662249	Down
+map05169 Epstein-Barr virus infection	P21958	K05653	0.3754567062818336	Down
+map05169 Epstein-Barr virus infection	P42225	K11220	0.3857156981486517	Down
+map05169 Epstein-Barr virus infection	Q03963	K16195	0.2877185035173737	Down
+map05169 Epstein-Barr virus infection	Q64339	K12159	0.5014966591602028	Down
+map05169 Epstein-Barr virus infection	Q6Q899	K12646	0.5693524650478292	Down
+map05169 Epstein-Barr virus infection	Q9R233	K08058	0.4428352363387695	Down
+map05170 Human imapnodeficiency virus 1 infection	P01899	K06751	0.6337030067662249	Down
+map05170 Human imapnodeficiency virus 1 infection	P21958	K05653	0.3754567062818336	Down
+map05170 Human imapnodeficiency virus 1 infection	Q9R233	K08058	0.4428352363387695	Down
+map05171 Coronavirus disease - COVID-19	P42225	K11220	0.3857156981486517	Down
+map05171 Coronavirus disease - COVID-19	Q03963	K16195	0.2877185035173737	Down
+map05171 Coronavirus disease - COVID-19	Q64339	K12159	0.5014966591602028	Down
+map05171 Coronavirus disease - COVID-19	Q6Q899	K12646	0.5693524650478292	Down
+map05202 Transcriptional misregulation in cancer	P10810	K04391	0.558328564740155	Down
+map05202 Transcriptional misregulation in cancer	Q60953	K10054	0.4245383829653493	Down
+map05221 Acute myeloid leukemia	P10810	K04391	0.558328564740155	Down
+map05221 Acute myeloid leukemia	Q60953	K10054	0.4245383829653493	Down

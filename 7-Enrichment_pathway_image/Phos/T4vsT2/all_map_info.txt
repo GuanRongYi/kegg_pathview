@@ -1,0 +1,126 @@
+KEGG pathway	Protein accession	KEGG KO No.	T4/T2 Ratio	Regulated Type
+map00430 Taurine and hypotaurine metabolism	Q8K2I3	K00485	2.4448385898689464	Up
+map00430 Taurine and hypotaurine metabolism	Q9Z2A9	K18592	2.041508517292685	Up
+map00590 Arachidonic acid metabolism	O35074	K01831	1.7690808233228261	Up
+map00590 Arachidonic acid metabolism	Q9Z2A9	K18592	2.041508517292685	Up
+map02010 ABC transporters	P21958	K05653	3.100587479733002	Up
+map02010 ABC transporters	P36371	K05654	2.8227098715498005	Up
+map04145 Phagosome	O70309	K06588	1.833067711922812	Up
+map04145 Phagosome	P01899	K06751	1.681877356796552	Up
+map04145 Phagosome	P01901	K06751	1.5778688524590163	Up
+map04145 Phagosome	P21958	K05653	3.100587479733002	Up
+map04145 Phagosome	P36371	K05654	2.8227098715498005	Up
+map04145 Phagosome	Q8BVE3	K02144	1.5011088832178878	Up
+map04145 Phagosome	Q9Z1T2	K04659	4.463064212626088	Up
+map04218 Cellular senescence	P01899	K06751	1.681877356796552	Up
+map04218 Cellular senescence	P01901	K06751	1.5778688524590163	Up
+map04218 Cellular senescence	Q64337	K14381	2.397517210512988	Up
+map04380 Osteoclast differentiation	P42225	K11220	2.451567944250871	Up
+map04380 Osteoclast differentiation	Q64337	K14381	2.397517210512988	Up
+map04380 Osteoclast differentiation	Q8CIH5	K05859	1.6081580148553882	Up
+map04514 Cell adhesion molecules	P01899	K06751	1.681877356796552	Up
+map04514 Cell adhesion molecules	P01901	K06751	1.5778688524590163	Up
+map04514 Cell adhesion molecules	P13597	K06490	1.6043238688543215	Up
+map04514 Cell adhesion molecules	Q64314	K06474	1.5997572122250787	Up
+map04612 Antigen processing and presentation	P01899	K06751	1.681877356796552	Up
+map04612 Antigen processing and presentation	P01901	K06751	1.5778688524590163	Up
+map04612 Antigen processing and presentation	P21958	K05653	3.100587479733002	Up
+map04612 Antigen processing and presentation	P36371	K05654	2.8227098715498005	Up
+map04612 Antigen processing and presentation	Q9R233	K08058	2.069517111244532	Up
+map04621 NOD-like receptor signaling pathway	P0DOV2	K20914	1.661698716224214	Up
+map04621 NOD-like receptor signaling pathway	P42225	K11220	2.451567944250871	Up
+map04621 NOD-like receptor signaling pathway	Q61107	K20899	1.7295289332949049	Up
+map04621 NOD-like receptor signaling pathway	Q91Z40	K20899	1.8575732378920984	Up
+map04650 Natural killer cell mediated cytotoxicity	P01899	K06751	1.681877356796552	Up
+map04650 Natural killer cell mediated cytotoxicity	P01901	K06751	1.5778688524590163	Up
+map04650 Natural killer cell mediated cytotoxicity	P13597	K06490	1.6043238688543215	Up
+map04650 Natural killer cell mediated cytotoxicity	Q8CIH5	K05859	1.6081580148553882	Up
+map04919 Thyroid hormone signaling pathway	P42225	K11220	2.451567944250871	Up
+map04919 Thyroid hormone signaling pathway	Q8CIH5	K05859	1.6081580148553882	Up
+map04919 Thyroid hormone signaling pathway	Q91Z83	K17751	3.9583008032011366	Up
+map04933 AGE-RAGE signaling pathway in diabetic complications	P13597	K06490	1.6043238688543215	Up
+map04933 AGE-RAGE signaling pathway in diabetic complications	P42225	K11220	2.451567944250871	Up
+map04933 AGE-RAGE signaling pathway in diabetic complications	Q8CIH5	K05859	1.6081580148553882	Up
+map04940 Type I diabetes mellitus	P01899	K06751	1.681877356796552	Up
+map04940 Type I diabetes mellitus	P01901	K06751	1.5778688524590163	Up
+map05144 Malaria	P13597	K06490	1.6043238688543215	Up
+map05144 Malaria	Q9Z1T2	K04659	4.463064212626088	Up
+map05160 Hepatitis C	P42225	K11220	2.451567944250871	Up
+map05160 Hepatitis C	Q03963	K16195	2.4143854344259656	Up
+map05160 Hepatitis C	Q64282	K14217	6.980301029838923	Up
+map05163 Human cytomegalovirus infection	P01899	K06751	1.681877356796552	Up
+map05163 Human cytomegalovirus infection	P01901	K06751	1.5778688524590163	Up
+map05163 Human cytomegalovirus infection	P21958	K05653	3.100587479733002	Up
+map05163 Human cytomegalovirus infection	P36371	K05654	2.8227098715498005	Up
+map05163 Human cytomegalovirus infection	Q9R233	K08058	2.069517111244532	Up
+map05164 Influenza A	P13597	K06490	1.6043238688543215	Up
+map05164 Influenza A	P42225	K11220	2.451567944250871	Up
+map05164 Influenza A	Q03963	K16195	2.4143854344259656	Up
+map05164 Influenza A	Q60953	K10054	1.5860178204249484	Up
+map05165 Human papillomavirus infection	O70309	K06588	1.833067711922812	Up
+map05165 Human papillomavirus infection	P01899	K06751	1.681877356796552	Up
+map05165 Human papillomavirus infection	P01901	K06751	1.5778688524590163	Up
+map05165 Human papillomavirus infection	P42225	K11220	2.451567944250871	Up
+map05165 Human papillomavirus infection	Q03963	K16195	2.4143854344259656	Up
+map05165 Human papillomavirus infection	Q64339	K12159	1.5032808124712669	Up
+map05165 Human papillomavirus infection	Q8BVE3	K02144	1.5011088832178878	Up
+map05165 Human papillomavirus infection	Q9Z1T2	K04659	4.463064212626088	Up
+map05167 Kaposi sarcoma-associated herpesvirus infection	P01899	K06751	1.681877356796552	Up
+map05167 Kaposi sarcoma-associated herpesvirus infection	P01901	K06751	1.5778688524590163	Up
+map05167 Kaposi sarcoma-associated herpesvirus infection	P13597	K06490	1.6043238688543215	Up
+map05167 Kaposi sarcoma-associated herpesvirus infection	P42225	K11220	2.451567944250871	Up
+map05167 Kaposi sarcoma-associated herpesvirus infection	Q03963	K16195	2.4143854344259656	Up
+map05167 Kaposi sarcoma-associated herpesvirus infection	Q8CIH5	K05859	1.6081580148553882	Up
+map05168 Herpes simplex virus 1 infection	P01899	K06751	1.681877356796552	Up
+map05168 Herpes simplex virus 1 infection	P01901	K06751	1.5778688524590163	Up
+map05168 Herpes simplex virus 1 infection	P21958	K05653	3.100587479733002	Up
+map05168 Herpes simplex virus 1 infection	P36371	K05654	2.8227098715498005	Up
+map05168 Herpes simplex virus 1 infection	P42225	K11220	2.451567944250871	Up
+map05168 Herpes simplex virus 1 infection	Q03963	K16195	2.4143854344259656	Up
+map05168 Herpes simplex virus 1 infection	Q60953	K10054	1.5860178204249484	Up
+map05168 Herpes simplex virus 1 infection	Q8R2Q8	K06731	2.0550855167394477	Up
+map05168 Herpes simplex virus 1 infection	Q9R233	K08058	2.069517111244532	Up
+map05169 Epstein-Barr virus infection	P01899	K06751	1.681877356796552	Up
+map05169 Epstein-Barr virus infection	P01901	K06751	1.5778688524590163	Up
+map05169 Epstein-Barr virus infection	P13597	K06490	1.6043238688543215	Up
+map05169 Epstein-Barr virus infection	P21958	K05653	3.100587479733002	Up
+map05169 Epstein-Barr virus infection	P36371	K05654	2.8227098715498005	Up
+map05169 Epstein-Barr virus infection	P42225	K11220	2.451567944250871	Up
+map05169 Epstein-Barr virus infection	Q03963	K16195	2.4143854344259656	Up
+map05169 Epstein-Barr virus infection	Q64339	K12159	1.5032808124712669	Up
+map05169 Epstein-Barr virus infection	Q8CIH5	K05859	1.6081580148553882	Up
+map05169 Epstein-Barr virus infection	Q9R233	K08058	2.069517111244532	Up
+map05170 Human imapnodeficiency virus 1 infection	P01899	K06751	1.681877356796552	Up
+map05170 Human imapnodeficiency virus 1 infection	P01901	K06751	1.5778688524590163	Up
+map05170 Human imapnodeficiency virus 1 infection	P21958	K05653	3.100587479733002	Up
+map05170 Human imapnodeficiency virus 1 infection	P36371	K05654	2.8227098715498005	Up
+map05170 Human imapnodeficiency virus 1 infection	Q8CIH5	K05859	1.6081580148553882	Up
+map05170 Human imapnodeficiency virus 1 infection	Q8R2Q8	K06731	2.0550855167394477	Up
+map05170 Human imapnodeficiency virus 1 infection	Q9R233	K08058	2.069517111244532	Up
+map05171 Coronavirus disease - COVID-19	P09470	K01283	1.5182464538798035	Up
+map05171 Coronavirus disease - COVID-19	P42225	K11220	2.451567944250871	Up
+map05171 Coronavirus disease - COVID-19	Q03963	K16195	2.4143854344259656	Up
+map05171 Coronavirus disease - COVID-19	Q64339	K12159	1.5032808124712669	Up
+map05171 Coronavirus disease - COVID-19	Q8CIH5	K05859	1.6081580148553882	Up
+map05320 Autoimapne thyroid disease	P01899	K06751	1.681877356796552	Up
+map05320 Autoimapne thyroid disease	P01901	K06751	1.5778688524590163	Up
+map05323 Rheumatoid arthritis	P13597	K06490	1.6043238688543215	Up
+map05323 Rheumatoid arthritis	Q8BVE3	K02144	1.5011088832178878	Up
+map05330 Allograft rejection	P01899	K06751	1.681877356796552	Up
+map05330 Allograft rejection	P01901	K06751	1.5778688524590163	Up
+map05332 Graft-versus-host disease	P01899	K06751	1.681877356796552	Up
+map05332 Graft-versus-host disease	P01901	K06751	1.5778688524590163	Up
+map05340 Primary imapnodeficiency	P21958	K05653	3.100587479733002	Up
+map05340 Primary imapnodeficiency	P36371	K05654	2.8227098715498005	Up
+map05410 Hypertrophic cardiomyopathy	O70309	K06588	1.833067711922812	Up
+map05410 Hypertrophic cardiomyopathy	P09470	K01283	1.5182464538798035	Up
+map05410 Hypertrophic cardiomyopathy	Q91Z83	K17751	3.9583008032011366	Up
+map05416 Viral myocarditis	P01899	K06751	1.681877356796552	Up
+map05416 Viral myocarditis	P01901	K06751	1.5778688524590163	Up
+map05416 Viral myocarditis	P13597	K06490	1.6043238688543215	Up
+map05416 Viral myocarditis	Q91Z83	K17751	3.9583008032011366	Up
+map03320 PPAR signaling pathway	P33622	K08759	0.5617716346654991	Down
+map03320 PPAR signaling pathway	P43883	K17284	0.6191252085285313	Down
+map03320 PPAR signaling pathway	Q8BVZ1	K20255	0.6464508529296279	Down
+map00220 Arginine biosynthesis	P16460	K01940	1.7156601257382358	Up
+map00220 Arginine biosynthesis	Q8QZR5	K00814	0.6310934184431608	Down
