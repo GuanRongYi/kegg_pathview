@@ -20,25 +20,25 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.markdown(
-    f"""
-        <style>
-            .main .block-container {{
-                max-width: 100%;
-            }}
-            iframe {{
-                left: 0;
-            }}
-            .block-container {{
-                padding-top: 1.2rem;
-                padding-bottom: 0rem;
-                padding-left: 5rem;
-                padding-right: 5rem;
-            }}
-        </style>
-    """,
-    unsafe_allow_html=True,
-)
+# st.markdown(
+#     f"""
+#         <style>
+#             .main .block-container {{
+#                 max-width: 100%;
+#             }}
+#             iframe {{
+#                 left: 0;
+#             }}
+#             .block-container {{
+#                 padding-top: 1.2rem;
+#                 padding-bottom: 0rem;
+#                 padding-left: 5rem;
+#                 padding-right: 5rem;
+#             }}
+#         </style>
+#     """,
+#     unsafe_allow_html=True,
+# )
 
 select_dataset = ''
 select_compare = ''
