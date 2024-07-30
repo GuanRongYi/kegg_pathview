@@ -7,38 +7,33 @@ st.set_page_config(page_title="KEGG Path View", page_icon=":dna:", layout="wide"
         'About': "About"
     })
 
-st.markdown(
-    """
-    <style>
-    .css-1jc7ptx, .e1ewe7hr3, .viewerBadge_container__1QSob,
-    .styles_viewerBadge__1yB5_, .viewerBadge_link__1S137,
-    .viewerBadge_text__1JaDK {
-        display: none;
-    }
-    </style>
-    """,
-    unsafe_allow_html=True
-)
+hide_github_icon = """
+        #MainMenu {
+          visibility: hidden;
+}
+"""
+st.markdown(hide_github_icon, unsafe_allow_html=True)
 
-# st.markdown(
-#     f"""
-#         <style>
-#             .main .block-container {{
-#                 max-width: 100%;
-#             }}
-#             iframe {{
-#                 left: 0;
-#             }}
-#             .block-container {{
-#                 padding-top: 1.2rem;
-#                 padding-bottom: 0rem;
-#                 padding-left: 5rem;
-#                 padding-right: 5rem;
-#             }}
-#         </style>
-#     """,
-#     unsafe_allow_html=True,
-# )
+
+st.markdown(
+    f"""
+        <style>
+            .main .block-container {{
+                max-width: 100%;
+            }}
+            iframe {{
+                left: 0;
+            }}
+            .block-container {{
+                padding-top: 1.2rem;
+                padding-bottom: 0rem;
+                padding-left: 5rem;
+                padding-right: 5rem;
+            }}
+        </style>
+    """,
+    unsafe_allow_html=True,
+)
 
 select_dataset = ''
 select_compare = ''
