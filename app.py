@@ -180,5 +180,9 @@ with cols[0]:
     kegg_map = open(os.path.join('7-Enrichment_pathway_image', select_dataset, select_compare, select_pathway+'.html'))
     components.html(kegg_map.read(), height=700, scrolling=True)   
 with cols[1]:
-    heatmap = os.path.join('7-Enrichment_pathway_image', select_dataset, select_compare, 'heatmap2', select_pathway.split(' ')[0].replace('map', 'mmu') + "_heatmap.png")
+    if select_dataset == 'LQ':
+        heatmap = os.path.join('7-Enrichment_pathway_image', select_dataset, select_compare, 'heatmap', select_pathway.split(' ')[0].replace('map', 'mmu') + "_heatmap.png")
+    else:
+        heatmap = os.path.join('7-Enrichment_pathway_image', select_dataset, select_compare, 'heatmap2', select_pathway.split(' ')[0].replace('map', 'mmu') + "_heatmap.png")
+    
     st.image(heatmap, caption="heatmap")
