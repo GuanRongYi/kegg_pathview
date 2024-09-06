@@ -1,0 +1,155 @@
+KEGG pathway	Protein accession	Position	Amino acid	KEGG KO No.	T2/S Ratio	Regulated Type
+map04260 Cardiac muscle contraction	Atp2a2	38	S	K05853	1.63048670529392	Up
+map04260 Cardiac muscle contraction	Myh6	1917	S	K17751	2.3131437874356298	Up
+map04260 Cardiac muscle contraction	Tnnc1	98	S	K05865	1.6189444676826998	Up
+map04260 Cardiac muscle contraction	Tpm3	88	S	K09290	1.6580815708716898	Up
+map04260 Cardiac muscle contraction	Myh6	1467	S	K17751	1.8721527345099598	Up
+map04260 Cardiac muscle contraction	Myh7	642	S	K17751	0.0984662303537705	Down
+map04260 Cardiac muscle contraction	Myh7	643	S	K17751	0.10022304221553	Down
+map04260 Cardiac muscle contraction	Myh7	948	S	K17751	0.10854136196964698	Down
+map04260 Cardiac muscle contraction	Myh7	1065	S	K17751	0.0949941950290506	Down
+map04260 Cardiac muscle contraction	Ryr2	1864	T	K04962	1.53923699642579	Up
+map04260 Cardiac muscle contraction	Myh6	70	T	K17751	0.655040279914815	Down
+map04260 Cardiac muscle contraction	Myh6	1854	Y	K17751	0.480343324863007	Down
+map04261 Adrenergic signaling in cardiomyocytes	Atp2a2	38	S	K05853	1.63048670529392	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1917	S	K17751	2.3131437874356298	Up
+map04261 Adrenergic signaling in cardiomyocytes	Tnnc1	98	S	K05865	1.6189444676826998	Up
+map04261 Adrenergic signaling in cardiomyocytes	Tpm3	88	S	K09290	1.6580815708716898	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1467	S	K17751	1.8721527345099598	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	642	S	K17751	0.0984662303537705	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	643	S	K17751	0.10022304221553	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	948	S	K17751	0.10854136196964698	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	1065	S	K17751	0.0949941950290506	Down
+map04261 Adrenergic signaling in cardiomyocytes	Scn5a	510	S	K04838	0.532123070596006	Down
+map04261 Adrenergic signaling in cardiomyocytes	Scn5a	483	S	K04838	2.83055685358794	Up
+map04261 Adrenergic signaling in cardiomyocytes	Scn5a	484	S	K04838	2.3046052630717595	Up
+map04261 Adrenergic signaling in cardiomyocytes	Ryr2	1864	T	K04962	1.53923699642579	Up
+map04261 Adrenergic signaling in cardiomyocytes	Camk2a	337	T	K04515	1.98189413195422	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	70	T	K17751	0.655040279914815	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1854	Y	K17751	0.480343324863007	Down
+map04964 Proximal tubule bicarbonate reclamation	Glud1	450	S	K00261	1.51906212070378	Up
+map04964 Proximal tubule bicarbonate reclamation	Aqp1	247	S	K09864	1.78803424105491	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	3676	S	K12567	2.47252106201621	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	10281	S	K12567	3.1692871362642903	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	2078	S	K12567	2.3924590881375	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	2092	S	K12567	2.08542484907797	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	1997	S	K12567	1.6478377968420401	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	2032	S	K12567	1.64483177130261	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	9144	S	K12567	0.576312744492295	Down
+map05410 Hypertrophic cardiomyopathy	Ttn	9201	S	K12567	1.6113003574473101	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	34334	S	K12567	1.53862764087751	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	34358	S	K12567	1.62325063787532	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	32140	S	K12567	0.617078728109343	Down
+map05410 Hypertrophic cardiomyopathy	Ttn	2896	S	K12567	1.51838356439127	Up
+map05410 Hypertrophic cardiomyopathy	Atp2a2	38	S	K05853	1.63048670529392	Up
+map05410 Hypertrophic cardiomyopathy	Mybpc3	826	S	K12568	2.1845761063799	Up
+map05410 Hypertrophic cardiomyopathy	Mybpc3	670	S	K12568	0.498627047393981	Down
+map05410 Hypertrophic cardiomyopathy	Dmd	1770	S	K10366	1.6995363827946899	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1917	S	K17751	2.3131437874356298	Up
+map05410 Hypertrophic cardiomyopathy	Tnnc1	98	S	K05865	1.6189444676826998	Up
+map05410 Hypertrophic cardiomyopathy	Tpm3	88	S	K09290	1.6580815708716898	Up
+map05410 Hypertrophic cardiomyopathy	Sgcd	15	S	K12563	1.6325851592518703	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1467	S	K17751	1.8721527345099598	Up
+map05410 Hypertrophic cardiomyopathy	Myh7	642	S	K17751	0.0984662303537705	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	643	S	K17751	0.10022304221553	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	948	S	K17751	0.10854136196964698	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	1065	S	K17751	0.0949941950290506	Down
+map05410 Hypertrophic cardiomyopathy	Ttn	21986	T	K12567	0.630904924210589	Down
+map05410 Hypertrophic cardiomyopathy	Ttn	3808	T	K12567	2.06740533574054	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	34360	T	K12567	1.63575091561995	Up
+map05410 Hypertrophic cardiomyopathy	Ryr2	1864	T	K04962	1.53923699642579	Up
+map05410 Hypertrophic cardiomyopathy	Mybpc3	603	T	K12568	2.87895046960733	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	70	T	K17751	0.655040279914815	Down
+map05410 Hypertrophic cardiomyopathy	Ttn	33867	Y	K12567	0.171165854448165	Down
+map05410 Hypertrophic cardiomyopathy	Myh6	1854	Y	K17751	0.480343324863007	Down
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Dsp	1720	S	K10381	2.1456807942409797	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Dsp	923	S	K10381	2.5729700354396603	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Atp2a2	38	S	K05853	1.63048670529392	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Dmd	1770	S	K10366	1.6995363827946899	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Cdh2	788	S	K06736	0.3266056684168	Down
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Sgcd	15	S	K12563	1.6325851592518703	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Actn2	147	S	K21073	1.61348657259132	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Actn2	152	S	K21073	2.10468128825749	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Pkp2	135	S	K12642	0.450960956128499	Down
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Pkp2	784	S	K12642	1.8627367384663303	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Pkp2	82	S	K12642	0.662911268763322	Down
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Actn2	369	S	K21073	2.54913014495077	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Ryr2	1864	T	K04962	1.53923699642579	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Actn2	825	T	K21073	1.72583103433752	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Gja1	247	Y	K07372	0.631591175508166	Down
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Pkp2	573	Y	K12642	0.48729914454890794	Down
+map05414 Dilated cardiomyopathy	Ttn	3676	S	K12567	2.47252106201621	Up
+map05414 Dilated cardiomyopathy	Ttn	10281	S	K12567	3.1692871362642903	Up
+map05414 Dilated cardiomyopathy	Ttn	2078	S	K12567	2.3924590881375	Up
+map05414 Dilated cardiomyopathy	Ttn	2092	S	K12567	2.08542484907797	Up
+map05414 Dilated cardiomyopathy	Ttn	1997	S	K12567	1.6478377968420401	Up
+map05414 Dilated cardiomyopathy	Ttn	2032	S	K12567	1.64483177130261	Up
+map05414 Dilated cardiomyopathy	Ttn	9144	S	K12567	0.576312744492295	Down
+map05414 Dilated cardiomyopathy	Ttn	9201	S	K12567	1.6113003574473101	Up
+map05414 Dilated cardiomyopathy	Ttn	34334	S	K12567	1.53862764087751	Up
+map05414 Dilated cardiomyopathy	Ttn	34358	S	K12567	1.62325063787532	Up
+map05414 Dilated cardiomyopathy	Ttn	32140	S	K12567	0.617078728109343	Down
+map05414 Dilated cardiomyopathy	Ttn	2896	S	K12567	1.51838356439127	Up
+map05414 Dilated cardiomyopathy	Atp2a2	38	S	K05853	1.63048670529392	Up
+map05414 Dilated cardiomyopathy	Mybpc3	826	S	K12568	2.1845761063799	Up
+map05414 Dilated cardiomyopathy	Mybpc3	670	S	K12568	0.498627047393981	Down
+map05414 Dilated cardiomyopathy	Dmd	1770	S	K10366	1.6995363827946899	Up
+map05414 Dilated cardiomyopathy	Myh6	1917	S	K17751	2.3131437874356298	Up
+map05414 Dilated cardiomyopathy	Tnnc1	98	S	K05865	1.6189444676826998	Up
+map05414 Dilated cardiomyopathy	Tpm3	88	S	K09290	1.6580815708716898	Up
+map05414 Dilated cardiomyopathy	Sgcd	15	S	K12563	1.6325851592518703	Up
+map05414 Dilated cardiomyopathy	Myh6	1467	S	K17751	1.8721527345099598	Up
+map05414 Dilated cardiomyopathy	Myh7	642	S	K17751	0.0984662303537705	Down
+map05414 Dilated cardiomyopathy	Myh7	643	S	K17751	0.10022304221553	Down
+map05414 Dilated cardiomyopathy	Myh7	948	S	K17751	0.10854136196964698	Down
+map05414 Dilated cardiomyopathy	Myh7	1065	S	K17751	0.0949941950290506	Down
+map05414 Dilated cardiomyopathy	Ttn	21986	T	K12567	0.630904924210589	Down
+map05414 Dilated cardiomyopathy	Ttn	3808	T	K12567	2.06740533574054	Up
+map05414 Dilated cardiomyopathy	Ttn	34360	T	K12567	1.63575091561995	Up
+map05414 Dilated cardiomyopathy	Ryr2	1864	T	K04962	1.53923699642579	Up
+map05414 Dilated cardiomyopathy	Mybpc3	603	T	K12568	2.87895046960733	Up
+map05414 Dilated cardiomyopathy	Myh6	70	T	K17751	0.655040279914815	Down
+map05414 Dilated cardiomyopathy	Ttn	33867	Y	K12567	0.171165854448165	Down
+map05414 Dilated cardiomyopathy	Myh6	1854	Y	K17751	0.480343324863007	Down
+map05415 Diabetic cardiomyopathy	Atp2a2	38	S	K05853	1.63048670529392	Up
+map05415 Diabetic cardiomyopathy	Pdha1	293	S	K00161	0.38764408832979097	Down
+map05415 Diabetic cardiomyopathy	Pdha1	300	S	K00161	0.535561513670333	Down
+map05415 Diabetic cardiomyopathy	Ndufv3	101	S	K03944	1.5432241157754099	Up
+map05415 Diabetic cardiomyopathy	Tbc1d4	680	S	K17902	1.9728358720436299	Up
+map05415 Diabetic cardiomyopathy	Tbc1d4	794	S	K17902	1.56528090948605	Up
+map05415 Diabetic cardiomyopathy	Ndufs8	108	S	K03941	1.83625635023337	Up
+map05415 Diabetic cardiomyopathy	Ndufb7	73	S	K03963	1.75397657478543	Up
+map05415 Diabetic cardiomyopathy	Ryr2	1864	T	K04962	1.53923699642579	Up
+map05415 Diabetic cardiomyopathy	Camk2a	337	T	K04515	1.98189413195422	Up
+map05415 Diabetic cardiomyopathy	Ndufs1	611	T	K03934	1.65063887310821	Up
+map05416 Viral myocarditis	Dmd	1770	S	K10366	1.6995363827946899	Up
+map05416 Viral myocarditis	Myh6	1917	S	K17751	2.3131437874356298	Up
+map05416 Viral myocarditis	Sgcd	15	S	K12563	1.6325851592518703	Up
+map05416 Viral myocarditis	Myh6	1467	S	K17751	1.8721527345099598	Up
+map05416 Viral myocarditis	Myh7	642	S	K17751	0.0984662303537705	Down
+map05416 Viral myocarditis	Myh7	643	S	K17751	0.10022304221553	Down
+map05416 Viral myocarditis	Myh7	948	S	K17751	0.10854136196964698	Down
+map05416 Viral myocarditis	Myh7	1065	S	K17751	0.0949941950290506	Down
+map05416 Viral myocarditis	Myh6	70	T	K17751	0.655040279914815	Down
+map05416 Viral myocarditis	Myh6	1854	Y	K17751	0.480343324863007	Down
+map00020 Citrate cycle (TCA cycle)	Pdha1	293	S	K00161	0.38764408832979097	Down
+map00020 Citrate cycle (TCA cycle)	Pdha1	300	S	K00161	0.535561513670333	Down
+map00020 Citrate cycle (TCA cycle)	Idh3g	176	S	K00030	0.536964958923438	Down
+map00020 Citrate cycle (TCA cycle)	Fh	363	S	K01679	0.662711549912308	Down
+map00620 Pyruvate metabolism	Pdha1	293	S	K00161	0.38764408832979097	Down
+map00620 Pyruvate metabolism	Pdha1	300	S	K00161	0.535561513670333	Down
+map00620 Pyruvate metabolism	Pkm	37	S	K00873	2.226610028958	Up
+map00620 Pyruvate metabolism	Fh	363	S	K01679	0.662711549912308	Down
+map04540 Gap junction	Itpr1	1588	S	K04958	0.516706440936855	Down
+map04540 Gap junction	Tjp1	275	S	K05701	0.591214201298588	Down
+map04540 Gap junction	Prkg1	517	T	K07376	0.577019059510985	Down
+map04540 Gap junction	Tjp1	868	T	K05701	0.544364618120104	Down
+map04540 Gap junction	Gja1	247	Y	K07372	0.631591175508166	Down
+map04020 Calcium signaling pathway	Atp2a2	38	S	K05853	1.63048670529392	Up
+map04020 Calcium signaling pathway	Itpr1	1588	S	K04958	0.516706440936855	Down
+map04020 Calcium signaling pathway	Phka1	973	S	K07190	0.42773450842234095	Down
+map04020 Calcium signaling pathway	Tnnc1	98	S	K05865	1.6189444676826998	Up
+map04020 Calcium signaling pathway	Mylk3	320	S	K00907	2.06839903713403	Up
+map04020 Calcium signaling pathway	Plcd1	460	S	K05857	0.52375458332016	Down
+map04020 Calcium signaling pathway	Ryr2	1864	T	K04962	1.53923699642579	Up
+map04020 Calcium signaling pathway	Camk2a	337	T	K04515	1.98189413195422	Up

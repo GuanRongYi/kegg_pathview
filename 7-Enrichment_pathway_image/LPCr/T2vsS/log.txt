@@ -1,0 +1,3 @@
+[2024-07-18 16:25:39,604] - [INFO] - Command line: [/home/publicMode/8082module_20231211/kegg_image/kegg_split_01.py -i quant -a LPCr_7-Enrichment_pathway_image/T2vsS/all_map_info.txt -t map -o LPCr_7-Enrichment_pathway_image/T2vsS]
+[2024-07-18 16:25:39,604] - [INFO] - Namespace(CV=0.1, Pvalue=0.05, Ratio=1.5, ann='LPCr_7-Enrichment_pathway_image/T2vsS/all_map_info.txt', ftype='map', group='all', mlist=None, outdir='LPCr_7-Enrichment_pathway_image/T2vsS', rtype=None, ttype='quant', verbose=False)
+[2024-07-18 16:25:41,507] - [INFO] - Use map file and quant type

@@ -135,7 +135,7 @@ select_dataset = ''
 select_compare = ''
 select_pathway = ''
 data_set = os.listdir('./7-Enrichment_pathway_image')
-compare_group = ["T4vsT2", "T8vsT2", "T8vsT4"]
+compare_group = ["T2vsS", "T4vsS", "T8vsS"]
 pathway = []
 
 with st.sidebar:
@@ -174,6 +174,11 @@ st.markdown(
     f'<h3>Dataset: {select_dataset} --- Compare group: {select_compare} --- Pathway: {select_pathway}</h3>',
     unsafe_allow_html=True,
 )
-kegg_map = open(os.path.join('7-Enrichment_pathway_image', select_dataset, select_compare, select_pathway+'.html'))
-components.html(kegg_map.read(), height=1000, scrolling=True)   
 
+cols = st.columns([4, 3])
+with cols[0]:
+    kegg_map = open(os.path.join('7-Enrichment_pathway_image', select_dataset, select_compare, select_pathway+'.html'))
+    components.html(kegg_map.read(), height=700, scrolling=True)   
+with cols[1]:
+    heatmap = os.path.join('7-Enrichment_pathway_image', select_dataset, select_compare, 'heatmap2', select_pathway.split(' ')[0].replace('map', 'mmu') + "_heatmap.png")
+    st.image(heatmap, caption="heatmap")

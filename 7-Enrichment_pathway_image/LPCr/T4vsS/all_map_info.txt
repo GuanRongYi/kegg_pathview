@@ -1,0 +1,2283 @@
+KEGG pathway	Protein accession	Position	Amino acid	KEGG KO No.	T4/S Ratio	Regulated Type
+map00010 Glycolysis / Gluconeogenesis	Dld	440	K	K00382	1.64613394258804	Up
+map00010 Glycolysis / Gluconeogenesis	Dld	166	K	K00382	1.86391370939003	Up
+map00010 Glycolysis / Gluconeogenesis	Dld	127	K	K00382	1.6261461337616399	Up
+map00010 Glycolysis / Gluconeogenesis	Dld	410	K	K00382	1.56843297895976	Up
+map00010 Glycolysis / Gluconeogenesis	Pgam2	106	K	K01834	2.26896771958917	Up
+map00010 Glycolysis / Gluconeogenesis	Pgam2	251	K	K01834	1.7180097301091999	Up
+map00010 Glycolysis / Gluconeogenesis	Pgam2	100	K	K01834	1.7009238418226298	Up
+map00010 Glycolysis / Gluconeogenesis	Aldoa	330	K	K01623	1.6795338248899299	Up
+map00010 Glycolysis / Gluconeogenesis	Aldoa	99	K	K01623	2.01438003366015	Up
+map00010 Glycolysis / Gluconeogenesis	Aldoa	322	K	K01623	2.05877442896995	Up
+map00010 Glycolysis / Gluconeogenesis	Ldha	228	K	K00016	1.6313154544041597	Up
+map00010 Glycolysis / Gluconeogenesis	Ldha	81	K	K00016	1.6201302837804699	Up
+map00010 Glycolysis / Gluconeogenesis	Gapdh	115	K	K00134	0.587305171798891	Down
+map00010 Glycolysis / Gluconeogenesis	Gapdh	225	K	K00134	1.7674147648968899	Up
+map00010 Glycolysis / Gluconeogenesis	Gapdh	261	K	K00134	1.55660848846255	Up
+map00010 Glycolysis / Gluconeogenesis	Gapdh	252	K	K00134	1.72103244849667	Up
+map00010 Glycolysis / Gluconeogenesis	Eno1	228	K	K01689	1.57157831340757	Up
+map00010 Glycolysis / Gluconeogenesis	Eno1	60	K	K01689	1.9339307069132399	Up
+map00010 Glycolysis / Gluconeogenesis	Hk1	232	K	K00844	1.74553203036533	Up
+map00010 Glycolysis / Gluconeogenesis	Hk1	936	K	K00844	1.87951063005007	Up
+map00010 Glycolysis / Gluconeogenesis	Hk1	371	K	K00844	1.5646978877459699	Up
+map00010 Glycolysis / Gluconeogenesis	Hk1	544	K	K00844	1.5654564089539298	Up
+map00010 Glycolysis / Gluconeogenesis	Hk1	794	K	K00844	2.4373142770314304	Up
+map00010 Glycolysis / Gluconeogenesis	Hk1	884	K	K00844	1.57689485985154	Up
+map00010 Glycolysis / Gluconeogenesis	Tpi1	188	K	K01803	1.8287053379823401	Up
+map00010 Glycolysis / Gluconeogenesis	Adh5	233	K	K00121	1.7270098805512601	Up
+map00010 Glycolysis / Gluconeogenesis	Pdha1	63	K	K00161	1.60482611694029	Up
+map00010 Glycolysis / Gluconeogenesis	Pdha1	18	K	K00161	1.96599899094471	Up
+map00010 Glycolysis / Gluconeogenesis	Aldh2	377	K	K00128	1.62771096524708	Up
+map00010 Glycolysis / Gluconeogenesis	Pfkm	744	K	K00850	1.75034094454573	Up
+map00010 Glycolysis / Gluconeogenesis	Pkm	336	K	K00873	1.76734261147919	Up
+map00010 Glycolysis / Gluconeogenesis	Pkm	270	K	K00873	1.5694345655952298	Up
+map00010 Glycolysis / Gluconeogenesis	Dlat	461	K	K00627	1.64001876532611	Up
+map00010 Glycolysis / Gluconeogenesis	Pgm1	349	K	K01835	1.8681601857031	Up
+map00010 Glycolysis / Gluconeogenesis	Pgm1	440	K	K01835	1.8622021773975501	Up
+map00020 Citrate cycle (TCA cycle)	Dld	440	K	K00382	1.64613394258804	Up
+map00020 Citrate cycle (TCA cycle)	Dld	166	K	K00382	1.86391370939003	Up
+map00020 Citrate cycle (TCA cycle)	Dld	127	K	K00382	1.6261461337616399	Up
+map00020 Citrate cycle (TCA cycle)	Dld	410	K	K00382	1.56843297895976	Up
+map00020 Citrate cycle (TCA cycle)	Mdh2	301	K	K00026	1.53626269185554	Up
+map00020 Citrate cycle (TCA cycle)	Mdh2	239	K	K00026	1.5796420693718	Up
+map00020 Citrate cycle (TCA cycle)	Mdh2	324	K	K00026	1.64045311252946	Up
+map00020 Citrate cycle (TCA cycle)	Mdh1	164	K	K00025	1.5948865264489198	Up
+map00020 Citrate cycle (TCA cycle)	Mdh1	118	K	K00025	1.6428612236981601	Up
+map00020 Citrate cycle (TCA cycle)	Mdh1	236	K	K00025	1.5751000173995102	Up
+map00020 Citrate cycle (TCA cycle)	Pdha1	63	K	K00161	1.60482611694029	Up
+map00020 Citrate cycle (TCA cycle)	Pdha1	18	K	K00161	1.96599899094471	Up
+map00020 Citrate cycle (TCA cycle)	Idh2	67	K	K00031	2.12011031132902	Up
+map00020 Citrate cycle (TCA cycle)	Idh2	48	K	K00031	2.1535614641472898	Up
+map00020 Citrate cycle (TCA cycle)	Fh	119	K	K01679	1.95327375008511	Up
+map00020 Citrate cycle (TCA cycle)	Fh	220	K	K01679	1.5784816376003603	Up
+map00020 Citrate cycle (TCA cycle)	Fh	63	K	K01679	1.6023076289174598	Up
+map00020 Citrate cycle (TCA cycle)	Ogdh	577	K	K00164	2.0684887130125	Up
+map00020 Citrate cycle (TCA cycle)	Ogdh	276	K	K00164	1.72819271217448	Up
+map00020 Citrate cycle (TCA cycle)	Ogdh	389	K	K00164	1.73611225388947	Up
+map00020 Citrate cycle (TCA cycle)	Ogdh	897	K	K00164	1.5044912185160602	Up
+map00020 Citrate cycle (TCA cycle)	Dlat	461	K	K00627	1.64001876532611	Up
+map00020 Citrate cycle (TCA cycle)	Sdha	485	K	K00234	1.61151162942494	Up
+map00020 Citrate cycle (TCA cycle)	Sdha	179	K	K00234	1.65734010733135	Up
+map00020 Citrate cycle (TCA cycle)	Sdha	608	K	K00234	1.54810900457415	Up
+map00020 Citrate cycle (TCA cycle)	Aco2	31	K	K01681	1.51390851458174	Up
+map00020 Citrate cycle (TCA cycle)	Aco2	605	K	K01681	0.583268970286544	Down
+map00020 Citrate cycle (TCA cycle)	Aco2	591	K	K01681	1.52974330061213	Up
+map00020 Citrate cycle (TCA cycle)	Sdhb	125	K	K00235	1.67603311320959	Up
+map00020 Citrate cycle (TCA cycle)	Cs	450	K	K01647	1.51197174813921	Up
+map00020 Citrate cycle (TCA cycle)	Idh3a	177	K	K00030	1.79305097398424	Up
+map00020 Citrate cycle (TCA cycle)	Suclg2	272	K	K01900	1.7149439033398	Up
+map00020 Citrate cycle (TCA cycle)	Sucla2	143	K	K01900	1.75260970817471	Up
+map00020 Citrate cycle (TCA cycle)	Sucla2	215	K	K01900	1.8759610359421799	Up
+map00020 Citrate cycle (TCA cycle)	Sucla2	88	K	K01900	4.530727898246731	Up
+map00020 Citrate cycle (TCA cycle)	Sucla2	108	K	K01900	1.67431062340682	Up
+map00071 Fatty acid degradation	Adh5	233	K	K00121	1.7270098805512601	Up
+map00071 Fatty acid degradation	Acsl1	678	K	K01897	1.5602885090202099	Up
+map00071 Fatty acid degradation	Aldh2	377	K	K00128	1.62771096524708	Up
+map00071 Fatty acid degradation	Acadvl	493	K	K09479	0.48967773413980203	Down
+map00071 Fatty acid degradation	Acadl	250	K	K00255	1.70709633596367	Up
+map00071 Fatty acid degradation	Acadl	42	K	K00255	1.7324842191716698	Up
+map00071 Fatty acid degradation	Cpt2	85	K	K08766	1.58020451352716	Up
+map00071 Fatty acid degradation	Cpt2	62	K	K08766	1.9373045642712399	Up
+map00071 Fatty acid degradation	Cpt2	510	K	K08766	1.5980416293808202	Up
+map00071 Fatty acid degradation	Cpt2	495	K	K08766	1.54880789465359	Up
+map00071 Fatty acid degradation	Acads	335	K	K00248	1.57979505610461	Up
+map00071 Fatty acid degradation	Hadh	241	K	K00022	2.1042243916219197	Up
+map00071 Fatty acid degradation	Hadh	75	K	K00022	1.76792867091102	Up
+map00071 Fatty acid degradation	Hadh	127	K	K00022	1.56319945639345	Up
+map00071 Fatty acid degradation	Echs1	43	K	K07511	1.5966759613069799	Up
+map00071 Fatty acid degradation	Echs1	204	K	K07511	1.6893409116971299	Up
+map00071 Fatty acid degradation	Hadha	664	K	K07515	2.16893181883664	Up
+map00071 Fatty acid degradation	Hadha	353	K	K07515	1.52887126547315	Up
+map00071 Fatty acid degradation	Acaa2	137	K	K07508	0.6482015210291221	Down
+map00071 Fatty acid degradation	Cpt1b	639	K	K19523	1.76457136949754	Up
+map00071 Fatty acid degradation	Hadhb	409	K	K07509	1.50674895579114	Up
+map00071 Fatty acid degradation	Hadhb	189	K	K07509	1.5802462936499	Up
+map00071 Fatty acid degradation	Eci2	301	K	K13239	1.50648990195673	Up
+map00190 Oxidative phosphorylation	Mtnd4	418	K	K03881	1.6873726143028798	Up
+map00190 Oxidative phosphorylation	Mtnd5	434	K	K03883	1.5079342245266203	Up
+map00190 Oxidative phosphorylation	Mtatp8	48	K	K02125	1.9656874157437398	Up
+map00190 Oxidative phosphorylation	Cox5b	67	K	K02265	2.7311105756549	Up
+map00190 Oxidative phosphorylation	Cox4i1	78	K	K02263	1.84807808509148	Up
+map00190 Oxidative phosphorylation	Cox4i1	67	K	K02263	2.14496455078531	Up
+map00190 Oxidative phosphorylation	Cox4i1	164	K	K02263	1.53558857334508	Up
+map00190 Oxidative phosphorylation	Cox4i1	168	K	K02263	1.67580418854774	Up
+map00190 Oxidative phosphorylation	Atp5f1e	37	K	K02135	1.69033382913488	Up
+map00190 Oxidative phosphorylation	Atp5f1e	32	K	K02135	1.62529271912707	Up
+map00190 Oxidative phosphorylation	Cox6b1	47	K	K02267	1.55048673101625	Up
+map00190 Oxidative phosphorylation	Cox6b1	62	K	K02267	0.422580922999257	Down
+map00190 Oxidative phosphorylation	Atp5f1b	485	K	K02133	1.78065910909891	Up
+map00190 Oxidative phosphorylation	Atp5f1b	124	K	K02133	1.6269824854085901	Up
+map00190 Oxidative phosphorylation	Atp5f1b	198	K	K02133	1.51033286748063	Up
+map00190 Oxidative phosphorylation	Uqcrh	40	K	K00416	1.50089754890731	Up
+map00190 Oxidative phosphorylation	Atp5f1a	498	K	K02132	1.6649577222459	Up
+map00190 Oxidative phosphorylation	Atp5f1a	539	K	K02132	1.69667239325562	Up
+map00190 Oxidative phosphorylation	Atp5f1a	230	K	K02132	2.08314728535247	Up
+map00190 Oxidative phosphorylation	Atp5f1a	531	K	K02132	1.5251367662891298	Up
+map00190 Oxidative phosphorylation	Atp5f1a	261	K	K02132	1.59734598211302	Up
+map00190 Oxidative phosphorylation	Cox7a2l	75	K	K02270	1.5406106392684498	Up
+map00190 Oxidative phosphorylation	Ndufa12	107	K	K11352	1.54556279503238	Up
+map00190 Oxidative phosphorylation	Sdha	485	K	K00234	1.61151162942494	Up
+map00190 Oxidative phosphorylation	Sdha	179	K	K00234	1.65734010733135	Up
+map00190 Oxidative phosphorylation	Sdha	608	K	K00234	1.54810900457415	Up
+map00190 Oxidative phosphorylation	Ndufs8	51	K	K03941	2.1326563077333303	Up
+map00190 Oxidative phosphorylation	Ndufs1	470	K	K03934	1.59704427536851	Up
+map00190 Oxidative phosphorylation	Ndufs1	467	K	K03934	1.5601601315586497	Up
+map00190 Oxidative phosphorylation	Ndufs1	420	K	K03934	1.84028338042619	Up
+map00190 Oxidative phosphorylation	Ppa2	68	K	K01507	1.82187754262001	Up
+map00190 Oxidative phosphorylation	Atp5f1c	136	K	K02136	1.893941053985	Up
+map00190 Oxidative phosphorylation	Atp5f1c	115	K	K02136	2.04242011988013	Up
+map00190 Oxidative phosphorylation	Atp5f1c	49	K	K02136	1.64635406974387	Up
+map00190 Oxidative phosphorylation	Atp5f1c	262	K	K02136	2.38919033337999	Up
+map00190 Oxidative phosphorylation	Atp5f1c	270	K	K02136	1.90457019175429	Up
+map00190 Oxidative phosphorylation	Atp5f1c	79	K	K02136	1.91046268573178	Up
+map00190 Oxidative phosphorylation	Ndufv1	365	K	K03942	1.6604357139333799	Up
+map00190 Oxidative phosphorylation	Ndufa10	242	K	K03954	1.52198313616891	Up
+map00190 Oxidative phosphorylation	Ndufa5	55	K	K03949	1.5722551071057	Up
+map00190 Oxidative phosphorylation	Cox6c	47	K	K02268	0.199078639470338	Down
+map00190 Oxidative phosphorylation	Atp5mg	24	K	K02140	1.81037684632821	Up
+map00190 Oxidative phosphorylation	Atp5mg	61	K	K02140	1.5072792878275298	Up
+map00190 Oxidative phosphorylation	Sdhb	125	K	K00235	1.67603311320959	Up
+map00190 Oxidative phosphorylation	Ndufb5	131	K	K03961	1.89155029338735	Up
+map00190 Oxidative phosphorylation	Ndufb9	55	K	K03965	1.6062934897247199	Up
+map00190 Oxidative phosphorylation	Atp5pb	162	K	K02127	1.68583267955346	Up
+map00190 Oxidative phosphorylation	Atp5pb	221	K	K02127	1.9721139227634499	Up
+map00190 Oxidative phosphorylation	Atp5pb	233	K	K02127	1.8276784693673798	Up
+map00190 Oxidative phosphorylation	Atp5pb	139	K	K02127	1.5002050258485002	Up
+map00190 Oxidative phosphorylation	Ndufb3	40	K	K03959	2.4190962342748397	Up
+map00190 Oxidative phosphorylation	Ndufab1	97	K	K03955	2.1717462008785002	Up
+map00190 Oxidative phosphorylation	Ndufs4	95	K	K03937	1.73918998613815	Up
+map00190 Oxidative phosphorylation	Uqcrc1	134	K	K00414	1.6397593168415001	Up
+map00190 Oxidative phosphorylation	Uqcrc1	102	K	K00414	1.5561498368483702	Up
+map00190 Oxidative phosphorylation	Uqcrb	45	K	K00417	1.69014166331896	Up
+map00190 Oxidative phosphorylation	Ndufa11	129	K	K03956	0.45187277770723405	Down
+map00190 Oxidative phosphorylation	Atp5po	60	K	K02137	1.8905238536114402	Up
+map00190 Oxidative phosphorylation	Uqcrc2	375	K	K00415	1.7044761119771998	Up
+map00190 Oxidative phosphorylation	Uqcrc2	162	K	K00415	1.88540496250501	Up
+map00190 Oxidative phosphorylation	Ndufa9	157	K	K03953	1.63726901571313	Up
+map00190 Oxidative phosphorylation	Ndufa9	237	K	K03953	1.66127028452299	Up
+map00190 Oxidative phosphorylation	Ndufs7	62	K	K03940	0.519698358338069	Down
+map00190 Oxidative phosphorylation	Ndufa8	159	K	K03952	1.5355252477991799	Up
+map00190 Oxidative phosphorylation	Ndufb10	134	K	K03966	1.67444800371129	Up
+map00190 Oxidative phosphorylation	Atp5pd	95	K	K02138	1.9720706595643798	Up
+map00190 Oxidative phosphorylation	Atp5pd	117	K	K02138	1.59163261020815	Up
+map00190 Oxidative phosphorylation	Ndufa7	80	K	K03951	2.0187831095419697	Up
+map00190 Oxidative phosphorylation	Ndufa7	102	K	K03951	1.7423701338309399	Up
+map00280 Valine, leucine and isoleucine degradation	Dld	440	K	K00382	1.64613394258804	Up
+map00280 Valine, leucine and isoleucine degradation	Dld	166	K	K00382	1.86391370939003	Up
+map00280 Valine, leucine and isoleucine degradation	Dld	127	K	K00382	1.6261461337616399	Up
+map00280 Valine, leucine and isoleucine degradation	Dld	410	K	K00382	1.56843297895976	Up
+map00280 Valine, leucine and isoleucine degradation	Hmgcl	34	K	K01640	1.8908399017251203	Up
+map00280 Valine, leucine and isoleucine degradation	Aldh2	377	K	K00128	1.62771096524708	Up
+map00280 Valine, leucine and isoleucine degradation	Dbt	202	K	K09699	1.7337200240017399	Up
+map00280 Valine, leucine and isoleucine degradation	Acads	335	K	K00248	1.57979505610461	Up
+map00280 Valine, leucine and isoleucine degradation	Hadh	241	K	K00022	2.1042243916219197	Up
+map00280 Valine, leucine and isoleucine degradation	Hadh	75	K	K00022	1.76792867091102	Up
+map00280 Valine, leucine and isoleucine degradation	Hadh	127	K	K00022	1.56319945639345	Up
+map00280 Valine, leucine and isoleucine degradation	Echs1	43	K	K07511	1.5966759613069799	Up
+map00280 Valine, leucine and isoleucine degradation	Echs1	204	K	K07511	1.6893409116971299	Up
+map00280 Valine, leucine and isoleucine degradation	Hadha	664	K	K07515	2.16893181883664	Up
+map00280 Valine, leucine and isoleucine degradation	Hadha	353	K	K07515	1.52887126547315	Up
+map00280 Valine, leucine and isoleucine degradation	Acaa2	137	K	K07508	0.6482015210291221	Down
+map00280 Valine, leucine and isoleucine degradation	Hibch	357	K	K05605	1.9381538759469599	Up
+map00280 Valine, leucine and isoleucine degradation	Hadhb	409	K	K07509	1.50674895579114	Up
+map00280 Valine, leucine and isoleucine degradation	Hadhb	189	K	K07509	1.5802462936499	Up
+map00280 Valine, leucine and isoleucine degradation	Hibadh	94	K	K00020	2.28430317289053	Up
+map00280 Valine, leucine and isoleucine degradation	Hibadh	78	K	K00020	1.5879153851235	Up
+map00280 Valine, leucine and isoleucine degradation	Oxct1	434	K	K01027	1.5767473392976499	Up
+map00280 Valine, leucine and isoleucine degradation	Oxct1	436	K	K01027	1.79042132270241	Up
+map00280 Valine, leucine and isoleucine degradation	Oxct1	473	K	K01027	1.64935188483379	Up
+map00280 Valine, leucine and isoleucine degradation	Mcee	152	K	K05606	1.98697860277618	Up
+map00280 Valine, leucine and isoleucine degradation	Auh	123	K	K05607	2.75067602115672	Up
+map00330 Arginine and proline metabolism	Got1	321	K	K14454	1.5240239978999999	Up
+map00330 Arginine and proline metabolism	Got1	325	K	K14454	2.2431059401213704	Up
+map00330 Arginine and proline metabolism	Got2	159	K	K14455	0.450524928358049	Down
+map00330 Arginine and proline metabolism	Got2	234	K	K14455	1.7251868785976598	Up
+map00330 Arginine and proline metabolism	Ckm	170	K	K00933	1.67492983677429	Up
+map00330 Arginine and proline metabolism	Ckm	107	K	K00933	1.50560614296444	Up
+map00330 Arginine and proline metabolism	Ckm	365	K	K00933	1.9812503410173499	Up
+map00330 Arginine and proline metabolism	Ckm	242	K	K00933	1.8009225466099599	Up
+map00330 Arginine and proline metabolism	Aldh2	377	K	K00128	1.62771096524708	Up
+map00330 Arginine and proline metabolism	Ckb	313	K	K00933	1.58611625546071	Up
+map00330 Arginine and proline metabolism	Ckmt2	292	K	K00933	2.01241803690311	Up
+map00330 Arginine and proline metabolism	Ckmt2	149	K	K00933	2.26559301683194	Up
+map00330 Arginine and proline metabolism	Ckmt2	335	K	K00933	0.150999337100377	Down
+map00330 Arginine and proline metabolism	Ckmt2	140	K	K00933	2.3035953374092	Up
+map00330 Arginine and proline metabolism	Maob	154	K	K00274	1.5824256999358501	Up
+map00330 Arginine and proline metabolism	Maob	159	K	K00274	1.78846195790631	Up
+map00330 Arginine and proline metabolism	Maob	93	K	K00274	1.7400088472035802	Up
+map00330 Arginine and proline metabolism	Aldh4a1	145	K	K00294	1.5739474592850602	Up
+map00330 Arginine and proline metabolism	Aldh4a1	346	K	K00294	1.64102650761581	Up
+map00360 Phenylalanine metabolism	Got1	321	K	K14454	1.5240239978999999	Up
+map00360 Phenylalanine metabolism	Got1	325	K	K14454	2.2431059401213704	Up
+map00360 Phenylalanine metabolism	Got2	159	K	K14455	0.450524928358049	Down
+map00360 Phenylalanine metabolism	Got2	234	K	K14455	1.7251868785976598	Up
+map00360 Phenylalanine metabolism	Maob	154	K	K00274	1.5824256999358501	Up
+map00360 Phenylalanine metabolism	Maob	159	K	K00274	1.78846195790631	Up
+map00360 Phenylalanine metabolism	Maob	93	K	K00274	1.7400088472035802	Up
+map00400 Phenylalanine, tyrosine and tryptophan biosynthesis	Got1	321	K	K14454	1.5240239978999999	Up
+map00400 Phenylalanine, tyrosine and tryptophan biosynthesis	Got1	325	K	K14454	2.2431059401213704	Up
+map00400 Phenylalanine, tyrosine and tryptophan biosynthesis	Got2	159	K	K14455	0.450524928358049	Down
+map00400 Phenylalanine, tyrosine and tryptophan biosynthesis	Got2	234	K	K14455	1.7251868785976598	Up
+map00500 Starch and sucrose metabolism	Hk1	232	K	K00844	1.74553203036533	Up
+map00500 Starch and sucrose metabolism	Hk1	936	K	K00844	1.87951063005007	Up
+map00500 Starch and sucrose metabolism	Hk1	371	K	K00844	1.5646978877459699	Up
+map00500 Starch and sucrose metabolism	Hk1	544	K	K00844	1.5654564089539298	Up
+map00500 Starch and sucrose metabolism	Hk1	794	K	K00844	2.4373142770314304	Up
+map00500 Starch and sucrose metabolism	Hk1	884	K	K00844	1.57689485985154	Up
+map00500 Starch and sucrose metabolism	Pygb	545	K	K00688	1.7396387368119999	Up
+map00500 Starch and sucrose metabolism	Pygb	438	K	K00688	2.0967810636993702	Up
+map00500 Starch and sucrose metabolism	Pygb	609	K	K00688	1.77405010925307	Up
+map00500 Starch and sucrose metabolism	Pygb	192	K	K00688	0.657247527742943	Down
+map00500 Starch and sucrose metabolism	Ugp2	52	K	K00963	1.5268928821445102	Up
+map00500 Starch and sucrose metabolism	Ugp2	177	K	K00963	1.6229612912103901	Up
+map00500 Starch and sucrose metabolism	Pgm1	349	K	K01835	1.8681601857031	Up
+map00500 Starch and sucrose metabolism	Pgm1	440	K	K01835	1.8622021773975501	Up
+map00500 Starch and sucrose metabolism	Pygl	618	K	K00688	0.5755988686364899	Down
+map00500 Starch and sucrose metabolism	Pygm	479	K	K00688	2.12895351110913	Up
+map00500 Starch and sucrose metabolism	Pygm	29	K	K00688	1.91695908068923	Up
+map00500 Starch and sucrose metabolism	Pygm	465	K	K00688	1.56791773927251	Up
+map00500 Starch and sucrose metabolism	Pygm	438	K	K00688	2.12545680044677	Up
+map00500 Starch and sucrose metabolism	Pygm	811	K	K00688	1.7786017769378	Up
+map00500 Starch and sucrose metabolism	Pygm	609	K	K00688	1.56949999276955	Up
+map00500 Starch and sucrose metabolism	Pygm	81	K	K00688	2.11291771112229	Up
+map00500 Starch and sucrose metabolism	Gys1	429	K	K00693	2.0474489745116298	Up
+map00620 Pyruvate metabolism	Dld	440	K	K00382	1.64613394258804	Up
+map00620 Pyruvate metabolism	Dld	166	K	K00382	1.86391370939003	Up
+map00620 Pyruvate metabolism	Dld	127	K	K00382	1.6261461337616399	Up
+map00620 Pyruvate metabolism	Dld	410	K	K00382	1.56843297895976	Up
+map00620 Pyruvate metabolism	Ldha	228	K	K00016	1.6313154544041597	Up
+map00620 Pyruvate metabolism	Ldha	81	K	K00016	1.6201302837804699	Up
+map00620 Pyruvate metabolism	Mdh2	301	K	K00026	1.53626269185554	Up
+map00620 Pyruvate metabolism	Mdh2	239	K	K00026	1.5796420693718	Up
+map00620 Pyruvate metabolism	Mdh2	324	K	K00026	1.64045311252946	Up
+map00620 Pyruvate metabolism	Mdh1	164	K	K00025	1.5948865264489198	Up
+map00620 Pyruvate metabolism	Mdh1	118	K	K00025	1.6428612236981601	Up
+map00620 Pyruvate metabolism	Mdh1	236	K	K00025	1.5751000173995102	Up
+map00620 Pyruvate metabolism	Adh5	233	K	K00121	1.7270098805512601	Up
+map00620 Pyruvate metabolism	Pdha1	63	K	K00161	1.60482611694029	Up
+map00620 Pyruvate metabolism	Pdha1	18	K	K00161	1.96599899094471	Up
+map00620 Pyruvate metabolism	Aldh2	377	K	K00128	1.62771096524708	Up
+map00620 Pyruvate metabolism	Pkm	336	K	K00873	1.76734261147919	Up
+map00620 Pyruvate metabolism	Pkm	270	K	K00873	1.5694345655952298	Up
+map00620 Pyruvate metabolism	Acyp2	52	K	K01512	1.6332614418875	Up
+map00620 Pyruvate metabolism	Acyp2	65	K	K01512	2.1564486547343003	Up
+map00620 Pyruvate metabolism	Fh	119	K	K01679	1.95327375008511	Up
+map00620 Pyruvate metabolism	Fh	220	K	K01679	1.5784816376003603	Up
+map00620 Pyruvate metabolism	Fh	63	K	K01679	1.6023076289174598	Up
+map00620 Pyruvate metabolism	Dlat	461	K	K00627	1.64001876532611	Up
+map00620 Pyruvate metabolism	Grhpr	8	K	K00049	1.50271935572835	Up
+map00620 Pyruvate metabolism	Grhpr	300	K	K00049	1.5635242180714	Up
+map00630 Glyoxylate and dicarboxylate metabolism	Dld	440	K	K00382	1.64613394258804	Up
+map00630 Glyoxylate and dicarboxylate metabolism	Dld	166	K	K00382	1.86391370939003	Up
+map00630 Glyoxylate and dicarboxylate metabolism	Dld	127	K	K00382	1.6261461337616399	Up
+map00630 Glyoxylate and dicarboxylate metabolism	Dld	410	K	K00382	1.56843297895976	Up
+map00630 Glyoxylate and dicarboxylate metabolism	Mdh2	301	K	K00026	1.53626269185554	Up
+map00630 Glyoxylate and dicarboxylate metabolism	Mdh2	239	K	K00026	1.5796420693718	Up
+map00630 Glyoxylate and dicarboxylate metabolism	Mdh2	324	K	K00026	1.64045311252946	Up
+map00630 Glyoxylate and dicarboxylate metabolism	Mdh1	164	K	K00025	1.5948865264489198	Up
+map00630 Glyoxylate and dicarboxylate metabolism	Mdh1	118	K	K00025	1.6428612236981601	Up
+map00630 Glyoxylate and dicarboxylate metabolism	Mdh1	236	K	K00025	1.5751000173995102	Up
+map00630 Glyoxylate and dicarboxylate metabolism	Cat	430	K	K03781	2.1028792248017902	Up
+map00630 Glyoxylate and dicarboxylate metabolism	Grhpr	8	K	K00049	1.50271935572835	Up
+map00630 Glyoxylate and dicarboxylate metabolism	Grhpr	300	K	K00049	1.5635242180714	Up
+map00630 Glyoxylate and dicarboxylate metabolism	Aco2	31	K	K01681	1.51390851458174	Up
+map00630 Glyoxylate and dicarboxylate metabolism	Aco2	605	K	K01681	0.583268970286544	Down
+map00630 Glyoxylate and dicarboxylate metabolism	Aco2	591	K	K01681	1.52974330061213	Up
+map00630 Glyoxylate and dicarboxylate metabolism	Cs	450	K	K01647	1.51197174813921	Up
+map00630 Glyoxylate and dicarboxylate metabolism	Mcee	152	K	K05606	1.98697860277618	Up
+map00640 Propanoate metabolism	Dld	440	K	K00382	1.64613394258804	Up
+map00640 Propanoate metabolism	Dld	166	K	K00382	1.86391370939003	Up
+map00640 Propanoate metabolism	Dld	127	K	K00382	1.6261461337616399	Up
+map00640 Propanoate metabolism	Dld	410	K	K00382	1.56843297895976	Up
+map00640 Propanoate metabolism	Ldha	228	K	K00016	1.6313154544041597	Up
+map00640 Propanoate metabolism	Ldha	81	K	K00016	1.6201302837804699	Up
+map00640 Propanoate metabolism	Dbt	202	K	K09699	1.7337200240017399	Up
+map00640 Propanoate metabolism	Acads	335	K	K00248	1.57979505610461	Up
+map00640 Propanoate metabolism	Echs1	43	K	K07511	1.5966759613069799	Up
+map00640 Propanoate metabolism	Echs1	204	K	K07511	1.6893409116971299	Up
+map00640 Propanoate metabolism	Hadha	664	K	K07515	2.16893181883664	Up
+map00640 Propanoate metabolism	Hadha	353	K	K07515	1.52887126547315	Up
+map00640 Propanoate metabolism	Hibch	357	K	K05605	1.9381538759469599	Up
+map00640 Propanoate metabolism	Mcee	152	K	K05606	1.98697860277618	Up
+map00640 Propanoate metabolism	Suclg2	272	K	K01900	1.7149439033398	Up
+map00640 Propanoate metabolism	Sucla2	143	K	K01900	1.75260970817471	Up
+map00640 Propanoate metabolism	Sucla2	215	K	K01900	1.8759610359421799	Up
+map00640 Propanoate metabolism	Sucla2	88	K	K01900	4.530727898246731	Up
+map00640 Propanoate metabolism	Sucla2	108	K	K01900	1.67431062340682	Up
+map00650 Butanoate metabolism	Hmgcl	34	K	K01640	1.8908399017251203	Up
+map00650 Butanoate metabolism	Acads	335	K	K00248	1.57979505610461	Up
+map00650 Butanoate metabolism	Hadh	241	K	K00022	2.1042243916219197	Up
+map00650 Butanoate metabolism	Hadh	75	K	K00022	1.76792867091102	Up
+map00650 Butanoate metabolism	Hadh	127	K	K00022	1.56319945639345	Up
+map00650 Butanoate metabolism	Echs1	43	K	K07511	1.5966759613069799	Up
+map00650 Butanoate metabolism	Echs1	204	K	K07511	1.6893409116971299	Up
+map00650 Butanoate metabolism	Hadha	664	K	K07515	2.16893181883664	Up
+map00650 Butanoate metabolism	Hadha	353	K	K07515	1.52887126547315	Up
+map00650 Butanoate metabolism	Oxct1	434	K	K01027	1.5767473392976499	Up
+map00650 Butanoate metabolism	Oxct1	436	K	K01027	1.79042132270241	Up
+map00650 Butanoate metabolism	Oxct1	473	K	K01027	1.64935188483379	Up
+map04146 Peroxisome	Sod1	137	K	K04565	1.87962328030822	Up
+map04146 Peroxisome	Sod1	123	K	K04565	1.84113192072691	Up
+map04146 Peroxisome	Sod2	122	K	K04564	1.7484832920059	Up
+map04146 Peroxisome	Sod2	68	K	K04564	1.8137288707161001	Up
+map04146 Peroxisome	Cat	430	K	K03781	2.1028792248017902	Up
+map04146 Peroxisome	Hmgcl	34	K	K01640	1.8908399017251203	Up
+map04146 Peroxisome	Acsl1	678	K	K01897	1.5602885090202099	Up
+map04146 Peroxisome	Hsd17b4	139	K	K12405	1.51815801714353	Up
+map04146 Peroxisome	Idh2	67	K	K00031	2.12011031132902	Up
+map04146 Peroxisome	Idh2	48	K	K00031	2.1535614641472898	Up
+map04146 Peroxisome	Gnpat	112	K	K00649	2.8354116976523196	Up
+map04146 Peroxisome	Prdx5	112	K	K11187	1.5963416635306298	Up
+map04146 Peroxisome	Dhrs4	106	K	K11147	1.56014878534637	Up
+map04146 Peroxisome	Gstk1	167	K	K13299	2.3521834847982404	Up
+map04146 Peroxisome	Eci2	301	K	K13239	1.50648990195673	Up
+map04260 Cardiac muscle contraction	Myh6	1772	K	K17751	1.76605188231996	Up
+map04260 Cardiac muscle contraction	Myh6	1758	K	K17751	1.9990835485150302	Up
+map04260 Cardiac muscle contraction	Myh6	1759	K	K17751	2.19797679890434	Up
+map04260 Cardiac muscle contraction	Ryr2	3340	K	K04962	1.84882154389882	Up
+map04260 Cardiac muscle contraction	Ryr2	2562	K	K04962	1.50189220824255	Up
+map04260 Cardiac muscle contraction	Ryr2	2730	K	K04962	1.89512521439859	Up
+map04260 Cardiac muscle contraction	Ryr2	2607	K	K04962	1.56230782307107	Up
+map04260 Cardiac muscle contraction	Ryr2	3075	K	K04962	1.79316259353854	Up
+map04260 Cardiac muscle contraction	Atp2a2	492	K	K05853	1.78518397875101	Up
+map04260 Cardiac muscle contraction	Atp2a2	502	K	K05853	1.7108745812453703	Up
+map04260 Cardiac muscle contraction	Atp2a2	205	K	K05853	1.5683221447477702	Up
+map04260 Cardiac muscle contraction	Myl3	50	K	K12749	1.8200733106540599	Up
+map04260 Cardiac muscle contraction	Myl3	52	K	K12749	1.5602892232832801	Up
+map04260 Cardiac muscle contraction	Myl3	134	K	K12749	2.49388880245127	Up
+map04260 Cardiac muscle contraction	Myh6	944	K	K17751	2.8179490358046095	Up
+map04260 Cardiac muscle contraction	Myh6	953	K	K17751	2.1762738941627298	Up
+map04260 Cardiac muscle contraction	Myh6	503	K	K17751	1.69744429019523	Up
+map04260 Cardiac muscle contraction	Myh6	1392	K	K17751	2.0272774892458	Up
+map04260 Cardiac muscle contraction	Myh6	1376	K	K17751	2.25687263717488	Up
+map04260 Cardiac muscle contraction	Atp1b1	134	K	K01540	1.52108670054856	Up
+map04260 Cardiac muscle contraction	Tnnc1	17	K	K05865	1.9546793641867	Up
+map04260 Cardiac muscle contraction	Tnnc1	106	K	K05865	1.92874915827763	Up
+map04260 Cardiac muscle contraction	Cox5b	67	K	K02265	2.7311105756549	Up
+map04260 Cardiac muscle contraction	Cox4i1	78	K	K02263	1.84807808509148	Up
+map04260 Cardiac muscle contraction	Cox4i1	67	K	K02263	2.14496455078531	Up
+map04260 Cardiac muscle contraction	Cox4i1	164	K	K02263	1.53558857334508	Up
+map04260 Cardiac muscle contraction	Cox4i1	168	K	K02263	1.67580418854774	Up
+map04260 Cardiac muscle contraction	Tpm3	153	K	K09290	2.29353134732412	Up
+map04260 Cardiac muscle contraction	Tpm1	59	K	K10373	2.2133055278542204	Up
+map04260 Cardiac muscle contraction	Tpm1	65	K	K10373	2.0917941278470598	Up
+map04260 Cardiac muscle contraction	Tpm1	51	K	K10373	1.65073789392728	Up
+map04260 Cardiac muscle contraction	Tnni3	51	K	K12044	1.65852854298567	Up
+map04260 Cardiac muscle contraction	Tnni3	118	K	K12044	1.7523170621818798	Up
+map04260 Cardiac muscle contraction	Tnni3	121	K	K12044	1.70055027818714	Up
+map04260 Cardiac muscle contraction	Tnnt2	137	K	K12045	1.93147517939159	Up
+map04260 Cardiac muscle contraction	Tnnt2	271	K	K12045	1.6135200797670501	Up
+map04260 Cardiac muscle contraction	Myl2	111	K	K10351	1.95775431769979	Up
+map04260 Cardiac muscle contraction	Cox6b1	47	K	K02267	1.55048673101625	Up
+map04260 Cardiac muscle contraction	Cox6b1	62	K	K02267	0.422580922999257	Down
+map04260 Cardiac muscle contraction	Tpm1	189	K	K10373	1.60888834803396	Up
+map04260 Cardiac muscle contraction	Tpm1	226	K	K10373	2.11579744433103	Up
+map04260 Cardiac muscle contraction	Tpm1	48	K	K10373	1.64071404451994	Up
+map04260 Cardiac muscle contraction	Tpm1	248	K	K10373	1.6643133698177002	Up
+map04260 Cardiac muscle contraction	Tpm1	205	K	K10373	2.04645019249106	Up
+map04260 Cardiac muscle contraction	Tpm1	217	K	K10373	1.8202117089108203	Up
+map04260 Cardiac muscle contraction	Uqcrh	40	K	K00416	1.50089754890731	Up
+map04260 Cardiac muscle contraction	Myh6	1577	K	K17751	1.6731181839751301	Up
+map04260 Cardiac muscle contraction	Myh6	1581	K	K17751	1.95768263623349	Up
+map04260 Cardiac muscle contraction	Myh6	1589	K	K17751	1.5733193496183	Up
+map04260 Cardiac muscle contraction	Myh6	1244	K	K17751	1.5883335311878797	Up
+map04260 Cardiac muscle contraction	Myh6	1281	K	K17751	2.0470723757417	Up
+map04260 Cardiac muscle contraction	Myh6	1328	K	K17751	1.5278842819248102	Up
+map04260 Cardiac muscle contraction	Myh6	1136	K	K17751	1.74533232837234	Up
+map04260 Cardiac muscle contraction	Myh6	1018	K	K17751	2.87897726343282	Up
+map04260 Cardiac muscle contraction	Myh6	914	K	K17751	1.8711193782485198	Up
+map04260 Cardiac muscle contraction	Myh6	867	K	K17751	2.27688195619315	Up
+map04260 Cardiac muscle contraction	Myh6	1175	K	K17751	2.72638604501748	Up
+map04260 Cardiac muscle contraction	Myh6	83	K	K17751	1.98876143181111	Up
+map04260 Cardiac muscle contraction	Myh6	67	K	K17751	1.82876167520249	Up
+map04260 Cardiac muscle contraction	Myh6	1242	K	K17751	2.70397751158634	Up
+map04260 Cardiac muscle contraction	Myh6	1833	K	K17751	2.2829651360344503	Up
+map04260 Cardiac muscle contraction	Myh6	1840	K	K17751	1.64986286531356	Up
+map04260 Cardiac muscle contraction	Myh6	1861	K	K17751	2.00472193588619	Up
+map04260 Cardiac muscle contraction	Myh6	1523	K	K17751	1.76368327408934	Up
+map04260 Cardiac muscle contraction	Myh6	1530	K	K17751	2.18778506002344	Up
+map04260 Cardiac muscle contraction	Myh6	1786	K	K17751	2.09378086545268	Up
+map04260 Cardiac muscle contraction	Myh6	1793	K	K17751	1.6559608570058502	Up
+map04260 Cardiac muscle contraction	Myh6	1646	K	K17751	2.01229354918486	Up
+map04260 Cardiac muscle contraction	Myh6	1653	K	K17751	1.9145482328266001	Up
+map04260 Cardiac muscle contraction	Myh6	1643	K	K17751	1.9309192982216499	Up
+map04260 Cardiac muscle contraction	Myh6	258	K	K17751	1.57630802726991	Up
+map04260 Cardiac muscle contraction	Myh6	849	K	K17751	2.08300623660623	Up
+map04260 Cardiac muscle contraction	Myh6	1459	K	K17751	1.98900564729341	Up
+map04260 Cardiac muscle contraction	Myh6	1461	K	K17751	1.85068502267265	Up
+map04260 Cardiac muscle contraction	Myh6	1474	K	K17751	2.3088773723864104	Up
+map04260 Cardiac muscle contraction	Myh6	922	K	K17751	1.58993777307621	Up
+map04260 Cardiac muscle contraction	Myh6	641	K	K17751	22.5401789640783	Up
+map04260 Cardiac muscle contraction	Myh6	1730	K	K17751	1.77695784522638	Up
+map04260 Cardiac muscle contraction	Myh6	1075	K	K17751	2.26387695447966	Up
+map04260 Cardiac muscle contraction	Myh6	1559	K	K17751	1.8622079006069	Up
+map04260 Cardiac muscle contraction	Myh6	1900	K	K17751	2.87868116895064	Up
+map04260 Cardiac muscle contraction	Myh6	941	K	K17751	2.29830048257034	Up
+map04260 Cardiac muscle contraction	Myh6	1167	K	K17751	1.7693336572579	Up
+map04260 Cardiac muscle contraction	Myh6	1044	K	K17751	1.76731572306309	Up
+map04260 Cardiac muscle contraction	Myh6	1501	K	K17751	2.31046845610785	Up
+map04260 Cardiac muscle contraction	Myh6	1412	K	K17751	3.91791228939279	Up
+map04260 Cardiac muscle contraction	Myh6	1897	K	K17751	1.8944340169935	Up
+map04260 Cardiac muscle contraction	Myh6	1326	K	K17751	2.3948103878794598	Up
+map04260 Cardiac muscle contraction	Myh6	1446	K	K17751	1.66042775489791	Up
+map04260 Cardiac muscle contraction	Myh6	1447	K	K17751	1.6679551425436598	Up
+map04260 Cardiac muscle contraction	Myh6	1617	K	K17751	1.70537399208906	Up
+map04260 Cardiac muscle contraction	Myh6	1264	K	K17751	1.51465196523337	Up
+map04260 Cardiac muscle contraction	Myh6	1365	K	K17751	1.51932726856024	Up
+map04260 Cardiac muscle contraction	Myh6	1729	K	K17751	2.1235245783598997	Up
+map04260 Cardiac muscle contraction	Cox7a2l	75	K	K02270	1.5406106392684498	Up
+map04260 Cardiac muscle contraction	Tpm4	11	K	K10375	1.6072433991895902	Up
+map04260 Cardiac muscle contraction	Tpm4	116	K	K10375	1.63398471067547	Up
+map04260 Cardiac muscle contraction	Atp1a1	444	K	K01539	2.0481899638143997	Up
+map04260 Cardiac muscle contraction	Atp1a1	661	K	K01539	1.52625456887708	Up
+map04260 Cardiac muscle contraction	Atp1a1	502	K	K01539	1.77348979978245	Up
+map04260 Cardiac muscle contraction	Myh7	1242	K	K17751	0.0402865540750446	Down
+map04260 Cardiac muscle contraction	Myh7	640	K	K17751	0.0240695460487419	Down
+map04260 Cardiac muscle contraction	Myh7	551	K	K17751	0.0163377617200215	Down
+map04260 Cardiac muscle contraction	Myh7	559	K	K17751	0.0235513698579582	Down
+map04260 Cardiac muscle contraction	Myh7	1016	K	K17751	0.0546501279833977	Down
+map04260 Cardiac muscle contraction	Myh7	1026	K	K17751	0.0281914779237868	Down
+map04260 Cardiac muscle contraction	Myh7	963	K	K17751	0.0257868444499177	Down
+map04260 Cardiac muscle contraction	Myh7	966	K	K17751	0.0206697386794086	Down
+map04260 Cardiac muscle contraction	Myh7	234	K	K17751	0.0149562027031889	Down
+map04260 Cardiac muscle contraction	Myh7	83	K	K17751	0.037715392250526	Down
+map04260 Cardiac muscle contraction	Myh7	434	K	K17751	0.0147799232523145	Down
+map04260 Cardiac muscle contraction	Myh7	1848	K	K17751	2.52071706994305	Up
+map04260 Cardiac muscle contraction	Myh7	837	K	K17751	0.0201537442356663	Down
+map04260 Cardiac muscle contraction	Myh7	841	K	K17751	0.0263825029061623	Down
+map04260 Cardiac muscle contraction	Myh7	1728	K	K17751	0.0337325755288806	Down
+map04260 Cardiac muscle contraction	Myh7	942	K	K17751	0.0608573005192544	Down
+map04260 Cardiac muscle contraction	Myh7	1557	K	K17751	0.0365776546916038	Down
+map04260 Cardiac muscle contraction	Myh7	1042	K	K17751	0.0330971634832178	Down
+map04260 Cardiac muscle contraction	Cox6c	47	K	K02268	0.199078639470338	Down
+map04260 Cardiac muscle contraction	Uqcrc1	134	K	K00414	1.6397593168415001	Up
+map04260 Cardiac muscle contraction	Uqcrc1	102	K	K00414	1.5561498368483702	Up
+map04260 Cardiac muscle contraction	Uqcrb	45	K	K00417	1.69014166331896	Up
+map04260 Cardiac muscle contraction	Uqcrc2	375	K	K00415	1.7044761119771998	Up
+map04260 Cardiac muscle contraction	Uqcrc2	162	K	K00415	1.88540496250501	Up
+map04610 Complement and coagulation cascades	Fga	168	K	K03903	1.51886515756935	Up
+map04610 Complement and coagulation cascades	Kng1	396	K	K03898	2.2607557939665295	Up
+map04610 Complement and coagulation cascades	C3	1497	K	K03990	1.86050113817339	Up
+map04610 Complement and coagulation cascades	C3	879	K	K03990	1.72002502259366	Up
+map04610 Complement and coagulation cascades	Cfb	451	K	K01335	1.70780505590406	Up
+map04610 Complement and coagulation cascades	Cfb	613	K	K01335	2.5483968323047	Up
+map04610 Complement and coagulation cascades	C5	285	K	K03994	1.51227760952901	Up
+map04610 Complement and coagulation cascades	Serpina1c	287	K	K03984	1.66543863293697	Up
+map04610 Complement and coagulation cascades	Serpina1b	186	K	K03984	1.5813558170538402	Up
+map04610 Complement and coagulation cascades	Serpina1e	181	K	K03984	2.25657787117108	Up
+map04610 Complement and coagulation cascades	Serpina1e	287	K	K03984	1.89993903697929	Up
+map04610 Complement and coagulation cascades	Serpina1e	186	K	K03984	1.9126301155336	Up
+map04610 Complement and coagulation cascades	Serpina1e	222	K	K03984	1.51416704441078	Up
+map04610 Complement and coagulation cascades	Serpina1e	213	K	K03984	2.29525046811798	Up
+map04610 Complement and coagulation cascades	Serpinf2	244	K	K03983	1.63596855352738	Up
+map04610 Complement and coagulation cascades	Fgb	343	K	K03904	1.9396151405673798	Up
+map04610 Complement and coagulation cascades	Fgg	152	K	K03905	3.9925427221352594	Up
+map04612 Antigen processing and presentation	H2	170	K	K06751	1.5386715755008102	Up
+map04612 Antigen processing and presentation	Hsp90ab1	275	K	K04079	1.6207418924040202	Up
+map04612 Antigen processing and presentation	Hsp90ab1	180	K	K04079	1.52591728313916	Up
+map04612 Antigen processing and presentation	Hsp90ab1	607	K	K04079	1.51032924226849	Up
+map04612 Antigen processing and presentation	Hsp90aa1	577	K	K04079	1.5353092540341398	Up
+map04612 Antigen processing and presentation	Hsp90ab1	559	K	K04079	1.9650458450181898	Up
+map04612 Antigen processing and presentation	Hsp90ab1	577	K	K04079	1.7455776434218702	Up
+map04612 Antigen processing and presentation	Hsp90ab1	69	K	K04079	1.75280146796716	Up
+map04612 Antigen processing and presentation	Calr	209	K	K08057	1.8198883308516	Up
+map04612 Antigen processing and presentation	Hspa8	102	K	K03283	1.6635993777304798	Up
+map04612 Antigen processing and presentation	Hspa5	327	K	K09490	2.14173091217404	Up
+map04612 Antigen processing and presentation	Hspa5	602	K	K09490	1.8253883643792501	Up
+map04612 Antigen processing and presentation	Hspa5	524	K	K09490	1.91684856141408	Up
+map04612 Antigen processing and presentation	Hspa5	153	K	K09490	1.7900839722171997	Up
+map04612 Antigen processing and presentation	Pdia3	496	K	K08056	2.08726052959297	Up
+map04612 Antigen processing and presentation	Pdia3	152	K	K08056	3.06254653368346	Up
+map04612 Antigen processing and presentation	Pdia3	129	K	K08056	1.81864608362042	Up
+map04612 Antigen processing and presentation	Hspa8	589	K	K03283	3.1451510005606096	Up
+map04612 Antigen processing and presentation	Psme2	180	K	K06697	1.59968459176579	Up
+map04612 Antigen processing and presentation	Hspa4	44	K	K09489	0.55441798698831	Down
+map04612 Antigen processing and presentation	Hspa4	680	K	K09489	1.60767462434352	Up
+map04612 Antigen processing and presentation	Hspa4	720	K	K09489	4.16204488720134	Up
+map04714 Thermogenesis	Prkag1	263	K	K07200	1.93559124736826	Up
+map04714 Thermogenesis	Mtnd4	418	K	K03881	1.6873726143028798	Up
+map04714 Thermogenesis	Mtnd5	434	K	K03883	1.5079342245266203	Up
+map04714 Thermogenesis	Mtatp8	48	K	K02125	1.9656874157437398	Up
+map04714 Thermogenesis	Prkaca	318	K	K04345	0.613595912853367	Down
+map04714 Thermogenesis	Cox5b	67	K	K02265	2.7311105756549	Up
+map04714 Thermogenesis	Cox4i1	78	K	K02263	1.84807808509148	Up
+map04714 Thermogenesis	Cox4i1	67	K	K02263	2.14496455078531	Up
+map04714 Thermogenesis	Cox4i1	164	K	K02263	1.53558857334508	Up
+map04714 Thermogenesis	Cox4i1	168	K	K02263	1.67580418854774	Up
+map04714 Thermogenesis	Acsl1	678	K	K01897	1.5602885090202099	Up
+map04714 Thermogenesis	Cpt2	85	K	K08766	1.58020451352716	Up
+map04714 Thermogenesis	Cpt2	62	K	K08766	1.9373045642712399	Up
+map04714 Thermogenesis	Cpt2	510	K	K08766	1.5980416293808202	Up
+map04714 Thermogenesis	Cpt2	495	K	K08766	1.54880789465359	Up
+map04714 Thermogenesis	Atp5f1e	37	K	K02135	1.69033382913488	Up
+map04714 Thermogenesis	Atp5f1e	32	K	K02135	1.62529271912707	Up
+map04714 Thermogenesis	Cox6b1	47	K	K02267	1.55048673101625	Up
+map04714 Thermogenesis	Cox6b1	62	K	K02267	0.422580922999257	Down
+map04714 Thermogenesis	Atp5f1b	485	K	K02133	1.78065910909891	Up
+map04714 Thermogenesis	Atp5f1b	124	K	K02133	1.6269824854085901	Up
+map04714 Thermogenesis	Atp5f1b	198	K	K02133	1.51033286748063	Up
+map04714 Thermogenesis	Rps6	203	K	K02991	2.41347126540713	Up
+map04714 Thermogenesis	Uqcrh	40	K	K00416	1.50089754890731	Up
+map04714 Thermogenesis	Atp5f1a	498	K	K02132	1.6649577222459	Up
+map04714 Thermogenesis	Atp5f1a	539	K	K02132	1.69667239325562	Up
+map04714 Thermogenesis	Atp5f1a	230	K	K02132	2.08314728535247	Up
+map04714 Thermogenesis	Atp5f1a	531	K	K02132	1.5251367662891298	Up
+map04714 Thermogenesis	Atp5f1a	261	K	K02132	1.59734598211302	Up
+map04714 Thermogenesis	Cox7a2l	75	K	K02270	1.5406106392684498	Up
+map04714 Thermogenesis	Ndufa12	107	K	K11352	1.54556279503238	Up
+map04714 Thermogenesis	Sdha	485	K	K00234	1.61151162942494	Up
+map04714 Thermogenesis	Sdha	179	K	K00234	1.65734010733135	Up
+map04714 Thermogenesis	Sdha	608	K	K00234	1.54810900457415	Up
+map04714 Thermogenesis	Ndufs8	51	K	K03941	2.1326563077333303	Up
+map04714 Thermogenesis	Ndufs1	470	K	K03934	1.59704427536851	Up
+map04714 Thermogenesis	Ndufs1	467	K	K03934	1.5601601315586497	Up
+map04714 Thermogenesis	Ndufs1	420	K	K03934	1.84028338042619	Up
+map04714 Thermogenesis	Atp5f1c	136	K	K02136	1.893941053985	Up
+map04714 Thermogenesis	Atp5f1c	115	K	K02136	2.04242011988013	Up
+map04714 Thermogenesis	Atp5f1c	49	K	K02136	1.64635406974387	Up
+map04714 Thermogenesis	Atp5f1c	262	K	K02136	2.38919033337999	Up
+map04714 Thermogenesis	Atp5f1c	270	K	K02136	1.90457019175429	Up
+map04714 Thermogenesis	Atp5f1c	79	K	K02136	1.91046268573178	Up
+map04714 Thermogenesis	Ndufv1	365	K	K03942	1.6604357139333799	Up
+map04714 Thermogenesis	Cpt1b	639	K	K19523	1.76457136949754	Up
+map04714 Thermogenesis	Ndufa10	242	K	K03954	1.52198313616891	Up
+map04714 Thermogenesis	Ndufa5	55	K	K03949	1.5722551071057	Up
+map04714 Thermogenesis	Cox6c	47	K	K02268	0.199078639470338	Down
+map04714 Thermogenesis	Atp5mg	24	K	K02140	1.81037684632821	Up
+map04714 Thermogenesis	Atp5mg	61	K	K02140	1.5072792878275298	Up
+map04714 Thermogenesis	Sdhb	125	K	K00235	1.67603311320959	Up
+map04714 Thermogenesis	Ndufb5	131	K	K03961	1.89155029338735	Up
+map04714 Thermogenesis	Ndufb9	55	K	K03965	1.6062934897247199	Up
+map04714 Thermogenesis	Atp5pb	162	K	K02127	1.68583267955346	Up
+map04714 Thermogenesis	Atp5pb	221	K	K02127	1.9721139227634499	Up
+map04714 Thermogenesis	Atp5pb	233	K	K02127	1.8276784693673798	Up
+map04714 Thermogenesis	Atp5pb	139	K	K02127	1.5002050258485002	Up
+map04714 Thermogenesis	Ndufb3	40	K	K03959	2.4190962342748397	Up
+map04714 Thermogenesis	Ndufab1	97	K	K03955	2.1717462008785002	Up
+map04714 Thermogenesis	Ndufs4	95	K	K03937	1.73918998613815	Up
+map04714 Thermogenesis	Uqcrc1	134	K	K00414	1.6397593168415001	Up
+map04714 Thermogenesis	Uqcrc1	102	K	K00414	1.5561498368483702	Up
+map04714 Thermogenesis	Cox20	97	K	K18184	1.58089715171049	Up
+map04714 Thermogenesis	Uqcrb	45	K	K00417	1.69014166331896	Up
+map04714 Thermogenesis	Ndufa11	129	K	K03956	0.45187277770723405	Down
+map04714 Thermogenesis	Atp5po	60	K	K02137	1.8905238536114402	Up
+map04714 Thermogenesis	Uqcrc2	375	K	K00415	1.7044761119771998	Up
+map04714 Thermogenesis	Uqcrc2	162	K	K00415	1.88540496250501	Up
+map04714 Thermogenesis	Ndufa9	157	K	K03953	1.63726901571313	Up
+map04714 Thermogenesis	Ndufa9	237	K	K03953	1.66127028452299	Up
+map04714 Thermogenesis	Ndufs7	62	K	K03940	0.519698358338069	Down
+map04714 Thermogenesis	Ndufa8	159	K	K03952	1.5355252477991799	Up
+map04714 Thermogenesis	Ndufb10	134	K	K03966	1.67444800371129	Up
+map04714 Thermogenesis	Atp5pd	95	K	K02138	1.9720706595643798	Up
+map04714 Thermogenesis	Atp5pd	117	K	K02138	1.59163261020815	Up
+map04714 Thermogenesis	Ndufa7	80	K	K03951	2.0187831095419697	Up
+map04714 Thermogenesis	Ndufa7	102	K	K03951	1.7423701338309399	Up
+map04723 Retrograde endocannabinoid signaling	Mtnd4	418	K	K03881	1.6873726143028798	Up
+map04723 Retrograde endocannabinoid signaling	Mtnd5	434	K	K03883	1.5079342245266203	Up
+map04723 Retrograde endocannabinoid signaling	Prkaca	318	K	K04345	0.613595912853367	Down
+map04723 Retrograde endocannabinoid signaling	Gnai2	181	K	K04630	2.3334752902185203	Up
+map04723 Retrograde endocannabinoid signaling	Mapk1	136	K	K04371	1.61949077757732	Up
+map04723 Retrograde endocannabinoid signaling	Ndufa12	107	K	K11352	1.54556279503238	Up
+map04723 Retrograde endocannabinoid signaling	Ndufs8	51	K	K03941	2.1326563077333303	Up
+map04723 Retrograde endocannabinoid signaling	Ndufs1	470	K	K03934	1.59704427536851	Up
+map04723 Retrograde endocannabinoid signaling	Ndufs1	467	K	K03934	1.5601601315586497	Up
+map04723 Retrograde endocannabinoid signaling	Ndufs1	420	K	K03934	1.84028338042619	Up
+map04723 Retrograde endocannabinoid signaling	Ndufv1	365	K	K03942	1.6604357139333799	Up
+map04723 Retrograde endocannabinoid signaling	Ndufa10	242	K	K03954	1.52198313616891	Up
+map04723 Retrograde endocannabinoid signaling	Ndufa5	55	K	K03949	1.5722551071057	Up
+map04723 Retrograde endocannabinoid signaling	Ndufb5	131	K	K03961	1.89155029338735	Up
+map04723 Retrograde endocannabinoid signaling	Ndufb9	55	K	K03965	1.6062934897247199	Up
+map04723 Retrograde endocannabinoid signaling	Ndufb3	40	K	K03959	2.4190962342748397	Up
+map04723 Retrograde endocannabinoid signaling	Ndufab1	97	K	K03955	2.1717462008785002	Up
+map04723 Retrograde endocannabinoid signaling	Ndufs4	95	K	K03937	1.73918998613815	Up
+map04723 Retrograde endocannabinoid signaling	Ndufa11	129	K	K03956	0.45187277770723405	Down
+map04723 Retrograde endocannabinoid signaling	Ndufa9	157	K	K03953	1.63726901571313	Up
+map04723 Retrograde endocannabinoid signaling	Ndufa9	237	K	K03953	1.66127028452299	Up
+map04723 Retrograde endocannabinoid signaling	Ndufs7	62	K	K03940	0.519698358338069	Down
+map04723 Retrograde endocannabinoid signaling	Ndufa8	159	K	K03952	1.5355252477991799	Up
+map04723 Retrograde endocannabinoid signaling	Ndufb10	134	K	K03966	1.67444800371129	Up
+map04723 Retrograde endocannabinoid signaling	Ndufa7	80	K	K03951	2.0187831095419697	Up
+map04723 Retrograde endocannabinoid signaling	Ndufa7	102	K	K03951	1.7423701338309399	Up
+map04932 Non-alcoholic fatty liver disease	Prkag1	263	K	K07200	1.93559124736826	Up
+map04932 Non-alcoholic fatty liver disease	Cox5b	67	K	K02265	2.7311105756549	Up
+map04932 Non-alcoholic fatty liver disease	Cox4i1	78	K	K02263	1.84807808509148	Up
+map04932 Non-alcoholic fatty liver disease	Cox4i1	67	K	K02263	2.14496455078531	Up
+map04932 Non-alcoholic fatty liver disease	Cox4i1	164	K	K02263	1.53558857334508	Up
+map04932 Non-alcoholic fatty liver disease	Cox4i1	168	K	K02263	1.67580418854774	Up
+map04932 Non-alcoholic fatty liver disease	Cox6b1	47	K	K02267	1.55048673101625	Up
+map04932 Non-alcoholic fatty liver disease	Cox6b1	62	K	K02267	0.422580922999257	Down
+map04932 Non-alcoholic fatty liver disease	Uqcrh	40	K	K00416	1.50089754890731	Up
+map04932 Non-alcoholic fatty liver disease	Cox7a2l	75	K	K02270	1.5406106392684498	Up
+map04932 Non-alcoholic fatty liver disease	Ndufa12	107	K	K11352	1.54556279503238	Up
+map04932 Non-alcoholic fatty liver disease	Sdha	485	K	K00234	1.61151162942494	Up
+map04932 Non-alcoholic fatty liver disease	Sdha	179	K	K00234	1.65734010733135	Up
+map04932 Non-alcoholic fatty liver disease	Sdha	608	K	K00234	1.54810900457415	Up
+map04932 Non-alcoholic fatty liver disease	Ndufs8	51	K	K03941	2.1326563077333303	Up
+map04932 Non-alcoholic fatty liver disease	Ndufs1	470	K	K03934	1.59704427536851	Up
+map04932 Non-alcoholic fatty liver disease	Ndufs1	467	K	K03934	1.5601601315586497	Up
+map04932 Non-alcoholic fatty liver disease	Ndufs1	420	K	K03934	1.84028338042619	Up
+map04932 Non-alcoholic fatty liver disease	Ndufv1	365	K	K03942	1.6604357139333799	Up
+map04932 Non-alcoholic fatty liver disease	Ndufa10	242	K	K03954	1.52198313616891	Up
+map04932 Non-alcoholic fatty liver disease	Ndufa5	55	K	K03949	1.5722551071057	Up
+map04932 Non-alcoholic fatty liver disease	Cox6c	47	K	K02268	0.199078639470338	Down
+map04932 Non-alcoholic fatty liver disease	Sdhb	125	K	K00235	1.67603311320959	Up
+map04932 Non-alcoholic fatty liver disease	Ndufb5	131	K	K03961	1.89155029338735	Up
+map04932 Non-alcoholic fatty liver disease	Ndufb9	55	K	K03965	1.6062934897247199	Up
+map04932 Non-alcoholic fatty liver disease	Ndufb3	40	K	K03959	2.4190962342748397	Up
+map04932 Non-alcoholic fatty liver disease	Ndufab1	97	K	K03955	2.1717462008785002	Up
+map04932 Non-alcoholic fatty liver disease	Ndufs4	95	K	K03937	1.73918998613815	Up
+map04932 Non-alcoholic fatty liver disease	Uqcrc1	134	K	K00414	1.6397593168415001	Up
+map04932 Non-alcoholic fatty liver disease	Uqcrc1	102	K	K00414	1.5561498368483702	Up
+map04932 Non-alcoholic fatty liver disease	Uqcrb	45	K	K00417	1.69014166331896	Up
+map04932 Non-alcoholic fatty liver disease	Ndufa11	129	K	K03956	0.45187277770723405	Down
+map04932 Non-alcoholic fatty liver disease	Uqcrc2	375	K	K00415	1.7044761119771998	Up
+map04932 Non-alcoholic fatty liver disease	Uqcrc2	162	K	K00415	1.88540496250501	Up
+map04932 Non-alcoholic fatty liver disease	Ndufa9	157	K	K03953	1.63726901571313	Up
+map04932 Non-alcoholic fatty liver disease	Ndufa9	237	K	K03953	1.66127028452299	Up
+map04932 Non-alcoholic fatty liver disease	Ndufs7	62	K	K03940	0.519698358338069	Down
+map04932 Non-alcoholic fatty liver disease	Ndufa8	159	K	K03952	1.5355252477991799	Up
+map04932 Non-alcoholic fatty liver disease	Ndufb10	134	K	K03966	1.67444800371129	Up
+map04932 Non-alcoholic fatty liver disease	Ndufa7	80	K	K03951	2.0187831095419697	Up
+map04932 Non-alcoholic fatty liver disease	Ndufa7	102	K	K03951	1.7423701338309399	Up
+map04979 Cholesterol metabolism	Apoa4	246	K	K08760	1.72921739351632	Up
+map04979 Cholesterol metabolism	Lrpap1	307	K	K22290	1.94313534083981	Up
+map04979 Cholesterol metabolism	Lrpap1	100	K	K22290	1.59192992477726	Up
+map04979 Cholesterol metabolism	Apoa1	205	K	K08757	2.01926447103568	Up
+map04979 Cholesterol metabolism	Apoa1	111	K	K08757	1.68732618230566	Up
+map04979 Cholesterol metabolism	Apoa1	156	K	K08757	1.67252427995581	Up
+map04979 Cholesterol metabolism	Apoa1	35	K	K08757	1.64370117972777	Up
+map04979 Cholesterol metabolism	Apoh	239	K	K17305	1.74500849396952	Up
+map04979 Cholesterol metabolism	Cd36	437	K	K06259	1.75208548636738	Up
+map04979 Cholesterol metabolism	Cd36	403	K	K06259	1.70312716995687	Up
+map04979 Cholesterol metabolism	Cd36	166	K	K06259	1.5563572485038601	Up
+map04979 Cholesterol metabolism	Cd36	176	K	K06259	1.86746785737425	Up
+map04979 Cholesterol metabolism	Vdac2	121	K	K15040	1.83026713128333	Up
+map04979 Cholesterol metabolism	Vdac2	46	K	K15040	1.7583156718693997	Up
+map04979 Cholesterol metabolism	Vdac1	33	K	K05862	1.60276866695275	Up
+map04979 Cholesterol metabolism	Vapa	188	K	K06096	1.69995317125476	Up
+map05010 Alzheimer disease	Psmd4	98	K	K03029	1.62945531758971	Up
+map05010 Alzheimer disease	Atp2a2	492	K	K05853	1.78518397875101	Up
+map05010 Alzheimer disease	Atp2a2	502	K	K05853	1.7108745812453703	Up
+map05010 Alzheimer disease	Atp2a2	205	K	K05853	1.5683221447477702	Up
+map05010 Alzheimer disease	Psma3	206	K	K02727	1.85674869515788	Up
+map05010 Alzheimer disease	Mtnd4	418	K	K03881	1.6873726143028798	Up
+map05010 Alzheimer disease	Mtnd5	434	K	K03883	1.5079342245266203	Up
+map05010 Alzheimer disease	Mtatp8	48	K	K02125	1.9656874157437398	Up
+map05010 Alzheimer disease	Psmd3	321	K	K03033	1.89832129002765	Up
+map05010 Alzheimer disease	Gapdh	115	K	K00134	0.587305171798891	Down
+map05010 Alzheimer disease	Gapdh	225	K	K00134	1.7674147648968899	Up
+map05010 Alzheimer disease	Gapdh	261	K	K00134	1.55660848846255	Up
+map05010 Alzheimer disease	Gapdh	252	K	K00134	1.72103244849667	Up
+map05010 Alzheimer disease	Cox5b	67	K	K02265	2.7311105756549	Up
+map05010 Alzheimer disease	Cox4i1	78	K	K02263	1.84807808509148	Up
+map05010 Alzheimer disease	Cox4i1	67	K	K02263	2.14496455078531	Up
+map05010 Alzheimer disease	Cox4i1	164	K	K02263	1.53558857334508	Up
+map05010 Alzheimer disease	Cox4i1	168	K	K02263	1.67580418854774	Up
+map05010 Alzheimer disease	Psmd7	199	K	K03038	1.7268283058683203	Up
+map05010 Alzheimer disease	Slc25a4	199	K	K05863	2.4337776634692596	Up
+map05010 Alzheimer disease	Slc25a4	33	K	K05863	1.54351407965467	Up
+map05010 Alzheimer disease	Slc25a5	147	K	K05863	1.6044238517062102	Up
+map05010 Alzheimer disease	Slc25a5	10	K	K05863	2.13409092567239	Up
+map05010 Alzheimer disease	Atp5f1e	37	K	K02135	1.69033382913488	Up
+map05010 Alzheimer disease	Atp5f1e	32	K	K02135	1.62529271912707	Up
+map05010 Alzheimer disease	Cox6b1	47	K	K02267	1.55048673101625	Up
+map05010 Alzheimer disease	Cox6b1	62	K	K02267	0.422580922999257	Down
+map05010 Alzheimer disease	Atp5f1b	485	K	K02133	1.78065910909891	Up
+map05010 Alzheimer disease	Atp5f1b	124	K	K02133	1.6269824854085901	Up
+map05010 Alzheimer disease	Atp5f1b	198	K	K02133	1.51033286748063	Up
+map05010 Alzheimer disease	Mapk1	136	K	K04371	1.61949077757732	Up
+map05010 Alzheimer disease	Uqcrh	40	K	K00416	1.50089754890731	Up
+map05010 Alzheimer disease	Ctnnb1	180	K	K02105	1.58843329895822	Up
+map05010 Alzheimer disease	Atp5f1a	498	K	K02132	1.6649577222459	Up
+map05010 Alzheimer disease	Atp5f1a	539	K	K02132	1.69667239325562	Up
+map05010 Alzheimer disease	Atp5f1a	230	K	K02132	2.08314728535247	Up
+map05010 Alzheimer disease	Atp5f1a	531	K	K02132	1.5251367662891298	Up
+map05010 Alzheimer disease	Atp5f1a	261	K	K02132	1.59734598211302	Up
+map05010 Alzheimer disease	Psmd1	862	K	K03032	1.80675251927606	Up
+map05010 Alzheimer disease	Vdac2	121	K	K15040	1.83026713128333	Up
+map05010 Alzheimer disease	Vdac2	46	K	K15040	1.7583156718693997	Up
+map05010 Alzheimer disease	Vdac1	33	K	K05862	1.60276866695275	Up
+map05010 Alzheimer disease	Cox7a2l	75	K	K02270	1.5406106392684498	Up
+map05010 Alzheimer disease	Kif5b	690	K	K10396	2.27675115354056	Up
+map05010 Alzheimer disease	Kif5b	541	K	K10396	1.58325003007803	Up
+map05010 Alzheimer disease	Ndufa12	107	K	K11352	1.54556279503238	Up
+map05010 Alzheimer disease	Sdha	485	K	K00234	1.61151162942494	Up
+map05010 Alzheimer disease	Sdha	179	K	K00234	1.65734010733135	Up
+map05010 Alzheimer disease	Sdha	608	K	K00234	1.54810900457415	Up
+map05010 Alzheimer disease	Ndufs8	51	K	K03941	2.1326563077333303	Up
+map05010 Alzheimer disease	Psmd2	350	K	K03028	2.19538306068875	Up
+map05010 Alzheimer disease	Psmd2	107	K	K03028	1.89560447894308	Up
+map05010 Alzheimer disease	Ndufs1	470	K	K03934	1.59704427536851	Up
+map05010 Alzheimer disease	Ndufs1	467	K	K03934	1.5601601315586497	Up
+map05010 Alzheimer disease	Ndufs1	420	K	K03934	1.84028338042619	Up
+map05010 Alzheimer disease	Atp5f1c	136	K	K02136	1.893941053985	Up
+map05010 Alzheimer disease	Atp5f1c	115	K	K02136	2.04242011988013	Up
+map05010 Alzheimer disease	Atp5f1c	49	K	K02136	1.64635406974387	Up
+map05010 Alzheimer disease	Atp5f1c	262	K	K02136	2.38919033337999	Up
+map05010 Alzheimer disease	Atp5f1c	270	K	K02136	1.90457019175429	Up
+map05010 Alzheimer disease	Atp5f1c	79	K	K02136	1.91046268573178	Up
+map05010 Alzheimer disease	Ndufv1	365	K	K03942	1.6604357139333799	Up
+map05010 Alzheimer disease	Psmd6	242	K	K03037	2.02357064579303	Up
+map05010 Alzheimer disease	Ndufa10	242	K	K03954	1.52198313616891	Up
+map05010 Alzheimer disease	Rtn4	760	K	K20720	1.5246906335863601	Up
+map05010 Alzheimer disease	Ndufa5	55	K	K03949	1.5722551071057	Up
+map05010 Alzheimer disease	Cox6c	47	K	K02268	0.199078639470338	Down
+map05010 Alzheimer disease	Sdhb	125	K	K00235	1.67603311320959	Up
+map05010 Alzheimer disease	Ndufb5	131	K	K03961	1.89155029338735	Up
+map05010 Alzheimer disease	Ndufb9	55	K	K03965	1.6062934897247199	Up
+map05010 Alzheimer disease	Atp5pb	162	K	K02127	1.68583267955346	Up
+map05010 Alzheimer disease	Atp5pb	221	K	K02127	1.9721139227634499	Up
+map05010 Alzheimer disease	Atp5pb	233	K	K02127	1.8276784693673798	Up
+map05010 Alzheimer disease	Atp5pb	139	K	K02127	1.5002050258485002	Up
+map05010 Alzheimer disease	Ndufb3	40	K	K03959	2.4190962342748397	Up
+map05010 Alzheimer disease	Ppid	111	K	K05864	1.57079763452714	Up
+map05010 Alzheimer disease	Ndufab1	97	K	K03955	2.1717462008785002	Up
+map05010 Alzheimer disease	Ndufs4	95	K	K03937	1.73918998613815	Up
+map05010 Alzheimer disease	Uqcrc1	134	K	K00414	1.6397593168415001	Up
+map05010 Alzheimer disease	Uqcrc1	102	K	K00414	1.5561498368483702	Up
+map05010 Alzheimer disease	Uqcrb	45	K	K00417	1.69014166331896	Up
+map05010 Alzheimer disease	Ndufa11	129	K	K03956	0.45187277770723405	Down
+map05010 Alzheimer disease	Psmd12	368	K	K03035	1.5381802068789097	Up
+map05010 Alzheimer disease	Psmd12	301	K	K03035	2.2355172013247997	Up
+map05010 Alzheimer disease	Atp5po	60	K	K02137	1.8905238536114402	Up
+map05010 Alzheimer disease	Uqcrc2	375	K	K00415	1.7044761119771998	Up
+map05010 Alzheimer disease	Uqcrc2	162	K	K00415	1.88540496250501	Up
+map05010 Alzheimer disease	Ndufa9	157	K	K03953	1.63726901571313	Up
+map05010 Alzheimer disease	Ndufa9	237	K	K03953	1.66127028452299	Up
+map05010 Alzheimer disease	Ndufs7	62	K	K03940	0.519698358338069	Down
+map05010 Alzheimer disease	Ndufa8	159	K	K03952	1.5355252477991799	Up
+map05010 Alzheimer disease	Ndufb10	134	K	K03966	1.67444800371129	Up
+map05010 Alzheimer disease	Atp5pd	95	K	K02138	1.9720706595643798	Up
+map05010 Alzheimer disease	Atp5pd	117	K	K02138	1.59163261020815	Up
+map05010 Alzheimer disease	Psmb2	29	K	K02734	2.8545049305035297	Up
+map05010 Alzheimer disease	Psma1	61	K	K02725	1.77807343794571	Up
+map05010 Alzheimer disease	Ndufa7	80	K	K03951	2.0187831095419697	Up
+map05010 Alzheimer disease	Ndufa7	102	K	K03951	1.7423701338309399	Up
+map05010 Alzheimer disease	Psma7	52	K	K02731	1.7113753988420302	Up
+map05012 Parkinson disease	Psmd4	98	K	K03029	1.62945531758971	Up
+map05012 Parkinson disease	Psma3	206	K	K02727	1.85674869515788	Up
+map05012 Parkinson disease	Mtnd4	418	K	K03881	1.6873726143028798	Up
+map05012 Parkinson disease	Mtnd5	434	K	K03883	1.5079342245266203	Up
+map05012 Parkinson disease	Mtatp8	48	K	K02125	1.9656874157437398	Up
+map05012 Parkinson disease	Prkaca	318	K	K04345	0.613595912853367	Down
+map05012 Parkinson disease	Sod1	137	K	K04565	1.87962328030822	Up
+map05012 Parkinson disease	Sod1	123	K	K04565	1.84113192072691	Up
+map05012 Parkinson disease	Gnai2	181	K	K04630	2.3334752902185203	Up
+map05012 Parkinson disease	Txn	85	K	K03671	2.02388473109824	Up
+map05012 Parkinson disease	Txn	8	K	K03671	2.1683077987223	Up
+map05012 Parkinson disease	Txn	3	K	K03671	1.85590557617558	Up
+map05012 Parkinson disease	Psmd3	321	K	K03033	1.89832129002765	Up
+map05012 Parkinson disease	Cox5b	67	K	K02265	2.7311105756549	Up
+map05012 Parkinson disease	Cox4i1	78	K	K02263	1.84807808509148	Up
+map05012 Parkinson disease	Cox4i1	67	K	K02263	2.14496455078531	Up
+map05012 Parkinson disease	Cox4i1	164	K	K02263	1.53558857334508	Up
+map05012 Parkinson disease	Cox4i1	168	K	K02263	1.67580418854774	Up
+map05012 Parkinson disease	Hspa5	327	K	K09490	2.14173091217404	Up
+map05012 Parkinson disease	Hspa5	602	K	K09490	1.8253883643792501	Up
+map05012 Parkinson disease	Hspa5	524	K	K09490	1.91684856141408	Up
+map05012 Parkinson disease	Hspa5	153	K	K09490	1.7900839722171997	Up
+map05012 Parkinson disease	Psmd7	199	K	K03038	1.7268283058683203	Up
+map05012 Parkinson disease	Slc25a4	199	K	K05863	2.4337776634692596	Up
+map05012 Parkinson disease	Slc25a4	33	K	K05863	1.54351407965467	Up
+map05012 Parkinson disease	Slc25a5	147	K	K05863	1.6044238517062102	Up
+map05012 Parkinson disease	Slc25a5	10	K	K05863	2.13409092567239	Up
+map05012 Parkinson disease	Atp5f1e	37	K	K02135	1.69033382913488	Up
+map05012 Parkinson disease	Atp5f1e	32	K	K02135	1.62529271912707	Up
+map05012 Parkinson disease	Cox6b1	47	K	K02267	1.55048673101625	Up
+map05012 Parkinson disease	Cox6b1	62	K	K02267	0.422580922999257	Down
+map05012 Parkinson disease	Atp5f1b	485	K	K02133	1.78065910909891	Up
+map05012 Parkinson disease	Atp5f1b	124	K	K02133	1.6269824854085901	Up
+map05012 Parkinson disease	Atp5f1b	198	K	K02133	1.51033286748063	Up
+map05012 Parkinson disease	Txn2	152	K	K03671	0.31539247125916603	Down
+map05012 Parkinson disease	Uqcrh	40	K	K00416	1.50089754890731	Up
+map05012 Parkinson disease	Atp5f1a	498	K	K02132	1.6649577222459	Up
+map05012 Parkinson disease	Atp5f1a	539	K	K02132	1.69667239325562	Up
+map05012 Parkinson disease	Atp5f1a	230	K	K02132	2.08314728535247	Up
+map05012 Parkinson disease	Atp5f1a	531	K	K02132	1.5251367662891298	Up
+map05012 Parkinson disease	Atp5f1a	261	K	K02132	1.59734598211302	Up
+map05012 Parkinson disease	Psmd1	862	K	K03032	1.80675251927606	Up
+map05012 Parkinson disease	Vdac2	121	K	K15040	1.83026713128333	Up
+map05012 Parkinson disease	Vdac2	46	K	K15040	1.7583156718693997	Up
+map05012 Parkinson disease	Vdac1	33	K	K05862	1.60276866695275	Up
+map05012 Parkinson disease	Cox7a2l	75	K	K02270	1.5406106392684498	Up
+map05012 Parkinson disease	Kif5b	690	K	K10396	2.27675115354056	Up
+map05012 Parkinson disease	Kif5b	541	K	K10396	1.58325003007803	Up
+map05012 Parkinson disease	Ndufa12	107	K	K11352	1.54556279503238	Up
+map05012 Parkinson disease	Mfn2	307	K	K06030	0.5131228679898701	Down
+map05012 Parkinson disease	Mfn1	399	K	K21356	1.6147139042474699	Up
+map05012 Parkinson disease	Mfn1	336	K	K21356	1.52862560814666	Up
+map05012 Parkinson disease	Maob	154	K	K00274	1.5824256999358501	Up
+map05012 Parkinson disease	Maob	159	K	K00274	1.78846195790631	Up
+map05012 Parkinson disease	Maob	93	K	K00274	1.7400088472035802	Up
+map05012 Parkinson disease	Sdha	485	K	K00234	1.61151162942494	Up
+map05012 Parkinson disease	Sdha	179	K	K00234	1.65734010733135	Up
+map05012 Parkinson disease	Sdha	608	K	K00234	1.54810900457415	Up
+map05012 Parkinson disease	Ndufs8	51	K	K03941	2.1326563077333303	Up
+map05012 Parkinson disease	Psmd2	350	K	K03028	2.19538306068875	Up
+map05012 Parkinson disease	Psmd2	107	K	K03028	1.89560447894308	Up
+map05012 Parkinson disease	Ndufs1	470	K	K03934	1.59704427536851	Up
+map05012 Parkinson disease	Ndufs1	467	K	K03934	1.5601601315586497	Up
+map05012 Parkinson disease	Ndufs1	420	K	K03934	1.84028338042619	Up
+map05012 Parkinson disease	Atp5f1c	136	K	K02136	1.893941053985	Up
+map05012 Parkinson disease	Atp5f1c	115	K	K02136	2.04242011988013	Up
+map05012 Parkinson disease	Atp5f1c	49	K	K02136	1.64635406974387	Up
+map05012 Parkinson disease	Atp5f1c	262	K	K02136	2.38919033337999	Up
+map05012 Parkinson disease	Atp5f1c	270	K	K02136	1.90457019175429	Up
+map05012 Parkinson disease	Atp5f1c	79	K	K02136	1.91046268573178	Up
+map05012 Parkinson disease	Ndufv1	365	K	K03942	1.6604357139333799	Up
+map05012 Parkinson disease	Psmd6	242	K	K03037	2.02357064579303	Up
+map05012 Parkinson disease	Ndufa10	242	K	K03954	1.52198313616891	Up
+map05012 Parkinson disease	Park7	93	K	K05687	1.76535297620382	Up
+map05012 Parkinson disease	Park7	148	K	K05687	1.50683437080201	Up
+map05012 Parkinson disease	Ndufa5	55	K	K03949	1.5722551071057	Up
+map05012 Parkinson disease	Cox6c	47	K	K02268	0.199078639470338	Down
+map05012 Parkinson disease	Sdhb	125	K	K00235	1.67603311320959	Up
+map05012 Parkinson disease	Ndufb5	131	K	K03961	1.89155029338735	Up
+map05012 Parkinson disease	Ndufb9	55	K	K03965	1.6062934897247199	Up
+map05012 Parkinson disease	Trap1	89	K	K09488	1.68618612849477	Up
+map05012 Parkinson disease	Trap1	520	K	K09488	1.62938195350412	Up
+map05012 Parkinson disease	Trap1	264	K	K09488	1.64970325856436	Up
+map05012 Parkinson disease	Atp5pb	162	K	K02127	1.68583267955346	Up
+map05012 Parkinson disease	Atp5pb	221	K	K02127	1.9721139227634499	Up
+map05012 Parkinson disease	Atp5pb	233	K	K02127	1.8276784693673798	Up
+map05012 Parkinson disease	Atp5pb	139	K	K02127	1.5002050258485002	Up
+map05012 Parkinson disease	Ndufb3	40	K	K03959	2.4190962342748397	Up
+map05012 Parkinson disease	Ndufab1	97	K	K03955	2.1717462008785002	Up
+map05012 Parkinson disease	Ndufs4	95	K	K03937	1.73918998613815	Up
+map05012 Parkinson disease	Uqcrc1	134	K	K00414	1.6397593168415001	Up
+map05012 Parkinson disease	Uqcrc1	102	K	K00414	1.5561498368483702	Up
+map05012 Parkinson disease	Uqcrb	45	K	K00417	1.69014166331896	Up
+map05012 Parkinson disease	Ndufa11	129	K	K03956	0.45187277770723405	Down
+map05012 Parkinson disease	Psmd12	368	K	K03035	1.5381802068789097	Up
+map05012 Parkinson disease	Psmd12	301	K	K03035	2.2355172013247997	Up
+map05012 Parkinson disease	Atp5po	60	K	K02137	1.8905238536114402	Up
+map05012 Parkinson disease	Uqcrc2	375	K	K00415	1.7044761119771998	Up
+map05012 Parkinson disease	Uqcrc2	162	K	K00415	1.88540496250501	Up
+map05012 Parkinson disease	Ndufa9	157	K	K03953	1.63726901571313	Up
+map05012 Parkinson disease	Ndufa9	237	K	K03953	1.66127028452299	Up
+map05012 Parkinson disease	Ndufs7	62	K	K03940	0.519698358338069	Down
+map05012 Parkinson disease	Ndufa8	159	K	K03952	1.5355252477991799	Up
+map05012 Parkinson disease	Ndufb10	134	K	K03966	1.67444800371129	Up
+map05012 Parkinson disease	Atp5pd	95	K	K02138	1.9720706595643798	Up
+map05012 Parkinson disease	Atp5pd	117	K	K02138	1.59163261020815	Up
+map05012 Parkinson disease	Psmb2	29	K	K02734	2.8545049305035297	Up
+map05012 Parkinson disease	Psma1	61	K	K02725	1.77807343794571	Up
+map05012 Parkinson disease	Ndufa7	80	K	K03951	2.0187831095419697	Up
+map05012 Parkinson disease	Ndufa7	102	K	K03951	1.7423701338309399	Up
+map05012 Parkinson disease	Psma7	52	K	K02731	1.7113753988420302	Up
+map05014 Amyotrophic lateral sclerosis	Tpr	1338	K	K09291	2.27665538059831	Up
+map05014 Amyotrophic lateral sclerosis	Psmd4	98	K	K03029	1.62945531758971	Up
+map05014 Amyotrophic lateral sclerosis	Psma3	206	K	K02727	1.85674869515788	Up
+map05014 Amyotrophic lateral sclerosis	Hnrnpa2b1	112	K	K13158	1.5871941666432399	Up
+map05014 Amyotrophic lateral sclerosis	Mtnd4	418	K	K03881	1.6873726143028798	Up
+map05014 Amyotrophic lateral sclerosis	Mtnd5	434	K	K03883	1.5079342245266203	Up
+map05014 Amyotrophic lateral sclerosis	Mtatp8	48	K	K02125	1.9656874157437398	Up
+map05014 Amyotrophic lateral sclerosis	Sod1	137	K	K04565	1.87962328030822	Up
+map05014 Amyotrophic lateral sclerosis	Sod1	123	K	K04565	1.84113192072691	Up
+map05014 Amyotrophic lateral sclerosis	Psmd3	321	K	K03033	1.89832129002765	Up
+map05014 Amyotrophic lateral sclerosis	Cox5b	67	K	K02265	2.7311105756549	Up
+map05014 Amyotrophic lateral sclerosis	Cox4i1	78	K	K02263	1.84807808509148	Up
+map05014 Amyotrophic lateral sclerosis	Cox4i1	67	K	K02263	2.14496455078531	Up
+map05014 Amyotrophic lateral sclerosis	Cox4i1	164	K	K02263	1.53558857334508	Up
+map05014 Amyotrophic lateral sclerosis	Cox4i1	168	K	K02263	1.67580418854774	Up
+map05014 Amyotrophic lateral sclerosis	Hspa5	327	K	K09490	2.14173091217404	Up
+map05014 Amyotrophic lateral sclerosis	Hspa5	602	K	K09490	1.8253883643792501	Up
+map05014 Amyotrophic lateral sclerosis	Hspa5	524	K	K09490	1.91684856141408	Up
+map05014 Amyotrophic lateral sclerosis	Hspa5	153	K	K09490	1.7900839722171997	Up
+map05014 Amyotrophic lateral sclerosis	Cat	430	K	K03781	2.1028792248017902	Up
+map05014 Amyotrophic lateral sclerosis	Psmd7	199	K	K03038	1.7268283058683203	Up
+map05014 Amyotrophic lateral sclerosis	Atp5f1e	37	K	K02135	1.69033382913488	Up
+map05014 Amyotrophic lateral sclerosis	Atp5f1e	32	K	K02135	1.62529271912707	Up
+map05014 Amyotrophic lateral sclerosis	Cox6b1	47	K	K02267	1.55048673101625	Up
+map05014 Amyotrophic lateral sclerosis	Cox6b1	62	K	K02267	0.422580922999257	Down
+map05014 Amyotrophic lateral sclerosis	Atp5f1b	485	K	K02133	1.78065910909891	Up
+map05014 Amyotrophic lateral sclerosis	Atp5f1b	124	K	K02133	1.6269824854085901	Up
+map05014 Amyotrophic lateral sclerosis	Atp5f1b	198	K	K02133	1.51033286748063	Up
+map05014 Amyotrophic lateral sclerosis	Uqcrh	40	K	K00416	1.50089754890731	Up
+map05014 Amyotrophic lateral sclerosis	Atp5f1a	498	K	K02132	1.6649577222459	Up
+map05014 Amyotrophic lateral sclerosis	Atp5f1a	539	K	K02132	1.69667239325562	Up
+map05014 Amyotrophic lateral sclerosis	Atp5f1a	230	K	K02132	2.08314728535247	Up
+map05014 Amyotrophic lateral sclerosis	Atp5f1a	531	K	K02132	1.5251367662891298	Up
+map05014 Amyotrophic lateral sclerosis	Atp5f1a	261	K	K02132	1.59734598211302	Up
+map05014 Amyotrophic lateral sclerosis	Psmd1	862	K	K03032	1.80675251927606	Up
+map05014 Amyotrophic lateral sclerosis	Vdac1	33	K	K05862	1.60276866695275	Up
+map05014 Amyotrophic lateral sclerosis	Cox7a2l	75	K	K02270	1.5406106392684498	Up
+map05014 Amyotrophic lateral sclerosis	Kif5b	690	K	K10396	2.27675115354056	Up
+map05014 Amyotrophic lateral sclerosis	Kif5b	541	K	K10396	1.58325003007803	Up
+map05014 Amyotrophic lateral sclerosis	Ndufa12	107	K	K11352	1.54556279503238	Up
+map05014 Amyotrophic lateral sclerosis	Sdha	485	K	K00234	1.61151162942494	Up
+map05014 Amyotrophic lateral sclerosis	Sdha	179	K	K00234	1.65734010733135	Up
+map05014 Amyotrophic lateral sclerosis	Sdha	608	K	K00234	1.54810900457415	Up
+map05014 Amyotrophic lateral sclerosis	Ndufs8	51	K	K03941	2.1326563077333303	Up
+map05014 Amyotrophic lateral sclerosis	Psmd2	350	K	K03028	2.19538306068875	Up
+map05014 Amyotrophic lateral sclerosis	Psmd2	107	K	K03028	1.89560447894308	Up
+map05014 Amyotrophic lateral sclerosis	Ndufs1	470	K	K03934	1.59704427536851	Up
+map05014 Amyotrophic lateral sclerosis	Ndufs1	467	K	K03934	1.5601601315586497	Up
+map05014 Amyotrophic lateral sclerosis	Ndufs1	420	K	K03934	1.84028338042619	Up
+map05014 Amyotrophic lateral sclerosis	Atp5f1c	136	K	K02136	1.893941053985	Up
+map05014 Amyotrophic lateral sclerosis	Atp5f1c	115	K	K02136	2.04242011988013	Up
+map05014 Amyotrophic lateral sclerosis	Atp5f1c	49	K	K02136	1.64635406974387	Up
+map05014 Amyotrophic lateral sclerosis	Atp5f1c	262	K	K02136	2.38919033337999	Up
+map05014 Amyotrophic lateral sclerosis	Atp5f1c	270	K	K02136	1.90457019175429	Up
+map05014 Amyotrophic lateral sclerosis	Atp5f1c	79	K	K02136	1.91046268573178	Up
+map05014 Amyotrophic lateral sclerosis	Ndufv1	365	K	K03942	1.6604357139333799	Up
+map05014 Amyotrophic lateral sclerosis	Psmd6	242	K	K03037	2.02357064579303	Up
+map05014 Amyotrophic lateral sclerosis	Dctn2	298	K	K10424	2.05956502614361	Up
+map05014 Amyotrophic lateral sclerosis	Ndufa10	242	K	K03954	1.52198313616891	Up
+map05014 Amyotrophic lateral sclerosis	Ndufa5	55	K	K03949	1.5722551071057	Up
+map05014 Amyotrophic lateral sclerosis	Cox6c	47	K	K02268	0.199078639470338	Down
+map05014 Amyotrophic lateral sclerosis	Sdhb	125	K	K00235	1.67603311320959	Up
+map05014 Amyotrophic lateral sclerosis	Ndufb5	131	K	K03961	1.89155029338735	Up
+map05014 Amyotrophic lateral sclerosis	Ndufb9	55	K	K03965	1.6062934897247199	Up
+map05014 Amyotrophic lateral sclerosis	Atp5pb	162	K	K02127	1.68583267955346	Up
+map05014 Amyotrophic lateral sclerosis	Atp5pb	221	K	K02127	1.9721139227634499	Up
+map05014 Amyotrophic lateral sclerosis	Atp5pb	233	K	K02127	1.8276784693673798	Up
+map05014 Amyotrophic lateral sclerosis	Atp5pb	139	K	K02127	1.5002050258485002	Up
+map05014 Amyotrophic lateral sclerosis	Ndufb3	40	K	K03959	2.4190962342748397	Up
+map05014 Amyotrophic lateral sclerosis	Ndufab1	97	K	K03955	2.1717462008785002	Up
+map05014 Amyotrophic lateral sclerosis	Ndufs4	95	K	K03937	1.73918998613815	Up
+map05014 Amyotrophic lateral sclerosis	Uqcrc1	134	K	K00414	1.6397593168415001	Up
+map05014 Amyotrophic lateral sclerosis	Uqcrc1	102	K	K00414	1.5561498368483702	Up
+map05014 Amyotrophic lateral sclerosis	Uqcrb	45	K	K00417	1.69014166331896	Up
+map05014 Amyotrophic lateral sclerosis	Ndufa11	129	K	K03956	0.45187277770723405	Down
+map05014 Amyotrophic lateral sclerosis	Psmd12	368	K	K03035	1.5381802068789097	Up
+map05014 Amyotrophic lateral sclerosis	Psmd12	301	K	K03035	2.2355172013247997	Up
+map05014 Amyotrophic lateral sclerosis	Atp5po	60	K	K02137	1.8905238536114402	Up
+map05014 Amyotrophic lateral sclerosis	Uqcrc2	375	K	K00415	1.7044761119771998	Up
+map05014 Amyotrophic lateral sclerosis	Uqcrc2	162	K	K00415	1.88540496250501	Up
+map05014 Amyotrophic lateral sclerosis	Ndufa9	157	K	K03953	1.63726901571313	Up
+map05014 Amyotrophic lateral sclerosis	Ndufa9	237	K	K03953	1.66127028452299	Up
+map05014 Amyotrophic lateral sclerosis	Ndufs7	62	K	K03940	0.519698358338069	Down
+map05014 Amyotrophic lateral sclerosis	Ndufa8	159	K	K03952	1.5355252477991799	Up
+map05014 Amyotrophic lateral sclerosis	Ndufb10	134	K	K03966	1.67444800371129	Up
+map05014 Amyotrophic lateral sclerosis	Atp5pd	95	K	K02138	1.9720706595643798	Up
+map05014 Amyotrophic lateral sclerosis	Atp5pd	117	K	K02138	1.59163261020815	Up
+map05014 Amyotrophic lateral sclerosis	Psmb2	29	K	K02734	2.8545049305035297	Up
+map05014 Amyotrophic lateral sclerosis	Psma1	61	K	K02725	1.77807343794571	Up
+map05014 Amyotrophic lateral sclerosis	Ndufa7	80	K	K03951	2.0187831095419697	Up
+map05014 Amyotrophic lateral sclerosis	Ndufa7	102	K	K03951	1.7423701338309399	Up
+map05014 Amyotrophic lateral sclerosis	Psma7	52	K	K02731	1.7113753988420302	Up
+map05016 Huntington disease	Psmd4	98	K	K03029	1.62945531758971	Up
+map05016 Huntington disease	Psma3	206	K	K02727	1.85674869515788	Up
+map05016 Huntington disease	Mtnd4	418	K	K03881	1.6873726143028798	Up
+map05016 Huntington disease	Mtnd5	434	K	K03883	1.5079342245266203	Up
+map05016 Huntington disease	Mtatp8	48	K	K02125	1.9656874157437398	Up
+map05016 Huntington disease	Sod1	137	K	K04565	1.87962328030822	Up
+map05016 Huntington disease	Sod1	123	K	K04565	1.84113192072691	Up
+map05016 Huntington disease	Sod2	122	K	K04564	1.7484832920059	Up
+map05016 Huntington disease	Sod2	68	K	K04564	1.8137288707161001	Up
+map05016 Huntington disease	Psmd3	321	K	K03033	1.89832129002765	Up
+map05016 Huntington disease	Ap2a1	894	K	K11824	1.73609317842931	Up
+map05016 Huntington disease	Ap2a2	569	K	K11824	1.70500472382341	Up
+map05016 Huntington disease	Cox5b	67	K	K02265	2.7311105756549	Up
+map05016 Huntington disease	Cox4i1	78	K	K02263	1.84807808509148	Up
+map05016 Huntington disease	Cox4i1	67	K	K02263	2.14496455078531	Up
+map05016 Huntington disease	Cox4i1	164	K	K02263	1.53558857334508	Up
+map05016 Huntington disease	Cox4i1	168	K	K02263	1.67580418854774	Up
+map05016 Huntington disease	Psmd7	199	K	K03038	1.7268283058683203	Up
+map05016 Huntington disease	Tfam	182	K	K11830	1.7109464764074098	Up
+map05016 Huntington disease	Slc25a4	199	K	K05863	2.4337776634692596	Up
+map05016 Huntington disease	Slc25a4	33	K	K05863	1.54351407965467	Up
+map05016 Huntington disease	Slc25a5	147	K	K05863	1.6044238517062102	Up
+map05016 Huntington disease	Slc25a5	10	K	K05863	2.13409092567239	Up
+map05016 Huntington disease	Atp5f1e	37	K	K02135	1.69033382913488	Up
+map05016 Huntington disease	Atp5f1e	32	K	K02135	1.62529271912707	Up
+map05016 Huntington disease	Cox6b1	47	K	K02267	1.55048673101625	Up
+map05016 Huntington disease	Cox6b1	62	K	K02267	0.422580922999257	Down
+map05016 Huntington disease	Atp5f1b	485	K	K02133	1.78065910909891	Up
+map05016 Huntington disease	Atp5f1b	124	K	K02133	1.6269824854085901	Up
+map05016 Huntington disease	Atp5f1b	198	K	K02133	1.51033286748063	Up
+map05016 Huntington disease	Uqcrh	40	K	K00416	1.50089754890731	Up
+map05016 Huntington disease	Atp5f1a	498	K	K02132	1.6649577222459	Up
+map05016 Huntington disease	Atp5f1a	539	K	K02132	1.69667239325562	Up
+map05016 Huntington disease	Atp5f1a	230	K	K02132	2.08314728535247	Up
+map05016 Huntington disease	Atp5f1a	531	K	K02132	1.5251367662891298	Up
+map05016 Huntington disease	Atp5f1a	261	K	K02132	1.59734598211302	Up
+map05016 Huntington disease	Psmd1	862	K	K03032	1.80675251927606	Up
+map05016 Huntington disease	Vdac2	121	K	K15040	1.83026713128333	Up
+map05016 Huntington disease	Vdac2	46	K	K15040	1.7583156718693997	Up
+map05016 Huntington disease	Vdac1	33	K	K05862	1.60276866695275	Up
+map05016 Huntington disease	Cox7a2l	75	K	K02270	1.5406106392684498	Up
+map05016 Huntington disease	Kif5b	690	K	K10396	2.27675115354056	Up
+map05016 Huntington disease	Kif5b	541	K	K10396	1.58325003007803	Up
+map05016 Huntington disease	Cltc	382	K	K04646	1.5282619997476101	Up
+map05016 Huntington disease	Cltc	100	K	K04646	1.8088609074820199	Up
+map05016 Huntington disease	Cltc	1522	K	K04646	1.5769907299445802	Up
+map05016 Huntington disease	Cltc	737	K	K04646	1.65260409161098	Up
+map05016 Huntington disease	Cltb	184	K	K04645	2.21175925481319	Up
+map05016 Huntington disease	Ndufa12	107	K	K11352	1.54556279503238	Up
+map05016 Huntington disease	Sdha	485	K	K00234	1.61151162942494	Up
+map05016 Huntington disease	Sdha	179	K	K00234	1.65734010733135	Up
+map05016 Huntington disease	Sdha	608	K	K00234	1.54810900457415	Up
+map05016 Huntington disease	Ndufs8	51	K	K03941	2.1326563077333303	Up
+map05016 Huntington disease	Psmd2	350	K	K03028	2.19538306068875	Up
+map05016 Huntington disease	Psmd2	107	K	K03028	1.89560447894308	Up
+map05016 Huntington disease	Ndufs1	470	K	K03934	1.59704427536851	Up
+map05016 Huntington disease	Ndufs1	467	K	K03934	1.5601601315586497	Up
+map05016 Huntington disease	Ndufs1	420	K	K03934	1.84028338042619	Up
+map05016 Huntington disease	Atp5f1c	136	K	K02136	1.893941053985	Up
+map05016 Huntington disease	Atp5f1c	115	K	K02136	2.04242011988013	Up
+map05016 Huntington disease	Atp5f1c	49	K	K02136	1.64635406974387	Up
+map05016 Huntington disease	Atp5f1c	262	K	K02136	2.38919033337999	Up
+map05016 Huntington disease	Atp5f1c	270	K	K02136	1.90457019175429	Up
+map05016 Huntington disease	Atp5f1c	79	K	K02136	1.91046268573178	Up
+map05016 Huntington disease	Ndufv1	365	K	K03942	1.6604357139333799	Up
+map05016 Huntington disease	Psmd6	242	K	K03037	2.02357064579303	Up
+map05016 Huntington disease	Dctn2	298	K	K10424	2.05956502614361	Up
+map05016 Huntington disease	Ndufa10	242	K	K03954	1.52198313616891	Up
+map05016 Huntington disease	Ndufa5	55	K	K03949	1.5722551071057	Up
+map05016 Huntington disease	Cox6c	47	K	K02268	0.199078639470338	Down
+map05016 Huntington disease	Sdhb	125	K	K00235	1.67603311320959	Up
+map05016 Huntington disease	Ndufb5	131	K	K03961	1.89155029338735	Up
+map05016 Huntington disease	Ndufb9	55	K	K03965	1.6062934897247199	Up
+map05016 Huntington disease	Atp5pb	162	K	K02127	1.68583267955346	Up
+map05016 Huntington disease	Atp5pb	221	K	K02127	1.9721139227634499	Up
+map05016 Huntington disease	Atp5pb	233	K	K02127	1.8276784693673798	Up
+map05016 Huntington disease	Atp5pb	139	K	K02127	1.5002050258485002	Up
+map05016 Huntington disease	Ndufb3	40	K	K03959	2.4190962342748397	Up
+map05016 Huntington disease	Ndufab1	97	K	K03955	2.1717462008785002	Up
+map05016 Huntington disease	Ndufs4	95	K	K03937	1.73918998613815	Up
+map05016 Huntington disease	Uqcrc1	134	K	K00414	1.6397593168415001	Up
+map05016 Huntington disease	Uqcrc1	102	K	K00414	1.5561498368483702	Up
+map05016 Huntington disease	Uqcrb	45	K	K00417	1.69014166331896	Up
+map05016 Huntington disease	Ndufa11	129	K	K03956	0.45187277770723405	Down
+map05016 Huntington disease	Psmd12	368	K	K03035	1.5381802068789097	Up
+map05016 Huntington disease	Psmd12	301	K	K03035	2.2355172013247997	Up
+map05016 Huntington disease	Atp5po	60	K	K02137	1.8905238536114402	Up
+map05016 Huntington disease	Uqcrc2	375	K	K00415	1.7044761119771998	Up
+map05016 Huntington disease	Uqcrc2	162	K	K00415	1.88540496250501	Up
+map05016 Huntington disease	Ap2b1	721	K	K11825	1.61105527043102	Up
+map05016 Huntington disease	Ndufa9	157	K	K03953	1.63726901571313	Up
+map05016 Huntington disease	Ndufa9	237	K	K03953	1.66127028452299	Up
+map05016 Huntington disease	Ndufs7	62	K	K03940	0.519698358338069	Down
+map05016 Huntington disease	Ndufa8	159	K	K03952	1.5355252477991799	Up
+map05016 Huntington disease	Ndufb10	134	K	K03966	1.67444800371129	Up
+map05016 Huntington disease	Atp5pd	95	K	K02138	1.9720706595643798	Up
+map05016 Huntington disease	Atp5pd	117	K	K02138	1.59163261020815	Up
+map05016 Huntington disease	Psmb2	29	K	K02734	2.8545049305035297	Up
+map05016 Huntington disease	Psma1	61	K	K02725	1.77807343794571	Up
+map05016 Huntington disease	Ndufa7	80	K	K03951	2.0187831095419697	Up
+map05016 Huntington disease	Ndufa7	102	K	K03951	1.7423701338309399	Up
+map05016 Huntington disease	Psma7	52	K	K02731	1.7113753988420302	Up
+map05020 Prion disease	Ryr2	3340	K	K04962	1.84882154389882	Up
+map05020 Prion disease	Ryr2	2562	K	K04962	1.50189220824255	Up
+map05020 Prion disease	Ryr2	2730	K	K04962	1.89512521439859	Up
+map05020 Prion disease	Ryr2	2607	K	K04962	1.56230782307107	Up
+map05020 Prion disease	Ryr2	3075	K	K04962	1.79316259353854	Up
+map05020 Prion disease	Psmd4	98	K	K03029	1.62945531758971	Up
+map05020 Prion disease	Psma3	206	K	K02727	1.85674869515788	Up
+map05020 Prion disease	Lamc1	1344	K	K05635	1.7335171834366998	Up
+map05020 Prion disease	Lamc1	1352	K	K05635	2.04062868042161	Up
+map05020 Prion disease	Lamc1	1548	K	K05635	1.70184653708806	Up
+map05020 Prion disease	Lamc1	1091	K	K05635	1.92258722539799	Up
+map05020 Prion disease	Lamc1	1421	K	K05635	2.18225320965555	Up
+map05020 Prion disease	Lamc1	1189	K	K05635	1.59469149271839	Up
+map05020 Prion disease	Lamc1	1301	K	K05635	1.80946967151169	Up
+map05020 Prion disease	Lamc1	1402	K	K05635	1.9654605284703601	Up
+map05020 Prion disease	Lamc1	786	K	K05635	2.38229058377981	Up
+map05020 Prion disease	Mtnd4	418	K	K03881	1.6873726143028798	Up
+map05020 Prion disease	Mtnd5	434	K	K03883	1.5079342245266203	Up
+map05020 Prion disease	Mtatp8	48	K	K02125	1.9656874157437398	Up
+map05020 Prion disease	Prkaca	318	K	K04345	0.613595912853367	Down
+map05020 Prion disease	C5	285	K	K03994	1.51227760952901	Up
+map05020 Prion disease	Sod1	137	K	K04565	1.87962328030822	Up
+map05020 Prion disease	Sod1	123	K	K04565	1.84113192072691	Up
+map05020 Prion disease	Psmd3	321	K	K03033	1.89832129002765	Up
+map05020 Prion disease	Hspa8	102	K	K03283	1.6635993777304798	Up
+map05020 Prion disease	Cox5b	67	K	K02265	2.7311105756549	Up
+map05020 Prion disease	Cox4i1	78	K	K02263	1.84807808509148	Up
+map05020 Prion disease	Cox4i1	67	K	K02263	2.14496455078531	Up
+map05020 Prion disease	Cox4i1	164	K	K02263	1.53558857334508	Up
+map05020 Prion disease	Cox4i1	168	K	K02263	1.67580418854774	Up
+map05020 Prion disease	Hspa5	327	K	K09490	2.14173091217404	Up
+map05020 Prion disease	Hspa5	602	K	K09490	1.8253883643792501	Up
+map05020 Prion disease	Hspa5	524	K	K09490	1.91684856141408	Up
+map05020 Prion disease	Hspa5	153	K	K09490	1.7900839722171997	Up
+map05020 Prion disease	Psmd7	199	K	K03038	1.7268283058683203	Up
+map05020 Prion disease	Slc25a4	199	K	K05863	2.4337776634692596	Up
+map05020 Prion disease	Slc25a4	33	K	K05863	1.54351407965467	Up
+map05020 Prion disease	Cav3	15	K	K12959	1.6100214012073202	Up
+map05020 Prion disease	Slc25a5	147	K	K05863	1.6044238517062102	Up
+map05020 Prion disease	Slc25a5	10	K	K05863	2.13409092567239	Up
+map05020 Prion disease	Atp5f1e	37	K	K02135	1.69033382913488	Up
+map05020 Prion disease	Atp5f1e	32	K	K02135	1.62529271912707	Up
+map05020 Prion disease	Cox6b1	47	K	K02267	1.55048673101625	Up
+map05020 Prion disease	Cox6b1	62	K	K02267	0.422580922999257	Down
+map05020 Prion disease	Atp5f1b	485	K	K02133	1.78065910909891	Up
+map05020 Prion disease	Atp5f1b	124	K	K02133	1.6269824854085901	Up
+map05020 Prion disease	Atp5f1b	198	K	K02133	1.51033286748063	Up
+map05020 Prion disease	Hspa8	589	K	K03283	3.1451510005606096	Up
+map05020 Prion disease	Mapk1	136	K	K04371	1.61949077757732	Up
+map05020 Prion disease	Uqcrh	40	K	K00416	1.50089754890731	Up
+map05020 Prion disease	Atp5f1a	498	K	K02132	1.6649577222459	Up
+map05020 Prion disease	Atp5f1a	539	K	K02132	1.69667239325562	Up
+map05020 Prion disease	Atp5f1a	230	K	K02132	2.08314728535247	Up
+map05020 Prion disease	Atp5f1a	531	K	K02132	1.5251367662891298	Up
+map05020 Prion disease	Atp5f1a	261	K	K02132	1.59734598211302	Up
+map05020 Prion disease	Psmd1	862	K	K03032	1.80675251927606	Up
+map05020 Prion disease	Stip1	381	K	K09553	2.09643721625212	Up
+map05020 Prion disease	Stip1	530	K	K09553	1.53779948776308	Up
+map05020 Prion disease	Vdac2	121	K	K15040	1.83026713128333	Up
+map05020 Prion disease	Vdac2	46	K	K15040	1.7583156718693997	Up
+map05020 Prion disease	Vdac1	33	K	K05862	1.60276866695275	Up
+map05020 Prion disease	Cox7a2l	75	K	K02270	1.5406106392684498	Up
+map05020 Prion disease	Kif5b	690	K	K10396	2.27675115354056	Up
+map05020 Prion disease	Kif5b	541	K	K10396	1.58325003007803	Up
+map05020 Prion disease	Ndufa12	107	K	K11352	1.54556279503238	Up
+map05020 Prion disease	Sdha	485	K	K00234	1.61151162942494	Up
+map05020 Prion disease	Sdha	179	K	K00234	1.65734010733135	Up
+map05020 Prion disease	Sdha	608	K	K00234	1.54810900457415	Up
+map05020 Prion disease	Ndufs8	51	K	K03941	2.1326563077333303	Up
+map05020 Prion disease	Psmd2	350	K	K03028	2.19538306068875	Up
+map05020 Prion disease	Psmd2	107	K	K03028	1.89560447894308	Up
+map05020 Prion disease	Ndufs1	470	K	K03934	1.59704427536851	Up
+map05020 Prion disease	Ndufs1	467	K	K03934	1.5601601315586497	Up
+map05020 Prion disease	Ndufs1	420	K	K03934	1.84028338042619	Up
+map05020 Prion disease	Atp5f1c	136	K	K02136	1.893941053985	Up
+map05020 Prion disease	Atp5f1c	115	K	K02136	2.04242011988013	Up
+map05020 Prion disease	Atp5f1c	49	K	K02136	1.64635406974387	Up
+map05020 Prion disease	Atp5f1c	262	K	K02136	2.38919033337999	Up
+map05020 Prion disease	Atp5f1c	270	K	K02136	1.90457019175429	Up
+map05020 Prion disease	Atp5f1c	79	K	K02136	1.91046268573178	Up
+map05020 Prion disease	Ndufv1	365	K	K03942	1.6604357139333799	Up
+map05020 Prion disease	Psmd6	242	K	K03037	2.02357064579303	Up
+map05020 Prion disease	Ndufa10	242	K	K03954	1.52198313616891	Up
+map05020 Prion disease	Ndufa5	55	K	K03949	1.5722551071057	Up
+map05020 Prion disease	Cox6c	47	K	K02268	0.199078639470338	Down
+map05020 Prion disease	Sdhb	125	K	K00235	1.67603311320959	Up
+map05020 Prion disease	Ndufb5	131	K	K03961	1.89155029338735	Up
+map05020 Prion disease	Ndufb9	55	K	K03965	1.6062934897247199	Up
+map05020 Prion disease	Atp5pb	162	K	K02127	1.68583267955346	Up
+map05020 Prion disease	Atp5pb	221	K	K02127	1.9721139227634499	Up
+map05020 Prion disease	Atp5pb	233	K	K02127	1.8276784693673798	Up
+map05020 Prion disease	Atp5pb	139	K	K02127	1.5002050258485002	Up
+map05020 Prion disease	Ndufb3	40	K	K03959	2.4190962342748397	Up
+map05020 Prion disease	Ndufab1	97	K	K03955	2.1717462008785002	Up
+map05020 Prion disease	Ndufs4	95	K	K03937	1.73918998613815	Up
+map05020 Prion disease	Uqcrc1	134	K	K00414	1.6397593168415001	Up
+map05020 Prion disease	Uqcrc1	102	K	K00414	1.5561498368483702	Up
+map05020 Prion disease	Uqcrb	45	K	K00417	1.69014166331896	Up
+map05020 Prion disease	Ndufa11	129	K	K03956	0.45187277770723405	Down
+map05020 Prion disease	Psmd12	368	K	K03035	1.5381802068789097	Up
+map05020 Prion disease	Psmd12	301	K	K03035	2.2355172013247997	Up
+map05020 Prion disease	Atp5po	60	K	K02137	1.8905238536114402	Up
+map05020 Prion disease	Uqcrc2	375	K	K00415	1.7044761119771998	Up
+map05020 Prion disease	Uqcrc2	162	K	K00415	1.88540496250501	Up
+map05020 Prion disease	Ndufa9	157	K	K03953	1.63726901571313	Up
+map05020 Prion disease	Ndufa9	237	K	K03953	1.66127028452299	Up
+map05020 Prion disease	Ndufs7	62	K	K03940	0.519698358338069	Down
+map05020 Prion disease	Ndufa8	159	K	K03952	1.5355252477991799	Up
+map05020 Prion disease	Ndufb10	134	K	K03966	1.67444800371129	Up
+map05020 Prion disease	Atp5pd	95	K	K02138	1.9720706595643798	Up
+map05020 Prion disease	Atp5pd	117	K	K02138	1.59163261020815	Up
+map05020 Prion disease	Psmb2	29	K	K02734	2.8545049305035297	Up
+map05020 Prion disease	Psma1	61	K	K02725	1.77807343794571	Up
+map05020 Prion disease	Ndufa7	80	K	K03951	2.0187831095419697	Up
+map05020 Prion disease	Ndufa7	102	K	K03951	1.7423701338309399	Up
+map05020 Prion disease	Psma7	52	K	K02731	1.7113753988420302	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Ryr2	3340	K	K04962	1.84882154389882	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Ryr2	2562	K	K04962	1.50189220824255	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Ryr2	2730	K	K04962	1.89512521439859	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Ryr2	2607	K	K04962	1.56230782307107	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Ryr2	3075	K	K04962	1.79316259353854	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Psmd4	98	K	K03029	1.62945531758971	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Atp2a2	492	K	K05853	1.78518397875101	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Atp2a2	502	K	K05853	1.7108745812453703	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Atp2a2	205	K	K05853	1.5683221447477702	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Psma3	206	K	K02727	1.85674869515788	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Mtnd4	418	K	K03881	1.6873726143028798	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Mtnd5	434	K	K03883	1.5079342245266203	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Mtatp8	48	K	K02125	1.9656874157437398	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Sod1	137	K	K04565	1.87962328030822	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Sod1	123	K	K04565	1.84113192072691	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Psmd3	321	K	K03033	1.89832129002765	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Cox5b	67	K	K02265	2.7311105756549	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Cox4i1	78	K	K02263	1.84807808509148	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Cox4i1	67	K	K02263	2.14496455078531	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Cox4i1	164	K	K02263	1.53558857334508	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Cox4i1	168	K	K02263	1.67580418854774	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Hspa5	327	K	K09490	2.14173091217404	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Hspa5	602	K	K09490	1.8253883643792501	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Hspa5	524	K	K09490	1.91684856141408	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Hspa5	153	K	K09490	1.7900839722171997	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Cat	430	K	K03781	2.1028792248017902	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Psmd7	199	K	K03038	1.7268283058683203	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Slc25a4	199	K	K05863	2.4337776634692596	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Slc25a4	33	K	K05863	1.54351407965467	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Slc25a5	147	K	K05863	1.6044238517062102	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Slc25a5	10	K	K05863	2.13409092567239	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Atp5f1e	37	K	K02135	1.69033382913488	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Atp5f1e	32	K	K02135	1.62529271912707	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Cox6b1	47	K	K02267	1.55048673101625	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Cox6b1	62	K	K02267	0.422580922999257	Down
+map05022 Pathways of neurodegeneration - multiple diseases	Atp5f1b	485	K	K02133	1.78065910909891	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Atp5f1b	124	K	K02133	1.6269824854085901	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Atp5f1b	198	K	K02133	1.51033286748063	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Mapk1	136	K	K04371	1.61949077757732	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Uqcrh	40	K	K00416	1.50089754890731	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Ctnnb1	180	K	K02105	1.58843329895822	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Atp5f1a	498	K	K02132	1.6649577222459	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Atp5f1a	539	K	K02132	1.69667239325562	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Atp5f1a	230	K	K02132	2.08314728535247	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Atp5f1a	531	K	K02132	1.5251367662891298	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Atp5f1a	261	K	K02132	1.59734598211302	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Psmd1	862	K	K03032	1.80675251927606	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Vdac2	121	K	K15040	1.83026713128333	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Vdac2	46	K	K15040	1.7583156718693997	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Vdac1	33	K	K05862	1.60276866695275	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Cox7a2l	75	K	K02270	1.5406106392684498	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Kif5b	690	K	K10396	2.27675115354056	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Kif5b	541	K	K10396	1.58325003007803	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Ndufa12	107	K	K11352	1.54556279503238	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Mfn2	307	K	K06030	0.5131228679898701	Down
+map05022 Pathways of neurodegeneration - multiple diseases	Mfn1	399	K	K21356	1.6147139042474699	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Mfn1	336	K	K21356	1.52862560814666	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Sdha	485	K	K00234	1.61151162942494	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Sdha	179	K	K00234	1.65734010733135	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Sdha	608	K	K00234	1.54810900457415	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Ndufs8	51	K	K03941	2.1326563077333303	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Psmd2	350	K	K03028	2.19538306068875	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Psmd2	107	K	K03028	1.89560447894308	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Ndufs1	470	K	K03934	1.59704427536851	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Ndufs1	467	K	K03934	1.5601601315586497	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Ndufs1	420	K	K03934	1.84028338042619	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Atp5f1c	136	K	K02136	1.893941053985	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Atp5f1c	115	K	K02136	2.04242011988013	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Atp5f1c	49	K	K02136	1.64635406974387	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Atp5f1c	262	K	K02136	2.38919033337999	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Atp5f1c	270	K	K02136	1.90457019175429	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Atp5f1c	79	K	K02136	1.91046268573178	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Ndufv1	365	K	K03942	1.6604357139333799	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Psmd6	242	K	K03037	2.02357064579303	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Dctn2	298	K	K10424	2.05956502614361	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Ndufa10	242	K	K03954	1.52198313616891	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Park7	93	K	K05687	1.76535297620382	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Park7	148	K	K05687	1.50683437080201	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Ndufa5	55	K	K03949	1.5722551071057	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Cox6c	47	K	K02268	0.199078639470338	Down
+map05022 Pathways of neurodegeneration - multiple diseases	Sdhb	125	K	K00235	1.67603311320959	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Ndufb5	131	K	K03961	1.89155029338735	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Ndufb9	55	K	K03965	1.6062934897247199	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Trap1	89	K	K09488	1.68618612849477	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Trap1	520	K	K09488	1.62938195350412	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Trap1	264	K	K09488	1.64970325856436	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Atp5pb	162	K	K02127	1.68583267955346	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Atp5pb	221	K	K02127	1.9721139227634499	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Atp5pb	233	K	K02127	1.8276784693673798	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Atp5pb	139	K	K02127	1.5002050258485002	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Ndufb3	40	K	K03959	2.4190962342748397	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Ppid	111	K	K05864	1.57079763452714	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Ndufab1	97	K	K03955	2.1717462008785002	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Ndufs4	95	K	K03937	1.73918998613815	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Uqcrc1	134	K	K00414	1.6397593168415001	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Uqcrc1	102	K	K00414	1.5561498368483702	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Uqcrb	45	K	K00417	1.69014166331896	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Ndufa11	129	K	K03956	0.45187277770723405	Down
+map05022 Pathways of neurodegeneration - multiple diseases	Psmd12	368	K	K03035	1.5381802068789097	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Psmd12	301	K	K03035	2.2355172013247997	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Atp5po	60	K	K02137	1.8905238536114402	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Uqcrc2	375	K	K00415	1.7044761119771998	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Uqcrc2	162	K	K00415	1.88540496250501	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Ndufa9	157	K	K03953	1.63726901571313	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Ndufa9	237	K	K03953	1.66127028452299	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Ndufs7	62	K	K03940	0.519698358338069	Down
+map05022 Pathways of neurodegeneration - multiple diseases	Ndufa8	159	K	K03952	1.5355252477991799	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Ndufb10	134	K	K03966	1.67444800371129	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Atp5pd	95	K	K02138	1.9720706595643798	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Atp5pd	117	K	K02138	1.59163261020815	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Psmb2	29	K	K02734	2.8545049305035297	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Psma1	61	K	K02725	1.77807343794571	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Ndufa7	80	K	K03951	2.0187831095419697	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Ndufa7	102	K	K03951	1.7423701338309399	Up
+map05022 Pathways of neurodegeneration - multiple diseases	Psma7	52	K	K02731	1.7113753988420302	Up
+map05146 Amoebiasis	Lamc1	1344	K	K05635	1.7335171834366998	Up
+map05146 Amoebiasis	Lamc1	1352	K	K05635	2.04062868042161	Up
+map05146 Amoebiasis	Lamc1	1548	K	K05635	1.70184653708806	Up
+map05146 Amoebiasis	Lamc1	1091	K	K05635	1.92258722539799	Up
+map05146 Amoebiasis	Lamc1	1421	K	K05635	2.18225320965555	Up
+map05146 Amoebiasis	Lamc1	1189	K	K05635	1.59469149271839	Up
+map05146 Amoebiasis	Lamc1	1301	K	K05635	1.80946967151169	Up
+map05146 Amoebiasis	Lamc1	1402	K	K05635	1.9654605284703601	Up
+map05146 Amoebiasis	Lamc1	786	K	K05635	2.38229058377981	Up
+map05146 Amoebiasis	Lamb1	1708	K	K05636	2.05589846982376	Up
+map05146 Amoebiasis	Lamb1	1469	K	K05636	1.51812112897803	Up
+map05146 Amoebiasis	Lamb1	1659	K	K05636	2.13303942189625	Up
+map05146 Amoebiasis	Lamb1	1773	K	K05636	1.57011824398306	Up
+map05146 Amoebiasis	Prkaca	318	K	K04345	0.613595912853367	Down
+map05146 Amoebiasis	Hspb1	202	K	K04455	3.2761274906867097	Up
+map05146 Amoebiasis	Rab5b	33	K	K07888	1.9952159976789299	Up
+map05146 Amoebiasis	Rab7a	10	K	K07897	1.97998641813366	Up
+map05146 Amoebiasis	Actn4	422	K	K05699	2.2015739970346	Up
+map05146 Amoebiasis	Lama4	675	K	K06241	3.27976311120009	Up
+map05146 Amoebiasis	Lama4	418	K	K06241	1.84336883981408	Up
+map05146 Amoebiasis	Lama2	1652	K	K05637	1.79586780304461	Up
+map05146 Amoebiasis	Lama2	1942	K	K05637	1.81311753021835	Up
+map05146 Amoebiasis	Lama2	1960	K	K05637	2.18207426315272	Up
+map05146 Amoebiasis	Lama2	2199	K	K05637	1.53045930576285	Up
+map05146 Amoebiasis	Lama2	1995	K	K05637	2.07989406436561	Up
+map05146 Amoebiasis	Lama2	1969	K	K05637	1.57374459997211	Up
+map05146 Amoebiasis	Lama2	3103	K	K05637	0.5265438463090479	Down
+map05146 Amoebiasis	Lama2	1305	K	K05637	1.9649554113947298	Up
+map05146 Amoebiasis	Lama2	1248	K	K05637	1.5204311872021699	Up
+map05146 Amoebiasis	Lama2	2086	K	K05637	2.16578776974651	Up
+map05146 Amoebiasis	Lama2	1752	K	K05637	1.5460112042677199	Up
+map05146 Amoebiasis	Lama2	2080	K	K05637	1.82072688523884	Up
+map05146 Amoebiasis	Serpinb6	109	K	K13963	1.69520537128758	Up
+map05146 Amoebiasis	Lamb2	1604	K	K06243	1.91717843037325	Up
+map05146 Amoebiasis	Vcl	655	K	K05700	2.3492244728372595	Up
+map05146 Amoebiasis	Vcl	666	K	K05700	3.8661483405917996	Up
+map05146 Amoebiasis	Vcl	496	K	K05700	1.7486409159574698	Up
+map05146 Amoebiasis	Vcl	924	K	K05700	1.9890404408649298	Up
+map05146 Amoebiasis	Vcl	219	K	K05700	2.11448128899224	Up
+map05146 Amoebiasis	Vcl	381	K	K05700	1.8102407607783702	Up
+map05146 Amoebiasis	Vcl	915	K	K05700	1.5524660587974297	Up
+map05146 Amoebiasis	Vcl	170	K	K05700	1.58318288318598	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Gsto1	114	K	K00799	1.8396216326618897	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Mtnd4	418	K	K03881	1.6873726143028798	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Mtnd5	434	K	K03883	1.5079342245266203	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Mtatp8	48	K	K02125	1.9656874157437398	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Sod1	137	K	K04565	1.87962328030822	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Sod1	123	K	K04565	1.84113192072691	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Sod2	122	K	K04564	1.7484832920059	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Sod2	68	K	K04564	1.8137288707161001	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Cox5b	67	K	K02265	2.7311105756549	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Cox4i1	78	K	K02263	1.84807808509148	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Cox4i1	67	K	K02263	2.14496455078531	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Cox4i1	164	K	K02263	1.53558857334508	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Cox4i1	168	K	K02263	1.67580418854774	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Cat	430	K	K03781	2.1028792248017902	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Gsta4	43	K	K00799	1.5077924539862901	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Gsta4	115	K	K00799	2.23682383233958	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Map2k4	129	K	K04430	1.5847901599127099	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Cbr1	157	K	K00079	1.6942204110400598	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Gstm5	72	K	K00799	1.5029375990771099	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Slc25a4	199	K	K05863	2.4337776634692596	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Slc25a4	33	K	K05863	1.54351407965467	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Slc25a5	147	K	K05863	1.6044238517062102	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Slc25a5	10	K	K05863	2.13409092567239	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Atp5f1e	37	K	K02135	1.69033382913488	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Atp5f1e	32	K	K02135	1.62529271912707	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Cox6b1	47	K	K02267	1.55048673101625	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Cox6b1	62	K	K02267	0.422580922999257	Down
+map05208 Chemical carcinogenesis - reactive oxygen species	Atp5f1b	485	K	K02133	1.78065910909891	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Atp5f1b	124	K	K02133	1.6269824854085901	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Atp5f1b	198	K	K02133	1.51033286748063	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Mapk1	136	K	K04371	1.61949077757732	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Uqcrh	40	K	K00416	1.50089754890731	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Atp5f1a	498	K	K02132	1.6649577222459	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Atp5f1a	539	K	K02132	1.69667239325562	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Atp5f1a	230	K	K02132	2.08314728535247	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Atp5f1a	531	K	K02132	1.5251367662891298	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Atp5f1a	261	K	K02132	1.59734598211302	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Vdac2	121	K	K15040	1.83026713128333	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Vdac2	46	K	K15040	1.7583156718693997	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Vdac1	33	K	K05862	1.60276866695275	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Cox7a2l	75	K	K02270	1.5406106392684498	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Nqo1	31	K	K00355	1.51078865330425	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufa12	107	K	K11352	1.54556279503238	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Sdha	485	K	K00234	1.61151162942494	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Sdha	179	K	K00234	1.65734010733135	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Sdha	608	K	K00234	1.54810900457415	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufs8	51	K	K03941	2.1326563077333303	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufs1	470	K	K03934	1.59704427536851	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufs1	467	K	K03934	1.5601601315586497	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufs1	420	K	K03934	1.84028338042619	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Atp5f1c	136	K	K02136	1.893941053985	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Atp5f1c	115	K	K02136	2.04242011988013	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Atp5f1c	49	K	K02136	1.64635406974387	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Atp5f1c	262	K	K02136	2.38919033337999	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Atp5f1c	270	K	K02136	1.90457019175429	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Atp5f1c	79	K	K02136	1.91046268573178	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufv1	365	K	K03942	1.6604357139333799	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufa10	242	K	K03954	1.52198313616891	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufa5	55	K	K03949	1.5722551071057	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Cox6c	47	K	K02268	0.199078639470338	Down
+map05208 Chemical carcinogenesis - reactive oxygen species	Sdhb	125	K	K00235	1.67603311320959	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufb5	131	K	K03961	1.89155029338735	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufb9	55	K	K03965	1.6062934897247199	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Atp5pb	162	K	K02127	1.68583267955346	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Atp5pb	221	K	K02127	1.9721139227634499	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Atp5pb	233	K	K02127	1.8276784693673798	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Atp5pb	139	K	K02127	1.5002050258485002	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufb3	40	K	K03959	2.4190962342748397	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufab1	97	K	K03955	2.1717462008785002	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufs4	95	K	K03937	1.73918998613815	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Uqcrc1	134	K	K00414	1.6397593168415001	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Uqcrc1	102	K	K00414	1.5561498368483702	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Uqcrb	45	K	K00417	1.69014166331896	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufa11	129	K	K03956	0.45187277770723405	Down
+map05208 Chemical carcinogenesis - reactive oxygen species	Atp5po	60	K	K02137	1.8905238536114402	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Uqcrc2	375	K	K00415	1.7044761119771998	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Uqcrc2	162	K	K00415	1.88540496250501	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufa9	157	K	K03953	1.63726901571313	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufa9	237	K	K03953	1.66127028452299	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufs7	62	K	K03940	0.519698358338069	Down
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufa8	159	K	K03952	1.5355252477991799	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufb10	134	K	K03966	1.67444800371129	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Atp5pd	95	K	K02138	1.9720706595643798	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Atp5pd	117	K	K02138	1.59163261020815	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufa7	80	K	K03951	2.0187831095419697	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufa7	102	K	K03951	1.7423701338309399	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1772	K	K17751	1.76605188231996	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1758	K	K17751	1.9990835485150302	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1759	K	K17751	2.19797679890434	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	24634	K	K12567	0.5579330327202429	Down
+map05410 Hypertrophic cardiomyopathy	Ttn	30867	K	K12567	0.43014689389047794	Down
+map05410 Hypertrophic cardiomyopathy	Ttn	668	K	K12567	1.8158054366560399	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	13870	K	K12567	3.31342101819237	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	8760	K	K12567	1.53002239553989	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	34764	K	K12567	2.26835392341589	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	9318	K	K12567	2.25476585013014	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	1606	K	K12567	1.6116072806415802	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	21668	K	K12567	1.58668539378514	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	1804	K	K12567	2.88367260737437	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	2049	K	K12567	1.53644491735277	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	4209	K	K12567	2.6393784756683503	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	34333	K	K12567	1.77407632236255	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	14661	K	K12567	1.77498384893947	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	33004	K	K12567	1.71172995047791	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	13234	K	K12567	1.59444041633638	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	34514	K	K12567	1.55472866183931	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	19945	K	K12567	1.5221772470575903	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	2773	K	K12567	1.57937194673865	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	21989	K	K12567	1.5440598205407101	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	22324	K	K12567	2.04504295001945	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	23383	K	K12567	1.50565855442229	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	10166	K	K12567	3.69641656123267	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	622	K	K12567	1.51021447105558	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	33989	K	K12567	1.63795295199397	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	9269	K	K12567	1.5730000733891	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	2041	K	K12567	1.63464376033438	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	30995	K	K12567	1.5452490275996598	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	26345	K	K12567	1.81986980159217	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	33750	K	K12567	2.0182831743356497	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	8896	K	K12567	1.66314702057587	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	1233	K	K12567	1.555058332791	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	34777	K	K12567	1.7482548363064199	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	34785	K	K12567	1.60957617395116	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	30816	K	K12567	1.76340704699646	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	9610	K	K12567	1.6980402688545	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	28507	K	K12567	1.52718220686623	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	30376	K	K12567	1.52007920330829	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	28915	K	K12567	1.55513915978613	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	34807	K	K12567	1.84324324559791	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	17248	K	K12567	1.5395946313728601	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	34615	K	K12567	1.95600034530308	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	4001	K	K12567	1.54158541778325	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	29160	K	K12567	1.56325364639168	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	32315	K	K12567	1.70057851461929	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	9685	K	K12567	1.98082783091227	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	9688	K	K12567	1.6237488294180602	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	34831	K	K12567	1.61053578827941	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	30590	K	K12567	1.5681970126987401	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	34825	K	K12567	1.91957370711267	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	2265	K	K12567	1.8031355076592401	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	20260	K	K12567	1.68362242402163	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	19722	K	K12567	1.67184734174465	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	33074	K	K12567	2.10791042065142	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	28422	K	K12567	1.6094918096173998	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	23916	K	K12567	1.50143435029896	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	13770	K	K12567	1.52828327387633	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	34745	K	K12567	1.8329342134322	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	34676	K	K12567	1.98504891848945	Up
+map05410 Hypertrophic cardiomyopathy	Ryr2	3340	K	K04962	1.84882154389882	Up
+map05410 Hypertrophic cardiomyopathy	Ryr2	2562	K	K04962	1.50189220824255	Up
+map05410 Hypertrophic cardiomyopathy	Ryr2	2730	K	K04962	1.89512521439859	Up
+map05410 Hypertrophic cardiomyopathy	Ryr2	2607	K	K04962	1.56230782307107	Up
+map05410 Hypertrophic cardiomyopathy	Ryr2	3075	K	K04962	1.79316259353854	Up
+map05410 Hypertrophic cardiomyopathy	Prkag1	263	K	K07200	1.93559124736826	Up
+map05410 Hypertrophic cardiomyopathy	Atp2a2	492	K	K05853	1.78518397875101	Up
+map05410 Hypertrophic cardiomyopathy	Atp2a2	502	K	K05853	1.7108745812453703	Up
+map05410 Hypertrophic cardiomyopathy	Atp2a2	205	K	K05853	1.5683221447477702	Up
+map05410 Hypertrophic cardiomyopathy	Mybpc3	87	K	K12568	1.7051545647633002	Up
+map05410 Hypertrophic cardiomyopathy	Mybpc3	505	K	K12568	1.7572901465707702	Up
+map05410 Hypertrophic cardiomyopathy	Mybpc3	373	K	K12568	1.92791333806129	Up
+map05410 Hypertrophic cardiomyopathy	Mybpc3	14	K	K12568	1.5051783138890902	Up
+map05410 Hypertrophic cardiomyopathy	Mybpc3	394	K	K12568	1.9260118684543601	Up
+map05410 Hypertrophic cardiomyopathy	Mybpc3	1146	K	K12568	1.6359288632342401	Up
+map05410 Hypertrophic cardiomyopathy	Itgb1	619	K	K05719	2.2804257051607797	Up
+map05410 Hypertrophic cardiomyopathy	Itgb1	398	K	K05719	1.5735720716136297	Up
+map05410 Hypertrophic cardiomyopathy	Myl3	50	K	K12749	1.8200733106540599	Up
+map05410 Hypertrophic cardiomyopathy	Myl3	52	K	K12749	1.5602892232832801	Up
+map05410 Hypertrophic cardiomyopathy	Myl3	134	K	K12749	2.49388880245127	Up
+map05410 Hypertrophic cardiomyopathy	Dmd	1206	K	K10366	1.78932965382767	Up
+map05410 Hypertrophic cardiomyopathy	Dmd	1060	K	K10366	1.69358975538099	Up
+map05410 Hypertrophic cardiomyopathy	Dmd	2600	K	K10366	1.53480072635593	Up
+map05410 Hypertrophic cardiomyopathy	Dmd	3305	K	K10366	2.0648152952675	Up
+map05410 Hypertrophic cardiomyopathy	Dmd	2061	K	K10366	1.68612690472352	Up
+map05410 Hypertrophic cardiomyopathy	Dmd	2073	K	K10366	1.56706474344186	Up
+map05410 Hypertrophic cardiomyopathy	Dmd	2142	K	K10366	1.78652926811613	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	944	K	K17751	2.8179490358046095	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	953	K	K17751	2.1762738941627298	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	503	K	K17751	1.69744429019523	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1392	K	K17751	2.0272774892458	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1376	K	K17751	2.25687263717488	Up
+map05410 Hypertrophic cardiomyopathy	Tnnc1	17	K	K05865	1.9546793641867	Up
+map05410 Hypertrophic cardiomyopathy	Tnnc1	106	K	K05865	1.92874915827763	Up
+map05410 Hypertrophic cardiomyopathy	Des	108	K	K07610	1.5297516802596	Up
+map05410 Hypertrophic cardiomyopathy	Tpm3	153	K	K09290	2.29353134732412	Up
+map05410 Hypertrophic cardiomyopathy	Tpm1	59	K	K10373	2.2133055278542204	Up
+map05410 Hypertrophic cardiomyopathy	Tpm1	65	K	K10373	2.0917941278470598	Up
+map05410 Hypertrophic cardiomyopathy	Tpm1	51	K	K10373	1.65073789392728	Up
+map05410 Hypertrophic cardiomyopathy	Des	192	K	K07610	2.24754575956885	Up
+map05410 Hypertrophic cardiomyopathy	Des	239	K	K07610	2.11326231797954	Up
+map05410 Hypertrophic cardiomyopathy	Des	298	K	K07610	1.8880589194636201	Up
+map05410 Hypertrophic cardiomyopathy	Des	317	K	K07610	1.5009700991524397	Up
+map05410 Hypertrophic cardiomyopathy	Des	308	K	K07610	1.94998288994259	Up
+map05410 Hypertrophic cardiomyopathy	Lmna	180	K	K12641	2.91168237463861	Up
+map05410 Hypertrophic cardiomyopathy	Lmna	233	K	K12641	3.54913583181476	Up
+map05410 Hypertrophic cardiomyopathy	Tnni3	51	K	K12044	1.65852854298567	Up
+map05410 Hypertrophic cardiomyopathy	Tnni3	118	K	K12044	1.7523170621818798	Up
+map05410 Hypertrophic cardiomyopathy	Tnni3	121	K	K12044	1.70055027818714	Up
+map05410 Hypertrophic cardiomyopathy	Tnnt2	137	K	K12045	1.93147517939159	Up
+map05410 Hypertrophic cardiomyopathy	Tnnt2	271	K	K12045	1.6135200797670501	Up
+map05410 Hypertrophic cardiomyopathy	Myl2	111	K	K10351	1.95775431769979	Up
+map05410 Hypertrophic cardiomyopathy	Tpm1	189	K	K10373	1.60888834803396	Up
+map05410 Hypertrophic cardiomyopathy	Tpm1	226	K	K10373	2.11579744433103	Up
+map05410 Hypertrophic cardiomyopathy	Tpm1	48	K	K10373	1.64071404451994	Up
+map05410 Hypertrophic cardiomyopathy	Tpm1	248	K	K10373	1.6643133698177002	Up
+map05410 Hypertrophic cardiomyopathy	Tpm1	205	K	K10373	2.04645019249106	Up
+map05410 Hypertrophic cardiomyopathy	Tpm1	217	K	K10373	1.8202117089108203	Up
+map05410 Hypertrophic cardiomyopathy	Sgcb	204	K	K12566	1.63593500859308	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1577	K	K17751	1.6731181839751301	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1581	K	K17751	1.95768263623349	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1589	K	K17751	1.5733193496183	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1244	K	K17751	1.5883335311878797	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1281	K	K17751	2.0470723757417	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1328	K	K17751	1.5278842819248102	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1136	K	K17751	1.74533232837234	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1018	K	K17751	2.87897726343282	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	914	K	K17751	1.8711193782485198	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	867	K	K17751	2.27688195619315	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1175	K	K17751	2.72638604501748	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	83	K	K17751	1.98876143181111	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	67	K	K17751	1.82876167520249	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1242	K	K17751	2.70397751158634	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1833	K	K17751	2.2829651360344503	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1840	K	K17751	1.64986286531356	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1861	K	K17751	2.00472193588619	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1523	K	K17751	1.76368327408934	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1530	K	K17751	2.18778506002344	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1786	K	K17751	2.09378086545268	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1793	K	K17751	1.6559608570058502	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1646	K	K17751	2.01229354918486	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1653	K	K17751	1.9145482328266001	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1643	K	K17751	1.9309192982216499	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	258	K	K17751	1.57630802726991	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	849	K	K17751	2.08300623660623	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1459	K	K17751	1.98900564729341	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1461	K	K17751	1.85068502267265	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1474	K	K17751	2.3088773723864104	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	922	K	K17751	1.58993777307621	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	641	K	K17751	22.5401789640783	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1730	K	K17751	1.77695784522638	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1075	K	K17751	2.26387695447966	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1559	K	K17751	1.8622079006069	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1900	K	K17751	2.87868116895064	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	941	K	K17751	2.29830048257034	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1167	K	K17751	1.7693336572579	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1044	K	K17751	1.76731572306309	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1501	K	K17751	2.31046845610785	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1412	K	K17751	3.91791228939279	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1897	K	K17751	1.8944340169935	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1326	K	K17751	2.3948103878794598	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1446	K	K17751	1.66042775489791	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1447	K	K17751	1.6679551425436598	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1617	K	K17751	1.70537399208906	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1264	K	K17751	1.51465196523337	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1365	K	K17751	1.51932726856024	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1729	K	K17751	2.1235245783598997	Up
+map05410 Hypertrophic cardiomyopathy	Lama2	1652	K	K05637	1.79586780304461	Up
+map05410 Hypertrophic cardiomyopathy	Lama2	1942	K	K05637	1.81311753021835	Up
+map05410 Hypertrophic cardiomyopathy	Lama2	1960	K	K05637	2.18207426315272	Up
+map05410 Hypertrophic cardiomyopathy	Lama2	2199	K	K05637	1.53045930576285	Up
+map05410 Hypertrophic cardiomyopathy	Lama2	1995	K	K05637	2.07989406436561	Up
+map05410 Hypertrophic cardiomyopathy	Lama2	1969	K	K05637	1.57374459997211	Up
+map05410 Hypertrophic cardiomyopathy	Lama2	3103	K	K05637	0.5265438463090479	Down
+map05410 Hypertrophic cardiomyopathy	Lama2	1305	K	K05637	1.9649554113947298	Up
+map05410 Hypertrophic cardiomyopathy	Lama2	1248	K	K05637	1.5204311872021699	Up
+map05410 Hypertrophic cardiomyopathy	Lama2	2086	K	K05637	2.16578776974651	Up
+map05410 Hypertrophic cardiomyopathy	Lama2	1752	K	K05637	1.5460112042677199	Up
+map05410 Hypertrophic cardiomyopathy	Lama2	2080	K	K05637	1.82072688523884	Up
+map05410 Hypertrophic cardiomyopathy	Tpm4	11	K	K10375	1.6072433991895902	Up
+map05410 Hypertrophic cardiomyopathy	Tpm4	116	K	K10375	1.63398471067547	Up
+map05410 Hypertrophic cardiomyopathy	Myh7	1242	K	K17751	0.0402865540750446	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	640	K	K17751	0.0240695460487419	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	551	K	K17751	0.0163377617200215	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	559	K	K17751	0.0235513698579582	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	1016	K	K17751	0.0546501279833977	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	1026	K	K17751	0.0281914779237868	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	963	K	K17751	0.0257868444499177	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	966	K	K17751	0.0206697386794086	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	234	K	K17751	0.0149562027031889	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	83	K	K17751	0.037715392250526	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	434	K	K17751	0.0147799232523145	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	1848	K	K17751	2.52071706994305	Up
+map05410 Hypertrophic cardiomyopathy	Myh7	837	K	K17751	0.0201537442356663	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	841	K	K17751	0.0263825029061623	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	1728	K	K17751	0.0337325755288806	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	942	K	K17751	0.0608573005192544	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	1557	K	K17751	0.0365776546916038	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	1042	K	K17751	0.0330971634832178	Down
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Ryr2	3340	K	K04962	1.84882154389882	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Ryr2	2562	K	K04962	1.50189220824255	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Ryr2	2730	K	K04962	1.89512521439859	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Ryr2	2607	K	K04962	1.56230782307107	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Ryr2	3075	K	K04962	1.79316259353854	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Dsp	1541	K	K10381	1.7583074906121998	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Dsp	1240	K	K10381	1.89462670423451	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Dsp	2604	K	K10381	1.84705014146981	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Dsp	1814	K	K10381	2.12497049396958	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Dsp	1425	K	K10381	1.8107504832532701	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Dsp	1499	K	K10381	2.00469435183835	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Dsp	1221	K	K10381	1.89781007902798	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Dsp	1688	K	K10381	1.65459754702712	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Dsp	1712	K	K10381	1.7194005509760202	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Dsp	1564	K	K10381	1.65979658090042	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Atp2a2	492	K	K05853	1.78518397875101	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Atp2a2	502	K	K05853	1.7108745812453703	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Atp2a2	205	K	K05853	1.5683221447477702	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Itgb1	619	K	K05719	2.2804257051607797	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Itgb1	398	K	K05719	1.5735720716136297	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Dmd	1206	K	K10366	1.78932965382767	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Dmd	1060	K	K10366	1.69358975538099	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Dmd	2600	K	K10366	1.53480072635593	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Dmd	3305	K	K10366	2.0648152952675	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Dmd	2061	K	K10366	1.68612690472352	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Dmd	2073	K	K10366	1.56706474344186	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Dmd	2142	K	K10366	1.78652926811613	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Des	108	K	K07610	1.5297516802596	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Gja1	136	K	K07372	1.78770421817924	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Gja1	108	K	K07372	1.8469120863134199	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Des	192	K	K07610	2.24754575956885	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Des	239	K	K07610	2.11326231797954	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Des	298	K	K07610	1.8880589194636201	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Des	317	K	K07610	1.5009700991524397	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Des	308	K	K07610	1.94998288994259	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Lmna	180	K	K12641	2.91168237463861	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Lmna	233	K	K12641	3.54913583181476	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Actn2	443	K	K21073	1.7524543035300202	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Sgcb	204	K	K12566	1.63593500859308	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Ctnnb1	180	K	K02105	1.58843329895822	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Jup	171	K	K10056	1.6130744744303	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Lama2	1652	K	K05637	1.79586780304461	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Lama2	1942	K	K05637	1.81311753021835	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Lama2	1960	K	K05637	2.18207426315272	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Lama2	2199	K	K05637	1.53045930576285	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Lama2	1995	K	K05637	2.07989406436561	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Lama2	1969	K	K05637	1.57374459997211	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Lama2	3103	K	K05637	0.5265438463090479	Down
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Lama2	1305	K	K05637	1.9649554113947298	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Lama2	1248	K	K05637	1.5204311872021699	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Lama2	2086	K	K05637	2.16578776974651	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Lama2	1752	K	K05637	1.5460112042677199	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Lama2	2080	K	K05637	1.82072688523884	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Ctnna3	780	K	K05691	1.70458913776681	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Ctnna3	471	K	K05691	1.6171601723170599	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Actn2	748	K	K21073	1.8357041771801998	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Actn2	271	K	K21073	1.5653432969828	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Actn2	405	K	K21073	1.7288987015330401	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Actn2	523	K	K21073	1.85854119857376	Up
+map05412 Arrhythmogenic right ventricular cardiomyopathy	Actn2	409	K	K21073	1.54342839905151	Up
+map05414 Dilated cardiomyopathy	Myh6	1772	K	K17751	1.76605188231996	Up
+map05414 Dilated cardiomyopathy	Myh6	1758	K	K17751	1.9990835485150302	Up
+map05414 Dilated cardiomyopathy	Myh6	1759	K	K17751	2.19797679890434	Up
+map05414 Dilated cardiomyopathy	Ttn	24634	K	K12567	0.5579330327202429	Down
+map05414 Dilated cardiomyopathy	Ttn	30867	K	K12567	0.43014689389047794	Down
+map05414 Dilated cardiomyopathy	Ttn	668	K	K12567	1.8158054366560399	Up
+map05414 Dilated cardiomyopathy	Ttn	13870	K	K12567	3.31342101819237	Up
+map05414 Dilated cardiomyopathy	Ttn	8760	K	K12567	1.53002239553989	Up
+map05414 Dilated cardiomyopathy	Ttn	34764	K	K12567	2.26835392341589	Up
+map05414 Dilated cardiomyopathy	Ttn	9318	K	K12567	2.25476585013014	Up
+map05414 Dilated cardiomyopathy	Ttn	1606	K	K12567	1.6116072806415802	Up
+map05414 Dilated cardiomyopathy	Ttn	21668	K	K12567	1.58668539378514	Up
+map05414 Dilated cardiomyopathy	Ttn	1804	K	K12567	2.88367260737437	Up
+map05414 Dilated cardiomyopathy	Ttn	2049	K	K12567	1.53644491735277	Up
+map05414 Dilated cardiomyopathy	Ttn	4209	K	K12567	2.6393784756683503	Up
+map05414 Dilated cardiomyopathy	Ttn	34333	K	K12567	1.77407632236255	Up
+map05414 Dilated cardiomyopathy	Ttn	14661	K	K12567	1.77498384893947	Up
+map05414 Dilated cardiomyopathy	Ttn	33004	K	K12567	1.71172995047791	Up
+map05414 Dilated cardiomyopathy	Ttn	13234	K	K12567	1.59444041633638	Up
+map05414 Dilated cardiomyopathy	Ttn	34514	K	K12567	1.55472866183931	Up
+map05414 Dilated cardiomyopathy	Ttn	19945	K	K12567	1.5221772470575903	Up
+map05414 Dilated cardiomyopathy	Ttn	2773	K	K12567	1.57937194673865	Up
+map05414 Dilated cardiomyopathy	Ttn	21989	K	K12567	1.5440598205407101	Up
+map05414 Dilated cardiomyopathy	Ttn	22324	K	K12567	2.04504295001945	Up
+map05414 Dilated cardiomyopathy	Ttn	23383	K	K12567	1.50565855442229	Up
+map05414 Dilated cardiomyopathy	Ttn	10166	K	K12567	3.69641656123267	Up
+map05414 Dilated cardiomyopathy	Ttn	622	K	K12567	1.51021447105558	Up
+map05414 Dilated cardiomyopathy	Ttn	33989	K	K12567	1.63795295199397	Up
+map05414 Dilated cardiomyopathy	Ttn	9269	K	K12567	1.5730000733891	Up
+map05414 Dilated cardiomyopathy	Ttn	2041	K	K12567	1.63464376033438	Up
+map05414 Dilated cardiomyopathy	Ttn	30995	K	K12567	1.5452490275996598	Up
+map05414 Dilated cardiomyopathy	Ttn	26345	K	K12567	1.81986980159217	Up
+map05414 Dilated cardiomyopathy	Ttn	33750	K	K12567	2.0182831743356497	Up
+map05414 Dilated cardiomyopathy	Ttn	8896	K	K12567	1.66314702057587	Up
+map05414 Dilated cardiomyopathy	Ttn	1233	K	K12567	1.555058332791	Up
+map05414 Dilated cardiomyopathy	Ttn	34777	K	K12567	1.7482548363064199	Up
+map05414 Dilated cardiomyopathy	Ttn	34785	K	K12567	1.60957617395116	Up
+map05414 Dilated cardiomyopathy	Ttn	30816	K	K12567	1.76340704699646	Up
+map05414 Dilated cardiomyopathy	Ttn	9610	K	K12567	1.6980402688545	Up
+map05414 Dilated cardiomyopathy	Ttn	28507	K	K12567	1.52718220686623	Up
+map05414 Dilated cardiomyopathy	Ttn	30376	K	K12567	1.52007920330829	Up
+map05414 Dilated cardiomyopathy	Ttn	28915	K	K12567	1.55513915978613	Up
+map05414 Dilated cardiomyopathy	Ttn	34807	K	K12567	1.84324324559791	Up
+map05414 Dilated cardiomyopathy	Ttn	17248	K	K12567	1.5395946313728601	Up
+map05414 Dilated cardiomyopathy	Ttn	34615	K	K12567	1.95600034530308	Up
+map05414 Dilated cardiomyopathy	Ttn	4001	K	K12567	1.54158541778325	Up
+map05414 Dilated cardiomyopathy	Ttn	29160	K	K12567	1.56325364639168	Up
+map05414 Dilated cardiomyopathy	Ttn	32315	K	K12567	1.70057851461929	Up
+map05414 Dilated cardiomyopathy	Ttn	9685	K	K12567	1.98082783091227	Up
+map05414 Dilated cardiomyopathy	Ttn	9688	K	K12567	1.6237488294180602	Up
+map05414 Dilated cardiomyopathy	Ttn	34831	K	K12567	1.61053578827941	Up
+map05414 Dilated cardiomyopathy	Ttn	30590	K	K12567	1.5681970126987401	Up
+map05414 Dilated cardiomyopathy	Ttn	34825	K	K12567	1.91957370711267	Up
+map05414 Dilated cardiomyopathy	Ttn	2265	K	K12567	1.8031355076592401	Up
+map05414 Dilated cardiomyopathy	Ttn	20260	K	K12567	1.68362242402163	Up
+map05414 Dilated cardiomyopathy	Ttn	19722	K	K12567	1.67184734174465	Up
+map05414 Dilated cardiomyopathy	Ttn	33074	K	K12567	2.10791042065142	Up
+map05414 Dilated cardiomyopathy	Ttn	28422	K	K12567	1.6094918096173998	Up
+map05414 Dilated cardiomyopathy	Ttn	23916	K	K12567	1.50143435029896	Up
+map05414 Dilated cardiomyopathy	Ttn	13770	K	K12567	1.52828327387633	Up
+map05414 Dilated cardiomyopathy	Ttn	34745	K	K12567	1.8329342134322	Up
+map05414 Dilated cardiomyopathy	Ttn	34676	K	K12567	1.98504891848945	Up
+map05414 Dilated cardiomyopathy	Ryr2	3340	K	K04962	1.84882154389882	Up
+map05414 Dilated cardiomyopathy	Ryr2	2562	K	K04962	1.50189220824255	Up
+map05414 Dilated cardiomyopathy	Ryr2	2730	K	K04962	1.89512521439859	Up
+map05414 Dilated cardiomyopathy	Ryr2	2607	K	K04962	1.56230782307107	Up
+map05414 Dilated cardiomyopathy	Ryr2	3075	K	K04962	1.79316259353854	Up
+map05414 Dilated cardiomyopathy	Atp2a2	492	K	K05853	1.78518397875101	Up
+map05414 Dilated cardiomyopathy	Atp2a2	502	K	K05853	1.7108745812453703	Up
+map05414 Dilated cardiomyopathy	Atp2a2	205	K	K05853	1.5683221447477702	Up
+map05414 Dilated cardiomyopathy	Mybpc3	87	K	K12568	1.7051545647633002	Up
+map05414 Dilated cardiomyopathy	Mybpc3	505	K	K12568	1.7572901465707702	Up
+map05414 Dilated cardiomyopathy	Mybpc3	373	K	K12568	1.92791333806129	Up
+map05414 Dilated cardiomyopathy	Mybpc3	14	K	K12568	1.5051783138890902	Up
+map05414 Dilated cardiomyopathy	Mybpc3	394	K	K12568	1.9260118684543601	Up
+map05414 Dilated cardiomyopathy	Mybpc3	1146	K	K12568	1.6359288632342401	Up
+map05414 Dilated cardiomyopathy	Prkaca	318	K	K04345	0.613595912853367	Down
+map05414 Dilated cardiomyopathy	Itgb1	619	K	K05719	2.2804257051607797	Up
+map05414 Dilated cardiomyopathy	Itgb1	398	K	K05719	1.5735720716136297	Up
+map05414 Dilated cardiomyopathy	Myl3	50	K	K12749	1.8200733106540599	Up
+map05414 Dilated cardiomyopathy	Myl3	52	K	K12749	1.5602892232832801	Up
+map05414 Dilated cardiomyopathy	Myl3	134	K	K12749	2.49388880245127	Up
+map05414 Dilated cardiomyopathy	Dmd	1206	K	K10366	1.78932965382767	Up
+map05414 Dilated cardiomyopathy	Dmd	1060	K	K10366	1.69358975538099	Up
+map05414 Dilated cardiomyopathy	Dmd	2600	K	K10366	1.53480072635593	Up
+map05414 Dilated cardiomyopathy	Dmd	3305	K	K10366	2.0648152952675	Up
+map05414 Dilated cardiomyopathy	Dmd	2061	K	K10366	1.68612690472352	Up
+map05414 Dilated cardiomyopathy	Dmd	2073	K	K10366	1.56706474344186	Up
+map05414 Dilated cardiomyopathy	Dmd	2142	K	K10366	1.78652926811613	Up
+map05414 Dilated cardiomyopathy	Myh6	944	K	K17751	2.8179490358046095	Up
+map05414 Dilated cardiomyopathy	Myh6	953	K	K17751	2.1762738941627298	Up
+map05414 Dilated cardiomyopathy	Myh6	503	K	K17751	1.69744429019523	Up
+map05414 Dilated cardiomyopathy	Myh6	1392	K	K17751	2.0272774892458	Up
+map05414 Dilated cardiomyopathy	Myh6	1376	K	K17751	2.25687263717488	Up
+map05414 Dilated cardiomyopathy	Tnnc1	17	K	K05865	1.9546793641867	Up
+map05414 Dilated cardiomyopathy	Tnnc1	106	K	K05865	1.92874915827763	Up
+map05414 Dilated cardiomyopathy	Des	108	K	K07610	1.5297516802596	Up
+map05414 Dilated cardiomyopathy	Tpm3	153	K	K09290	2.29353134732412	Up
+map05414 Dilated cardiomyopathy	Tpm1	59	K	K10373	2.2133055278542204	Up
+map05414 Dilated cardiomyopathy	Tpm1	65	K	K10373	2.0917941278470598	Up
+map05414 Dilated cardiomyopathy	Tpm1	51	K	K10373	1.65073789392728	Up
+map05414 Dilated cardiomyopathy	Des	192	K	K07610	2.24754575956885	Up
+map05414 Dilated cardiomyopathy	Des	239	K	K07610	2.11326231797954	Up
+map05414 Dilated cardiomyopathy	Des	298	K	K07610	1.8880589194636201	Up
+map05414 Dilated cardiomyopathy	Des	317	K	K07610	1.5009700991524397	Up
+map05414 Dilated cardiomyopathy	Des	308	K	K07610	1.94998288994259	Up
+map05414 Dilated cardiomyopathy	Lmna	180	K	K12641	2.91168237463861	Up
+map05414 Dilated cardiomyopathy	Lmna	233	K	K12641	3.54913583181476	Up
+map05414 Dilated cardiomyopathy	Tnni3	51	K	K12044	1.65852854298567	Up
+map05414 Dilated cardiomyopathy	Tnni3	118	K	K12044	1.7523170621818798	Up
+map05414 Dilated cardiomyopathy	Tnni3	121	K	K12044	1.70055027818714	Up
+map05414 Dilated cardiomyopathy	Tnnt2	137	K	K12045	1.93147517939159	Up
+map05414 Dilated cardiomyopathy	Tnnt2	271	K	K12045	1.6135200797670501	Up
+map05414 Dilated cardiomyopathy	Myl2	111	K	K10351	1.95775431769979	Up
+map05414 Dilated cardiomyopathy	Tpm1	189	K	K10373	1.60888834803396	Up
+map05414 Dilated cardiomyopathy	Tpm1	226	K	K10373	2.11579744433103	Up
+map05414 Dilated cardiomyopathy	Tpm1	48	K	K10373	1.64071404451994	Up
+map05414 Dilated cardiomyopathy	Tpm1	248	K	K10373	1.6643133698177002	Up
+map05414 Dilated cardiomyopathy	Tpm1	205	K	K10373	2.04645019249106	Up
+map05414 Dilated cardiomyopathy	Tpm1	217	K	K10373	1.8202117089108203	Up
+map05414 Dilated cardiomyopathy	Sgcb	204	K	K12566	1.63593500859308	Up
+map05414 Dilated cardiomyopathy	Myh6	1577	K	K17751	1.6731181839751301	Up
+map05414 Dilated cardiomyopathy	Myh6	1581	K	K17751	1.95768263623349	Up
+map05414 Dilated cardiomyopathy	Myh6	1589	K	K17751	1.5733193496183	Up
+map05414 Dilated cardiomyopathy	Myh6	1244	K	K17751	1.5883335311878797	Up
+map05414 Dilated cardiomyopathy	Myh6	1281	K	K17751	2.0470723757417	Up
+map05414 Dilated cardiomyopathy	Myh6	1328	K	K17751	1.5278842819248102	Up
+map05414 Dilated cardiomyopathy	Myh6	1136	K	K17751	1.74533232837234	Up
+map05414 Dilated cardiomyopathy	Myh6	1018	K	K17751	2.87897726343282	Up
+map05414 Dilated cardiomyopathy	Myh6	914	K	K17751	1.8711193782485198	Up
+map05414 Dilated cardiomyopathy	Myh6	867	K	K17751	2.27688195619315	Up
+map05414 Dilated cardiomyopathy	Myh6	1175	K	K17751	2.72638604501748	Up
+map05414 Dilated cardiomyopathy	Myh6	83	K	K17751	1.98876143181111	Up
+map05414 Dilated cardiomyopathy	Myh6	67	K	K17751	1.82876167520249	Up
+map05414 Dilated cardiomyopathy	Myh6	1242	K	K17751	2.70397751158634	Up
+map05414 Dilated cardiomyopathy	Myh6	1833	K	K17751	2.2829651360344503	Up
+map05414 Dilated cardiomyopathy	Myh6	1840	K	K17751	1.64986286531356	Up
+map05414 Dilated cardiomyopathy	Myh6	1861	K	K17751	2.00472193588619	Up
+map05414 Dilated cardiomyopathy	Myh6	1523	K	K17751	1.76368327408934	Up
+map05414 Dilated cardiomyopathy	Myh6	1530	K	K17751	2.18778506002344	Up
+map05414 Dilated cardiomyopathy	Myh6	1786	K	K17751	2.09378086545268	Up
+map05414 Dilated cardiomyopathy	Myh6	1793	K	K17751	1.6559608570058502	Up
+map05414 Dilated cardiomyopathy	Myh6	1646	K	K17751	2.01229354918486	Up
+map05414 Dilated cardiomyopathy	Myh6	1653	K	K17751	1.9145482328266001	Up
+map05414 Dilated cardiomyopathy	Myh6	1643	K	K17751	1.9309192982216499	Up
+map05414 Dilated cardiomyopathy	Myh6	258	K	K17751	1.57630802726991	Up
+map05414 Dilated cardiomyopathy	Myh6	849	K	K17751	2.08300623660623	Up
+map05414 Dilated cardiomyopathy	Myh6	1459	K	K17751	1.98900564729341	Up
+map05414 Dilated cardiomyopathy	Myh6	1461	K	K17751	1.85068502267265	Up
+map05414 Dilated cardiomyopathy	Myh6	1474	K	K17751	2.3088773723864104	Up
+map05414 Dilated cardiomyopathy	Myh6	922	K	K17751	1.58993777307621	Up
+map05414 Dilated cardiomyopathy	Myh6	641	K	K17751	22.5401789640783	Up
+map05414 Dilated cardiomyopathy	Myh6	1730	K	K17751	1.77695784522638	Up
+map05414 Dilated cardiomyopathy	Myh6	1075	K	K17751	2.26387695447966	Up
+map05414 Dilated cardiomyopathy	Myh6	1559	K	K17751	1.8622079006069	Up
+map05414 Dilated cardiomyopathy	Myh6	1900	K	K17751	2.87868116895064	Up
+map05414 Dilated cardiomyopathy	Myh6	941	K	K17751	2.29830048257034	Up
+map05414 Dilated cardiomyopathy	Myh6	1167	K	K17751	1.7693336572579	Up
+map05414 Dilated cardiomyopathy	Myh6	1044	K	K17751	1.76731572306309	Up
+map05414 Dilated cardiomyopathy	Myh6	1501	K	K17751	2.31046845610785	Up
+map05414 Dilated cardiomyopathy	Myh6	1412	K	K17751	3.91791228939279	Up
+map05414 Dilated cardiomyopathy	Myh6	1897	K	K17751	1.8944340169935	Up
+map05414 Dilated cardiomyopathy	Myh6	1326	K	K17751	2.3948103878794598	Up
+map05414 Dilated cardiomyopathy	Myh6	1446	K	K17751	1.66042775489791	Up
+map05414 Dilated cardiomyopathy	Myh6	1447	K	K17751	1.6679551425436598	Up
+map05414 Dilated cardiomyopathy	Myh6	1617	K	K17751	1.70537399208906	Up
+map05414 Dilated cardiomyopathy	Myh6	1264	K	K17751	1.51465196523337	Up
+map05414 Dilated cardiomyopathy	Myh6	1365	K	K17751	1.51932726856024	Up
+map05414 Dilated cardiomyopathy	Myh6	1729	K	K17751	2.1235245783598997	Up
+map05414 Dilated cardiomyopathy	Lama2	1652	K	K05637	1.79586780304461	Up
+map05414 Dilated cardiomyopathy	Lama2	1942	K	K05637	1.81311753021835	Up
+map05414 Dilated cardiomyopathy	Lama2	1960	K	K05637	2.18207426315272	Up
+map05414 Dilated cardiomyopathy	Lama2	2199	K	K05637	1.53045930576285	Up
+map05414 Dilated cardiomyopathy	Lama2	1995	K	K05637	2.07989406436561	Up
+map05414 Dilated cardiomyopathy	Lama2	1969	K	K05637	1.57374459997211	Up
+map05414 Dilated cardiomyopathy	Lama2	3103	K	K05637	0.5265438463090479	Down
+map05414 Dilated cardiomyopathy	Lama2	1305	K	K05637	1.9649554113947298	Up
+map05414 Dilated cardiomyopathy	Lama2	1248	K	K05637	1.5204311872021699	Up
+map05414 Dilated cardiomyopathy	Lama2	2086	K	K05637	2.16578776974651	Up
+map05414 Dilated cardiomyopathy	Lama2	1752	K	K05637	1.5460112042677199	Up
+map05414 Dilated cardiomyopathy	Lama2	2080	K	K05637	1.82072688523884	Up
+map05414 Dilated cardiomyopathy	Tpm4	11	K	K10375	1.6072433991895902	Up
+map05414 Dilated cardiomyopathy	Tpm4	116	K	K10375	1.63398471067547	Up
+map05414 Dilated cardiomyopathy	Myh7	1242	K	K17751	0.0402865540750446	Down
+map05414 Dilated cardiomyopathy	Myh7	640	K	K17751	0.0240695460487419	Down
+map05414 Dilated cardiomyopathy	Myh7	551	K	K17751	0.0163377617200215	Down
+map05414 Dilated cardiomyopathy	Myh7	559	K	K17751	0.0235513698579582	Down
+map05414 Dilated cardiomyopathy	Myh7	1016	K	K17751	0.0546501279833977	Down
+map05414 Dilated cardiomyopathy	Myh7	1026	K	K17751	0.0281914779237868	Down
+map05414 Dilated cardiomyopathy	Myh7	963	K	K17751	0.0257868444499177	Down
+map05414 Dilated cardiomyopathy	Myh7	966	K	K17751	0.0206697386794086	Down
+map05414 Dilated cardiomyopathy	Myh7	234	K	K17751	0.0149562027031889	Down
+map05414 Dilated cardiomyopathy	Myh7	83	K	K17751	0.037715392250526	Down
+map05414 Dilated cardiomyopathy	Myh7	434	K	K17751	0.0147799232523145	Down
+map05414 Dilated cardiomyopathy	Myh7	1848	K	K17751	2.52071706994305	Up
+map05414 Dilated cardiomyopathy	Myh7	837	K	K17751	0.0201537442356663	Down
+map05414 Dilated cardiomyopathy	Myh7	841	K	K17751	0.0263825029061623	Down
+map05414 Dilated cardiomyopathy	Myh7	1728	K	K17751	0.0337325755288806	Down
+map05414 Dilated cardiomyopathy	Myh7	942	K	K17751	0.0608573005192544	Down
+map05414 Dilated cardiomyopathy	Myh7	1557	K	K17751	0.0365776546916038	Down
+map05414 Dilated cardiomyopathy	Myh7	1042	K	K17751	0.0330971634832178	Down
+map05415 Diabetic cardiomyopathy	Ryr2	3340	K	K04962	1.84882154389882	Up
+map05415 Diabetic cardiomyopathy	Ryr2	2562	K	K04962	1.50189220824255	Up
+map05415 Diabetic cardiomyopathy	Ryr2	2730	K	K04962	1.89512521439859	Up
+map05415 Diabetic cardiomyopathy	Ryr2	2607	K	K04962	1.56230782307107	Up
+map05415 Diabetic cardiomyopathy	Ryr2	3075	K	K04962	1.79316259353854	Up
+map05415 Diabetic cardiomyopathy	Atp2a2	492	K	K05853	1.78518397875101	Up
+map05415 Diabetic cardiomyopathy	Atp2a2	502	K	K05853	1.7108745812453703	Up
+map05415 Diabetic cardiomyopathy	Atp2a2	205	K	K05853	1.5683221447477702	Up
+map05415 Diabetic cardiomyopathy	Mtnd4	418	K	K03881	1.6873726143028798	Up
+map05415 Diabetic cardiomyopathy	Mtnd5	434	K	K03883	1.5079342245266203	Up
+map05415 Diabetic cardiomyopathy	Mtatp8	48	K	K02125	1.9656874157437398	Up
+map05415 Diabetic cardiomyopathy	Gapdh	115	K	K00134	0.587305171798891	Down
+map05415 Diabetic cardiomyopathy	Gapdh	225	K	K00134	1.7674147648968899	Up
+map05415 Diabetic cardiomyopathy	Gapdh	261	K	K00134	1.55660848846255	Up
+map05415 Diabetic cardiomyopathy	Gapdh	252	K	K00134	1.72103244849667	Up
+map05415 Diabetic cardiomyopathy	Ctsd	174	K	K01379	1.71997410216681	Up
+map05415 Diabetic cardiomyopathy	Cox5b	67	K	K02265	2.7311105756549	Up
+map05415 Diabetic cardiomyopathy	Cox4i1	78	K	K02263	1.84807808509148	Up
+map05415 Diabetic cardiomyopathy	Cox4i1	67	K	K02263	2.14496455078531	Up
+map05415 Diabetic cardiomyopathy	Cox4i1	164	K	K02263	1.53558857334508	Up
+map05415 Diabetic cardiomyopathy	Cox4i1	168	K	K02263	1.67580418854774	Up
+map05415 Diabetic cardiomyopathy	Pdha1	63	K	K00161	1.60482611694029	Up
+map05415 Diabetic cardiomyopathy	Pdha1	18	K	K00161	1.96599899094471	Up
+map05415 Diabetic cardiomyopathy	Tnni3	51	K	K12044	1.65852854298567	Up
+map05415 Diabetic cardiomyopathy	Tnni3	118	K	K12044	1.7523170621818798	Up
+map05415 Diabetic cardiomyopathy	Tnni3	121	K	K12044	1.70055027818714	Up
+map05415 Diabetic cardiomyopathy	Slc25a4	199	K	K05863	2.4337776634692596	Up
+map05415 Diabetic cardiomyopathy	Slc25a4	33	K	K05863	1.54351407965467	Up
+map05415 Diabetic cardiomyopathy	Slc25a5	147	K	K05863	1.6044238517062102	Up
+map05415 Diabetic cardiomyopathy	Slc25a5	10	K	K05863	2.13409092567239	Up
+map05415 Diabetic cardiomyopathy	Cpt2	85	K	K08766	1.58020451352716	Up
+map05415 Diabetic cardiomyopathy	Cpt2	62	K	K08766	1.9373045642712399	Up
+map05415 Diabetic cardiomyopathy	Cpt2	510	K	K08766	1.5980416293808202	Up
+map05415 Diabetic cardiomyopathy	Cpt2	495	K	K08766	1.54880789465359	Up
+map05415 Diabetic cardiomyopathy	Atp5f1e	37	K	K02135	1.69033382913488	Up
+map05415 Diabetic cardiomyopathy	Atp5f1e	32	K	K02135	1.62529271912707	Up
+map05415 Diabetic cardiomyopathy	Cox6b1	47	K	K02267	1.55048673101625	Up
+map05415 Diabetic cardiomyopathy	Cox6b1	62	K	K02267	0.422580922999257	Down
+map05415 Diabetic cardiomyopathy	Atp5f1b	485	K	K02133	1.78065910909891	Up
+map05415 Diabetic cardiomyopathy	Atp5f1b	124	K	K02133	1.6269824854085901	Up
+map05415 Diabetic cardiomyopathy	Atp5f1b	198	K	K02133	1.51033286748063	Up
+map05415 Diabetic cardiomyopathy	Uqcrh	40	K	K00416	1.50089754890731	Up
+map05415 Diabetic cardiomyopathy	Atp5f1a	498	K	K02132	1.6649577222459	Up
+map05415 Diabetic cardiomyopathy	Atp5f1a	539	K	K02132	1.69667239325562	Up
+map05415 Diabetic cardiomyopathy	Atp5f1a	230	K	K02132	2.08314728535247	Up
+map05415 Diabetic cardiomyopathy	Atp5f1a	531	K	K02132	1.5251367662891298	Up
+map05415 Diabetic cardiomyopathy	Atp5f1a	261	K	K02132	1.59734598211302	Up
+map05415 Diabetic cardiomyopathy	Cd36	437	K	K06259	1.75208548636738	Up
+map05415 Diabetic cardiomyopathy	Cd36	403	K	K06259	1.70312716995687	Up
+map05415 Diabetic cardiomyopathy	Cd36	166	K	K06259	1.5563572485038601	Up
+map05415 Diabetic cardiomyopathy	Cd36	176	K	K06259	1.86746785737425	Up
+map05415 Diabetic cardiomyopathy	Vdac2	121	K	K15040	1.83026713128333	Up
+map05415 Diabetic cardiomyopathy	Vdac2	46	K	K15040	1.7583156718693997	Up
+map05415 Diabetic cardiomyopathy	Vdac1	33	K	K05862	1.60276866695275	Up
+map05415 Diabetic cardiomyopathy	Cox7a2l	75	K	K02270	1.5406106392684498	Up
+map05415 Diabetic cardiomyopathy	Ndufa12	107	K	K11352	1.54556279503238	Up
+map05415 Diabetic cardiomyopathy	Sdha	485	K	K00234	1.61151162942494	Up
+map05415 Diabetic cardiomyopathy	Sdha	179	K	K00234	1.65734010733135	Up
+map05415 Diabetic cardiomyopathy	Sdha	608	K	K00234	1.54810900457415	Up
+map05415 Diabetic cardiomyopathy	Ndufs8	51	K	K03941	2.1326563077333303	Up
+map05415 Diabetic cardiomyopathy	Ndufs1	470	K	K03934	1.59704427536851	Up
+map05415 Diabetic cardiomyopathy	Ndufs1	467	K	K03934	1.5601601315586497	Up
+map05415 Diabetic cardiomyopathy	Ndufs1	420	K	K03934	1.84028338042619	Up
+map05415 Diabetic cardiomyopathy	Atp5f1c	136	K	K02136	1.893941053985	Up
+map05415 Diabetic cardiomyopathy	Atp5f1c	115	K	K02136	2.04242011988013	Up
+map05415 Diabetic cardiomyopathy	Atp5f1c	49	K	K02136	1.64635406974387	Up
+map05415 Diabetic cardiomyopathy	Atp5f1c	262	K	K02136	2.38919033337999	Up
+map05415 Diabetic cardiomyopathy	Atp5f1c	270	K	K02136	1.90457019175429	Up
+map05415 Diabetic cardiomyopathy	Atp5f1c	79	K	K02136	1.91046268573178	Up
+map05415 Diabetic cardiomyopathy	Ndufv1	365	K	K03942	1.6604357139333799	Up
+map05415 Diabetic cardiomyopathy	Cpt1b	639	K	K19523	1.76457136949754	Up
+map05415 Diabetic cardiomyopathy	Ndufa10	242	K	K03954	1.52198313616891	Up
+map05415 Diabetic cardiomyopathy	Ndufa5	55	K	K03949	1.5722551071057	Up
+map05415 Diabetic cardiomyopathy	Cox6c	47	K	K02268	0.199078639470338	Down
+map05415 Diabetic cardiomyopathy	Sdhb	125	K	K00235	1.67603311320959	Up
+map05415 Diabetic cardiomyopathy	Ndufb5	131	K	K03961	1.89155029338735	Up
+map05415 Diabetic cardiomyopathy	Ndufb9	55	K	K03965	1.6062934897247199	Up
+map05415 Diabetic cardiomyopathy	Atp5pb	162	K	K02127	1.68583267955346	Up
+map05415 Diabetic cardiomyopathy	Atp5pb	221	K	K02127	1.9721139227634499	Up
+map05415 Diabetic cardiomyopathy	Atp5pb	233	K	K02127	1.8276784693673798	Up
+map05415 Diabetic cardiomyopathy	Atp5pb	139	K	K02127	1.5002050258485002	Up
+map05415 Diabetic cardiomyopathy	Ndufb3	40	K	K03959	2.4190962342748397	Up
+map05415 Diabetic cardiomyopathy	Ndufab1	97	K	K03955	2.1717462008785002	Up
+map05415 Diabetic cardiomyopathy	Ndufs4	95	K	K03937	1.73918998613815	Up
+map05415 Diabetic cardiomyopathy	Uqcrc1	134	K	K00414	1.6397593168415001	Up
+map05415 Diabetic cardiomyopathy	Uqcrc1	102	K	K00414	1.5561498368483702	Up
+map05415 Diabetic cardiomyopathy	Mpc2	122	K	K22139	1.5250770158329099	Up
+map05415 Diabetic cardiomyopathy	Uqcrb	45	K	K00417	1.69014166331896	Up
+map05415 Diabetic cardiomyopathy	Ndufa11	129	K	K03956	0.45187277770723405	Down
+map05415 Diabetic cardiomyopathy	Atp5po	60	K	K02137	1.8905238536114402	Up
+map05415 Diabetic cardiomyopathy	Uqcrc2	375	K	K00415	1.7044761119771998	Up
+map05415 Diabetic cardiomyopathy	Uqcrc2	162	K	K00415	1.88540496250501	Up
+map05415 Diabetic cardiomyopathy	Ndufa9	157	K	K03953	1.63726901571313	Up
+map05415 Diabetic cardiomyopathy	Ndufa9	237	K	K03953	1.66127028452299	Up
+map05415 Diabetic cardiomyopathy	Ndufs7	62	K	K03940	0.519698358338069	Down
+map05415 Diabetic cardiomyopathy	Ndufa8	159	K	K03952	1.5355252477991799	Up
+map05415 Diabetic cardiomyopathy	Ndufb10	134	K	K03966	1.67444800371129	Up
+map05415 Diabetic cardiomyopathy	Atp5pd	95	K	K02138	1.9720706595643798	Up
+map05415 Diabetic cardiomyopathy	Atp5pd	117	K	K02138	1.59163261020815	Up
+map05415 Diabetic cardiomyopathy	Gys1	429	K	K00693	2.0474489745116298	Up
+map05415 Diabetic cardiomyopathy	Ndufa7	80	K	K03951	2.0187831095419697	Up
+map05415 Diabetic cardiomyopathy	Ndufa7	102	K	K03951	1.7423701338309399	Up
+map00230 Purine metabolism	Hprt1	151	K	K00760	1.57924625636532	Up
+map00230 Purine metabolism	Nme2	100	K	K00940	1.8636924297073103	Up
+map00230 Purine metabolism	Impdh2	349	K	K00088	0.616872929075647	Down
+map00230 Purine metabolism	Adk	164	K	K00856	1.69776189808372	Up
+map00230 Purine metabolism	Nme2	49	K	K00940	1.84417990783423	Up
+map00230 Purine metabolism	Gart	411	K	K11787	0.497636108683777	Down
+map00230 Purine metabolism	Gart	251	K	K11787	1.50637469086279	Up
+map00230 Purine metabolism	Prune1	212	K	K01514	0.500740923147199	Down
+map00230 Purine metabolism	Pgm1	349	K	K01835	1.8681601857031	Up
+map00230 Purine metabolism	Pgm1	440	K	K01835	1.8622021773975501	Up
+map00230 Purine metabolism	Paics	36	K	K01587	1.5003842268728997	Up
+map00230 Purine metabolism	Gmpr	276	K	K00364	1.59300184414026	Up
+map00230 Purine metabolism	Ak1	100	K	K00939	1.5863781536384898	Up
+map00230 Purine metabolism	Ak1	27	K	K00939	1.6926063149678998	Up
+map00230 Purine metabolism	Ak1	147	K	K00939	1.82670456020809	Up
+map00230 Purine metabolism	Ak3	20	K	K00944	1.52811903021049	Up
+map04910 Insulin signaling pathway	Flot1	174	K	K07192	2.0666696795255604	Up
+map04910 Insulin signaling pathway	Prkag1	263	K	K07200	1.93559124736826	Up
+map04910 Insulin signaling pathway	Prkaca	318	K	K04345	0.613595912853367	Down
+map04910 Insulin signaling pathway	Hk1	232	K	K00844	1.74553203036533	Up
+map04910 Insulin signaling pathway	Hk1	936	K	K00844	1.87951063005007	Up
+map04910 Insulin signaling pathway	Hk1	371	K	K00844	1.5646978877459699	Up
+map04910 Insulin signaling pathway	Hk1	544	K	K00844	1.5654564089539298	Up
+map04910 Insulin signaling pathway	Hk1	794	K	K00844	2.4373142770314304	Up
+map04910 Insulin signaling pathway	Hk1	884	K	K00844	1.57689485985154	Up
+map04910 Insulin signaling pathway	Rps6	203	K	K02991	2.41347126540713	Up
+map04910 Insulin signaling pathway	Mapk1	136	K	K04371	1.61949077757732	Up
+map04910 Insulin signaling pathway	Pygb	545	K	K00688	1.7396387368119999	Up
+map04910 Insulin signaling pathway	Pygb	438	K	K00688	2.0967810636993702	Up
+map04910 Insulin signaling pathway	Pygb	609	K	K00688	1.77405010925307	Up
+map04910 Insulin signaling pathway	Pygb	192	K	K00688	0.657247527742943	Down
+map04910 Insulin signaling pathway	Pygl	618	K	K00688	0.5755988686364899	Down
+map04910 Insulin signaling pathway	Pygm	479	K	K00688	2.12895351110913	Up
+map04910 Insulin signaling pathway	Pygm	29	K	K00688	1.91695908068923	Up
+map04910 Insulin signaling pathway	Pygm	465	K	K00688	1.56791773927251	Up
+map04910 Insulin signaling pathway	Pygm	438	K	K00688	2.12545680044677	Up
+map04910 Insulin signaling pathway	Pygm	811	K	K00688	1.7786017769378	Up
+map04910 Insulin signaling pathway	Pygm	609	K	K00688	1.56949999276955	Up
+map04910 Insulin signaling pathway	Pygm	81	K	K00688	2.11291771112229	Up
+map04910 Insulin signaling pathway	Gys1	429	K	K00693	2.0474489745116298	Up
+map04922 Glucagon signaling pathway	Prkag1	263	K	K07200	1.93559124736826	Up
+map04922 Glucagon signaling pathway	Pgam2	106	K	K01834	2.26896771958917	Up
+map04922 Glucagon signaling pathway	Pgam2	251	K	K01834	1.7180097301091999	Up
+map04922 Glucagon signaling pathway	Pgam2	100	K	K01834	1.7009238418226298	Up
+map04922 Glucagon signaling pathway	Prkaca	318	K	K04345	0.613595912853367	Down
+map04922 Glucagon signaling pathway	Ldha	228	K	K00016	1.6313154544041597	Up
+map04922 Glucagon signaling pathway	Ldha	81	K	K00016	1.6201302837804699	Up
+map04922 Glucagon signaling pathway	Pdha1	63	K	K00161	1.60482611694029	Up
+map04922 Glucagon signaling pathway	Pdha1	18	K	K00161	1.96599899094471	Up
+map04922 Glucagon signaling pathway	Pfkm	744	K	K00850	1.75034094454573	Up
+map04922 Glucagon signaling pathway	Pkm	336	K	K00873	1.76734261147919	Up
+map04922 Glucagon signaling pathway	Pkm	270	K	K00873	1.5694345655952298	Up
+map04922 Glucagon signaling pathway	Pygb	545	K	K00688	1.7396387368119999	Up
+map04922 Glucagon signaling pathway	Pygb	438	K	K00688	2.0967810636993702	Up
+map04922 Glucagon signaling pathway	Pygb	609	K	K00688	1.77405010925307	Up
+map04922 Glucagon signaling pathway	Pygb	192	K	K00688	0.657247527742943	Down
+map04922 Glucagon signaling pathway	Cpt1b	639	K	K19523	1.76457136949754	Up
+map04922 Glucagon signaling pathway	Pygl	618	K	K00688	0.5755988686364899	Down
+map04922 Glucagon signaling pathway	Pygm	479	K	K00688	2.12895351110913	Up
+map04922 Glucagon signaling pathway	Pygm	29	K	K00688	1.91695908068923	Up
+map04922 Glucagon signaling pathway	Pygm	465	K	K00688	1.56791773927251	Up
+map04922 Glucagon signaling pathway	Pygm	438	K	K00688	2.12545680044677	Up
+map04922 Glucagon signaling pathway	Pygm	811	K	K00688	1.7786017769378	Up
+map04922 Glucagon signaling pathway	Pygm	609	K	K00688	1.56949999276955	Up
+map04922 Glucagon signaling pathway	Pygm	81	K	K00688	2.11291771112229	Up
+map04922 Glucagon signaling pathway	Gys1	429	K	K00693	2.0474489745116298	Up
+map05416 Viral myocarditis	Myh6	1772	K	K17751	1.76605188231996	Up
+map05416 Viral myocarditis	Myh6	1758	K	K17751	1.9990835485150302	Up
+map05416 Viral myocarditis	Myh6	1759	K	K17751	2.19797679890434	Up
+map05416 Viral myocarditis	H2	170	K	K06751	1.5386715755008102	Up
+map05416 Viral myocarditis	Dmd	1206	K	K10366	1.78932965382767	Up
+map05416 Viral myocarditis	Dmd	1060	K	K10366	1.69358975538099	Up
+map05416 Viral myocarditis	Dmd	2600	K	K10366	1.53480072635593	Up
+map05416 Viral myocarditis	Dmd	3305	K	K10366	2.0648152952675	Up
+map05416 Viral myocarditis	Dmd	2061	K	K10366	1.68612690472352	Up
+map05416 Viral myocarditis	Dmd	2073	K	K10366	1.56706474344186	Up
+map05416 Viral myocarditis	Dmd	2142	K	K10366	1.78652926811613	Up
+map05416 Viral myocarditis	Myh6	944	K	K17751	2.8179490358046095	Up
+map05416 Viral myocarditis	Myh6	953	K	K17751	2.1762738941627298	Up
+map05416 Viral myocarditis	Myh6	503	K	K17751	1.69744429019523	Up
+map05416 Viral myocarditis	Myh6	1392	K	K17751	2.0272774892458	Up
+map05416 Viral myocarditis	Myh6	1376	K	K17751	2.25687263717488	Up
+map05416 Viral myocarditis	Sgcb	204	K	K12566	1.63593500859308	Up
+map05416 Viral myocarditis	Myh6	1577	K	K17751	1.6731181839751301	Up
+map05416 Viral myocarditis	Myh6	1581	K	K17751	1.95768263623349	Up
+map05416 Viral myocarditis	Myh6	1589	K	K17751	1.5733193496183	Up
+map05416 Viral myocarditis	Myh6	1244	K	K17751	1.5883335311878797	Up
+map05416 Viral myocarditis	Myh6	1281	K	K17751	2.0470723757417	Up
+map05416 Viral myocarditis	Myh6	1328	K	K17751	1.5278842819248102	Up
+map05416 Viral myocarditis	Myh6	1136	K	K17751	1.74533232837234	Up
+map05416 Viral myocarditis	Myh6	1018	K	K17751	2.87897726343282	Up
+map05416 Viral myocarditis	Myh6	914	K	K17751	1.8711193782485198	Up
+map05416 Viral myocarditis	Myh6	867	K	K17751	2.27688195619315	Up
+map05416 Viral myocarditis	Myh6	1175	K	K17751	2.72638604501748	Up
+map05416 Viral myocarditis	Myh6	83	K	K17751	1.98876143181111	Up
+map05416 Viral myocarditis	Myh6	67	K	K17751	1.82876167520249	Up
+map05416 Viral myocarditis	Myh6	1242	K	K17751	2.70397751158634	Up
+map05416 Viral myocarditis	Myh6	1833	K	K17751	2.2829651360344503	Up
+map05416 Viral myocarditis	Myh6	1840	K	K17751	1.64986286531356	Up
+map05416 Viral myocarditis	Myh6	1861	K	K17751	2.00472193588619	Up
+map05416 Viral myocarditis	Myh6	1523	K	K17751	1.76368327408934	Up
+map05416 Viral myocarditis	Myh6	1530	K	K17751	2.18778506002344	Up
+map05416 Viral myocarditis	Myh6	1786	K	K17751	2.09378086545268	Up
+map05416 Viral myocarditis	Myh6	1793	K	K17751	1.6559608570058502	Up
+map05416 Viral myocarditis	Myh6	1646	K	K17751	2.01229354918486	Up
+map05416 Viral myocarditis	Myh6	1653	K	K17751	1.9145482328266001	Up
+map05416 Viral myocarditis	Myh6	1643	K	K17751	1.9309192982216499	Up
+map05416 Viral myocarditis	Myh6	258	K	K17751	1.57630802726991	Up
+map05416 Viral myocarditis	Myh6	849	K	K17751	2.08300623660623	Up
+map05416 Viral myocarditis	Myh6	1459	K	K17751	1.98900564729341	Up
+map05416 Viral myocarditis	Myh6	1461	K	K17751	1.85068502267265	Up
+map05416 Viral myocarditis	Myh6	1474	K	K17751	2.3088773723864104	Up
+map05416 Viral myocarditis	Myh6	922	K	K17751	1.58993777307621	Up
+map05416 Viral myocarditis	Myh6	641	K	K17751	22.5401789640783	Up
+map05416 Viral myocarditis	Myh6	1730	K	K17751	1.77695784522638	Up
+map05416 Viral myocarditis	Myh6	1075	K	K17751	2.26387695447966	Up
+map05416 Viral myocarditis	Myh6	1559	K	K17751	1.8622079006069	Up
+map05416 Viral myocarditis	Myh6	1900	K	K17751	2.87868116895064	Up
+map05416 Viral myocarditis	Myh6	941	K	K17751	2.29830048257034	Up
+map05416 Viral myocarditis	Myh6	1167	K	K17751	1.7693336572579	Up
+map05416 Viral myocarditis	Myh6	1044	K	K17751	1.76731572306309	Up
+map05416 Viral myocarditis	Myh6	1501	K	K17751	2.31046845610785	Up
+map05416 Viral myocarditis	Myh6	1412	K	K17751	3.91791228939279	Up
+map05416 Viral myocarditis	Myh6	1897	K	K17751	1.8944340169935	Up
+map05416 Viral myocarditis	Myh6	1326	K	K17751	2.3948103878794598	Up
+map05416 Viral myocarditis	Myh6	1446	K	K17751	1.66042775489791	Up
+map05416 Viral myocarditis	Myh6	1447	K	K17751	1.6679551425436598	Up
+map05416 Viral myocarditis	Myh6	1617	K	K17751	1.70537399208906	Up
+map05416 Viral myocarditis	Myh6	1264	K	K17751	1.51465196523337	Up
+map05416 Viral myocarditis	Myh6	1365	K	K17751	1.51932726856024	Up
+map05416 Viral myocarditis	Myh6	1729	K	K17751	2.1235245783598997	Up
+map05416 Viral myocarditis	Lama2	1652	K	K05637	1.79586780304461	Up
+map05416 Viral myocarditis	Lama2	1942	K	K05637	1.81311753021835	Up
+map05416 Viral myocarditis	Lama2	1960	K	K05637	2.18207426315272	Up
+map05416 Viral myocarditis	Lama2	2199	K	K05637	1.53045930576285	Up
+map05416 Viral myocarditis	Lama2	1995	K	K05637	2.07989406436561	Up
+map05416 Viral myocarditis	Lama2	1969	K	K05637	1.57374459997211	Up
+map05416 Viral myocarditis	Lama2	3103	K	K05637	0.5265438463090479	Down
+map05416 Viral myocarditis	Lama2	1305	K	K05637	1.9649554113947298	Up
+map05416 Viral myocarditis	Lama2	1248	K	K05637	1.5204311872021699	Up
+map05416 Viral myocarditis	Lama2	2086	K	K05637	2.16578776974651	Up
+map05416 Viral myocarditis	Lama2	1752	K	K05637	1.5460112042677199	Up
+map05416 Viral myocarditis	Lama2	2080	K	K05637	1.82072688523884	Up
+map05416 Viral myocarditis	Myh7	1242	K	K17751	0.0402865540750446	Down
+map05416 Viral myocarditis	Myh7	640	K	K17751	0.0240695460487419	Down
+map05416 Viral myocarditis	Myh7	551	K	K17751	0.0163377617200215	Down
+map05416 Viral myocarditis	Myh7	559	K	K17751	0.0235513698579582	Down
+map05416 Viral myocarditis	Myh7	1016	K	K17751	0.0546501279833977	Down
+map05416 Viral myocarditis	Myh7	1026	K	K17751	0.0281914779237868	Down
+map05416 Viral myocarditis	Myh7	963	K	K17751	0.0257868444499177	Down
+map05416 Viral myocarditis	Myh7	966	K	K17751	0.0206697386794086	Down
+map05416 Viral myocarditis	Myh7	234	K	K17751	0.0149562027031889	Down
+map05416 Viral myocarditis	Myh7	83	K	K17751	0.037715392250526	Down
+map05416 Viral myocarditis	Myh7	434	K	K17751	0.0147799232523145	Down
+map05416 Viral myocarditis	Myh7	1848	K	K17751	2.52071706994305	Up
+map05416 Viral myocarditis	Myh7	837	K	K17751	0.0201537442356663	Down
+map05416 Viral myocarditis	Myh7	841	K	K17751	0.0263825029061623	Down
+map05416 Viral myocarditis	Myh7	1728	K	K17751	0.0337325755288806	Down
+map05416 Viral myocarditis	Myh7	942	K	K17751	0.0608573005192544	Down
+map05416 Viral myocarditis	Myh7	1557	K	K17751	0.0365776546916038	Down
+map05416 Viral myocarditis	Myh7	1042	K	K17751	0.0330971634832178	Down
+map00062 Fatty acid elongation	Ppt1	174	K	K01074	1.54027044343094	Up
+map00062 Fatty acid elongation	Hadh	241	K	K00022	2.1042243916219197	Up
+map00062 Fatty acid elongation	Hadh	75	K	K00022	1.76792867091102	Up
+map00062 Fatty acid elongation	Hadh	127	K	K00022	1.56319945639345	Up
+map00062 Fatty acid elongation	Echs1	43	K	K07511	1.5966759613069799	Up
+map00062 Fatty acid elongation	Echs1	204	K	K07511	1.6893409116971299	Up
+map00062 Fatty acid elongation	Hadha	664	K	K07515	2.16893181883664	Up
+map00062 Fatty acid elongation	Hadha	353	K	K07515	1.52887126547315	Up
+map00062 Fatty acid elongation	Acaa2	137	K	K07508	0.6482015210291221	Down
+map00062 Fatty acid elongation	Hadhb	409	K	K07509	1.50674895579114	Up
+map00062 Fatty acid elongation	Hadhb	189	K	K07509	1.5802462936499	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1772	K	K17751	1.76605188231996	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1758	K	K17751	1.9990835485150302	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1759	K	K17751	2.19797679890434	Up
+map04261 Adrenergic signaling in cardiomyocytes	Ryr2	3340	K	K04962	1.84882154389882	Up
+map04261 Adrenergic signaling in cardiomyocytes	Ryr2	2562	K	K04962	1.50189220824255	Up
+map04261 Adrenergic signaling in cardiomyocytes	Ryr2	2730	K	K04962	1.89512521439859	Up
+map04261 Adrenergic signaling in cardiomyocytes	Ryr2	2607	K	K04962	1.56230782307107	Up
+map04261 Adrenergic signaling in cardiomyocytes	Ryr2	3075	K	K04962	1.79316259353854	Up
+map04261 Adrenergic signaling in cardiomyocytes	Atp2a2	492	K	K05853	1.78518397875101	Up
+map04261 Adrenergic signaling in cardiomyocytes	Atp2a2	502	K	K05853	1.7108745812453703	Up
+map04261 Adrenergic signaling in cardiomyocytes	Atp2a2	205	K	K05853	1.5683221447477702	Up
+map04261 Adrenergic signaling in cardiomyocytes	Prkaca	318	K	K04345	0.613595912853367	Down
+map04261 Adrenergic signaling in cardiomyocytes	Gnai2	181	K	K04630	2.3334752902185203	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myl3	50	K	K12749	1.8200733106540599	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myl3	52	K	K12749	1.5602892232832801	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myl3	134	K	K12749	2.49388880245127	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	944	K	K17751	2.8179490358046095	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	953	K	K17751	2.1762738941627298	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	503	K	K17751	1.69744429019523	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1392	K	K17751	2.0272774892458	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1376	K	K17751	2.25687263717488	Up
+map04261 Adrenergic signaling in cardiomyocytes	Atp1b1	134	K	K01540	1.52108670054856	Up
+map04261 Adrenergic signaling in cardiomyocytes	Tnnc1	17	K	K05865	1.9546793641867	Up
+map04261 Adrenergic signaling in cardiomyocytes	Tnnc1	106	K	K05865	1.92874915827763	Up
+map04261 Adrenergic signaling in cardiomyocytes	Tpm3	153	K	K09290	2.29353134732412	Up
+map04261 Adrenergic signaling in cardiomyocytes	Tpm1	59	K	K10373	2.2133055278542204	Up
+map04261 Adrenergic signaling in cardiomyocytes	Tpm1	65	K	K10373	2.0917941278470598	Up
+map04261 Adrenergic signaling in cardiomyocytes	Tpm1	51	K	K10373	1.65073789392728	Up
+map04261 Adrenergic signaling in cardiomyocytes	Tnni3	51	K	K12044	1.65852854298567	Up
+map04261 Adrenergic signaling in cardiomyocytes	Tnni3	118	K	K12044	1.7523170621818798	Up
+map04261 Adrenergic signaling in cardiomyocytes	Tnni3	121	K	K12044	1.70055027818714	Up
+map04261 Adrenergic signaling in cardiomyocytes	Tnnt2	137	K	K12045	1.93147517939159	Up
+map04261 Adrenergic signaling in cardiomyocytes	Tnnt2	271	K	K12045	1.6135200797670501	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myl2	111	K	K10351	1.95775431769979	Up
+map04261 Adrenergic signaling in cardiomyocytes	Tpm1	189	K	K10373	1.60888834803396	Up
+map04261 Adrenergic signaling in cardiomyocytes	Tpm1	226	K	K10373	2.11579744433103	Up
+map04261 Adrenergic signaling in cardiomyocytes	Tpm1	48	K	K10373	1.64071404451994	Up
+map04261 Adrenergic signaling in cardiomyocytes	Tpm1	248	K	K10373	1.6643133698177002	Up
+map04261 Adrenergic signaling in cardiomyocytes	Tpm1	205	K	K10373	2.04645019249106	Up
+map04261 Adrenergic signaling in cardiomyocytes	Tpm1	217	K	K10373	1.8202117089108203	Up
+map04261 Adrenergic signaling in cardiomyocytes	Mapk1	136	K	K04371	1.61949077757732	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1577	K	K17751	1.6731181839751301	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1581	K	K17751	1.95768263623349	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1589	K	K17751	1.5733193496183	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1244	K	K17751	1.5883335311878797	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1281	K	K17751	2.0470723757417	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1328	K	K17751	1.5278842819248102	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1136	K	K17751	1.74533232837234	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1018	K	K17751	2.87897726343282	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	914	K	K17751	1.8711193782485198	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	867	K	K17751	2.27688195619315	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1175	K	K17751	2.72638604501748	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	83	K	K17751	1.98876143181111	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	67	K	K17751	1.82876167520249	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1242	K	K17751	2.70397751158634	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1833	K	K17751	2.2829651360344503	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1840	K	K17751	1.64986286531356	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1861	K	K17751	2.00472193588619	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1523	K	K17751	1.76368327408934	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1530	K	K17751	2.18778506002344	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1786	K	K17751	2.09378086545268	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1793	K	K17751	1.6559608570058502	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1646	K	K17751	2.01229354918486	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1653	K	K17751	1.9145482328266001	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1643	K	K17751	1.9309192982216499	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	258	K	K17751	1.57630802726991	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	849	K	K17751	2.08300623660623	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1459	K	K17751	1.98900564729341	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1461	K	K17751	1.85068502267265	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1474	K	K17751	2.3088773723864104	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	922	K	K17751	1.58993777307621	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	641	K	K17751	22.5401789640783	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1730	K	K17751	1.77695784522638	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1075	K	K17751	2.26387695447966	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1559	K	K17751	1.8622079006069	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1900	K	K17751	2.87868116895064	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	941	K	K17751	2.29830048257034	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1167	K	K17751	1.7693336572579	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1044	K	K17751	1.76731572306309	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1501	K	K17751	2.31046845610785	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1412	K	K17751	3.91791228939279	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1897	K	K17751	1.8944340169935	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1326	K	K17751	2.3948103878794598	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1446	K	K17751	1.66042775489791	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1447	K	K17751	1.6679551425436598	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1617	K	K17751	1.70537399208906	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1264	K	K17751	1.51465196523337	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1365	K	K17751	1.51932726856024	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1729	K	K17751	2.1235245783598997	Up
+map04261 Adrenergic signaling in cardiomyocytes	Tpm4	11	K	K10375	1.6072433991895902	Up
+map04261 Adrenergic signaling in cardiomyocytes	Tpm4	116	K	K10375	1.63398471067547	Up
+map04261 Adrenergic signaling in cardiomyocytes	Ppp2r1a	307	K	K03456	1.5802495665953002	Up
+map04261 Adrenergic signaling in cardiomyocytes	Atp1a1	444	K	K01539	2.0481899638143997	Up
+map04261 Adrenergic signaling in cardiomyocytes	Atp1a1	661	K	K01539	1.52625456887708	Up
+map04261 Adrenergic signaling in cardiomyocytes	Atp1a1	502	K	K01539	1.77348979978245	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	1242	K	K17751	0.0402865540750446	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	640	K	K17751	0.0240695460487419	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	551	K	K17751	0.0163377617200215	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	559	K	K17751	0.0235513698579582	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	1016	K	K17751	0.0546501279833977	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	1026	K	K17751	0.0281914779237868	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	963	K	K17751	0.0257868444499177	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	966	K	K17751	0.0206697386794086	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	234	K	K17751	0.0149562027031889	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	83	K	K17751	0.037715392250526	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	434	K	K17751	0.0147799232523145	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	1848	K	K17751	2.52071706994305	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	837	K	K17751	0.0201537442356663	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	841	K	K17751	0.0263825029061623	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	1728	K	K17751	0.0337325755288806	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	942	K	K17751	0.0608573005192544	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	1557	K	K17751	0.0365776546916038	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	1042	K	K17751	0.0330971634832178	Down
+map04961 Endocrine and other factor-regulated calcium reabsorption	Prkaca	318	K	K04345	0.613595912853367	Down
+map04961 Endocrine and other factor-regulated calcium reabsorption	Atp1b1	134	K	K01540	1.52108670054856	Up
+map04961 Endocrine and other factor-regulated calcium reabsorption	Ap2a1	894	K	K11824	1.73609317842931	Up
+map04961 Endocrine and other factor-regulated calcium reabsorption	Ap2a2	569	K	K11824	1.70500472382341	Up
+map04961 Endocrine and other factor-regulated calcium reabsorption	Dnm2	87	K	K23484	3.5215427830274395	Up
+map04961 Endocrine and other factor-regulated calcium reabsorption	Cltc	382	K	K04646	1.5282619997476101	Up
+map04961 Endocrine and other factor-regulated calcium reabsorption	Cltc	100	K	K04646	1.8088609074820199	Up
+map04961 Endocrine and other factor-regulated calcium reabsorption	Cltc	1522	K	K04646	1.5769907299445802	Up
+map04961 Endocrine and other factor-regulated calcium reabsorption	Cltc	737	K	K04646	1.65260409161098	Up
+map04961 Endocrine and other factor-regulated calcium reabsorption	Cltb	184	K	K04645	2.21175925481319	Up
+map04961 Endocrine and other factor-regulated calcium reabsorption	Atp1a1	444	K	K01539	2.0481899638143997	Up
+map04961 Endocrine and other factor-regulated calcium reabsorption	Atp1a1	661	K	K01539	1.52625456887708	Up
+map04961 Endocrine and other factor-regulated calcium reabsorption	Atp1a1	502	K	K01539	1.77348979978245	Up
+map04961 Endocrine and other factor-regulated calcium reabsorption	Ap2b1	721	K	K11825	1.61105527043102	Up

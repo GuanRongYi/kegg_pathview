@@ -1,0 +1,231 @@
+KEGG pathway	Protein accession	Position	Amino acid	KEGG KO No.	T2/S Ratio	Regulated Type
+map00982 Drug metabolism - cytochrome P450	Gstm1	52	K	K00799	1.56313113340872	Up
+map00982 Drug metabolism - cytochrome P450	Gstm5	214	K	K00799	2.05918506693924	Up
+map00982 Drug metabolism - cytochrome P450	Maob	93	K	K00274	1.58543394128447	Up
+map04151 PI3K-Akt signaling pathway	Lamc1	1548	K	K05635	1.53336611138987	Up
+map04151 PI3K-Akt signaling pathway	Lamb1	1687	K	K05636	1.7922335216440501	Up
+map04151 PI3K-Akt signaling pathway	Ywhaz	115	K	K16197	1.798078873003	Up
+map04151 PI3K-Akt signaling pathway	Lama4	418	K	K06241	1.50649679207102	Up
+map04151 PI3K-Akt signaling pathway	Lama2	1752	K	K05637	1.5032767159404299	Up
+map04151 PI3K-Akt signaling pathway	Lama5	2962	K	K06240	1.51263037068497	Up
+map04151 PI3K-Akt signaling pathway	Col6a6	558	K	K06238	1.51312386421208	Up
+map04260 Cardiac muscle contraction	Myh6	944	K	K17751	1.8434297342873303	Up
+map04260 Cardiac muscle contraction	Tpm3	153	K	K09290	1.8840435457628302	Up
+map04260 Cardiac muscle contraction	Tpm3	218	K	K09290	0.45386074155059203	Down
+map04260 Cardiac muscle contraction	Myh6	1577	K	K17751	1.5544830260205502	Up
+map04260 Cardiac muscle contraction	Myh6	1785	K	K17751	1.7732118037376499	Up
+map04260 Cardiac muscle contraction	Myh6	1786	K	K17751	1.7732118037376499	Up
+map04260 Cardiac muscle contraction	Myh6	1646	K	K17751	1.55282712900462	Up
+map04260 Cardiac muscle contraction	Myh6	1109	K	K17751	1.5937133531159198	Up
+map04260 Cardiac muscle contraction	Myh6	1730	K	K17751	1.71418049475674	Up
+map04260 Cardiac muscle contraction	Myh6	1453	K	K17751	1.6038778532245999	Up
+map04260 Cardiac muscle contraction	Myh6	1446	K	K17751	1.62549686472443	Up
+map04260 Cardiac muscle contraction	Myh6	1447	K	K17751	1.6084039247234898	Up
+map04260 Cardiac muscle contraction	Tpm4	11	K	K10375	1.51570619508659	Up
+map04260 Cardiac muscle contraction	Atp1a1	444	K	K01539	1.56747272611938	Up
+map04260 Cardiac muscle contraction	Myh7	1242	K	K17751	0.0803123904699113	Down
+map04260 Cardiac muscle contraction	Myh7	640	K	K17751	0.0793684808016154	Down
+map04260 Cardiac muscle contraction	Myh7	551	K	K17751	0.0830196928388021	Down
+map04260 Cardiac muscle contraction	Myh7	559	K	K17751	0.102253394412158	Down
+map04260 Cardiac muscle contraction	Myh7	1016	K	K17751	0.0927185935607133	Down
+map04260 Cardiac muscle contraction	Myh7	1026	K	K17751	0.0863359518293413	Down
+map04260 Cardiac muscle contraction	Myh7	963	K	K17751	0.0747349147783881	Down
+map04260 Cardiac muscle contraction	Myh7	966	K	K17751	0.0978826236423775	Down
+map04260 Cardiac muscle contraction	Myh7	234	K	K17751	0.0230758496461142	Down
+map04260 Cardiac muscle contraction	Myh7	83	K	K17751	0.0821010617821572	Down
+map04260 Cardiac muscle contraction	Myh7	434	K	K17751	0.0836268858236689	Down
+map04260 Cardiac muscle contraction	Myh7	1848	K	K17751	1.8499572597424798	Up
+map04260 Cardiac muscle contraction	Myh7	841	K	K17751	0.111322497184467	Down
+map04260 Cardiac muscle contraction	Myh7	1728	K	K17751	0.15076769342650598	Down
+map04260 Cardiac muscle contraction	Myh7	942	K	K17751	0.156866737853609	Down
+map04260 Cardiac muscle contraction	Myh7	1042	K	K17751	0.0865447535177971	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	944	K	K17751	1.8434297342873303	Up
+map04261 Adrenergic signaling in cardiomyocytes	Tpm3	153	K	K09290	1.8840435457628302	Up
+map04261 Adrenergic signaling in cardiomyocytes	Tpm3	218	K	K09290	0.45386074155059203	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1577	K	K17751	1.5544830260205502	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1785	K	K17751	1.7732118037376499	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1786	K	K17751	1.7732118037376499	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1646	K	K17751	1.55282712900462	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1109	K	K17751	1.5937133531159198	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1730	K	K17751	1.71418049475674	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1453	K	K17751	1.6038778532245999	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1446	K	K17751	1.62549686472443	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh6	1447	K	K17751	1.6084039247234898	Up
+map04261 Adrenergic signaling in cardiomyocytes	Tpm4	11	K	K10375	1.51570619508659	Up
+map04261 Adrenergic signaling in cardiomyocytes	Camk2d	344	K	K04515	1.81212971949797	Up
+map04261 Adrenergic signaling in cardiomyocytes	Atp1a1	444	K	K01539	1.56747272611938	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	1242	K	K17751	0.0803123904699113	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	640	K	K17751	0.0793684808016154	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	551	K	K17751	0.0830196928388021	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	559	K	K17751	0.102253394412158	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	1016	K	K17751	0.0927185935607133	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	1026	K	K17751	0.0863359518293413	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	963	K	K17751	0.0747349147783881	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	966	K	K17751	0.0978826236423775	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	234	K	K17751	0.0230758496461142	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	83	K	K17751	0.0821010617821572	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	434	K	K17751	0.0836268858236689	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	1848	K	K17751	1.8499572597424798	Up
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	841	K	K17751	0.111322497184467	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	1728	K	K17751	0.15076769342650598	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	942	K	K17751	0.156866737853609	Down
+map04261 Adrenergic signaling in cardiomyocytes	Myh7	1042	K	K17751	0.0865447535177971	Down
+map04510 Focal adhesion	Lamc1	1548	K	K05635	1.53336611138987	Up
+map04510 Focal adhesion	Lamb1	1687	K	K05636	1.7922335216440501	Up
+map04510 Focal adhesion	Tln1	687	K	K06271	1.7007593700000803	Up
+map04510 Focal adhesion	Lama4	418	K	K06241	1.50649679207102	Up
+map04510 Focal adhesion	Lama2	1752	K	K05637	1.5032767159404299	Up
+map04510 Focal adhesion	Lama5	2962	K	K06240	1.51263037068497	Up
+map04510 Focal adhesion	Flnb	2566	K	K04437	1.7096329774351497	Up
+map04510 Focal adhesion	Col6a6	558	K	K06238	1.51312386421208	Up
+map04512 ECM-receptor interaction	Lamc1	1548	K	K05635	1.53336611138987	Up
+map04512 ECM-receptor interaction	Lamb1	1687	K	K05636	1.7922335216440501	Up
+map04512 ECM-receptor interaction	Lama4	418	K	K06241	1.50649679207102	Up
+map04512 ECM-receptor interaction	Cd36	398	K	K06259	1.62789699125399	Up
+map04512 ECM-receptor interaction	Lama2	1752	K	K05637	1.5032767159404299	Up
+map04512 ECM-receptor interaction	Lama5	2962	K	K06240	1.51263037068497	Up
+map04512 ECM-receptor interaction	Col6a6	558	K	K06238	1.51312386421208	Up
+map04975 Fat digestion and absorption	Apoa4	99	K	K08760	1.6261968619672502	Up
+map04975 Fat digestion and absorption	Cd36	398	K	K06259	1.62789699125399	Up
+map04979 Cholesterol metabolism	Apoa4	99	K	K08760	1.6261968619672502	Up
+map04979 Cholesterol metabolism	Apoh	239	K	K17305	1.7379721299751498	Up
+map04979 Cholesterol metabolism	Cd36	398	K	K06259	1.62789699125399	Up
+map05145 Toxoplasmosis	Lamc1	1548	K	K05635	1.53336611138987	Up
+map05145 Toxoplasmosis	Lamb1	1687	K	K05636	1.7922335216440501	Up
+map05145 Toxoplasmosis	Lama4	418	K	K06241	1.50649679207102	Up
+map05145 Toxoplasmosis	Lama2	1752	K	K05637	1.5032767159404299	Up
+map05145 Toxoplasmosis	Lama5	2962	K	K06240	1.51263037068497	Up
+map05146 Amoebiasis	Lamc1	1548	K	K05635	1.53336611138987	Up
+map05146 Amoebiasis	Lamb1	1687	K	K05636	1.7922335216440501	Up
+map05146 Amoebiasis	Rab7a	10	K	K07897	2.5443505751967	Up
+map05146 Amoebiasis	Lama4	418	K	K06241	1.50649679207102	Up
+map05146 Amoebiasis	Lama2	1752	K	K05637	1.5032767159404299	Up
+map05146 Amoebiasis	Serpinb6	109	K	K13963	1.67647553920248	Up
+map05146 Amoebiasis	Lama5	2962	K	K06240	1.51263037068497	Up
+map05200 Pathways in cancer	Lamc1	1548	K	K05635	1.53336611138987	Up
+map05200 Pathways in cancer	Lamb1	1687	K	K05636	1.7922335216440501	Up
+map05200 Pathways in cancer	Gstm1	52	K	K00799	1.56313113340872	Up
+map05200 Pathways in cancer	Tpm3	153	K	K09290	1.8840435457628302	Up
+map05200 Pathways in cancer	Tpm3	218	K	K09290	0.45386074155059203	Down
+map05200 Pathways in cancer	Gstm5	214	K	K00799	2.05918506693924	Up
+map05200 Pathways in cancer	Lama4	418	K	K06241	1.50649679207102	Up
+map05200 Pathways in cancer	Lama2	1752	K	K05637	1.5032767159404299	Up
+map05200 Pathways in cancer	Lama5	2962	K	K06240	1.51263037068497	Up
+map05200 Pathways in cancer	Camk2d	344	K	K04515	1.81212971949797	Up
+map05222 Small cell lung cancer	Lamc1	1548	K	K05635	1.53336611138987	Up
+map05222 Small cell lung cancer	Lamb1	1687	K	K05636	1.7922335216440501	Up
+map05222 Small cell lung cancer	Lama4	418	K	K06241	1.50649679207102	Up
+map05222 Small cell lung cancer	Lama2	1752	K	K05637	1.5032767159404299	Up
+map05222 Small cell lung cancer	Lama5	2962	K	K06240	1.51263037068497	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	4362	K	K12567	1.6494548587803601	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	10166	K	K12567	2.6081148898559197	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	8206	K	K12567	1.53145705835085	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	8292	K	K12567	1.52298352904545	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	8896	K	K12567	1.50013772400806	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	9580	K	K12567	1.5474472145929	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	9610	K	K12567	1.67577314644271	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	650	K	K12567	2.39683573004082	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	9685	K	K12567	1.91229594805556	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	9688	K	K12567	1.52285927531083	Up
+map05410 Hypertrophic cardiomyopathy	Ttn	8521	K	K12567	1.57248809461554	Up
+map05410 Hypertrophic cardiomyopathy	Dmd	3305	K	K10366	1.71327814043648	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	944	K	K17751	1.8434297342873303	Up
+map05410 Hypertrophic cardiomyopathy	Tpm3	153	K	K09290	1.8840435457628302	Up
+map05410 Hypertrophic cardiomyopathy	Tpm3	218	K	K09290	0.45386074155059203	Down
+map05410 Hypertrophic cardiomyopathy	Myh6	1577	K	K17751	1.5544830260205502	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1785	K	K17751	1.7732118037376499	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1786	K	K17751	1.7732118037376499	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1646	K	K17751	1.55282712900462	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1109	K	K17751	1.5937133531159198	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1730	K	K17751	1.71418049475674	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1453	K	K17751	1.6038778532245999	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1446	K	K17751	1.62549686472443	Up
+map05410 Hypertrophic cardiomyopathy	Myh6	1447	K	K17751	1.6084039247234898	Up
+map05410 Hypertrophic cardiomyopathy	Lama2	1752	K	K05637	1.5032767159404299	Up
+map05410 Hypertrophic cardiomyopathy	Tpm4	11	K	K10375	1.51570619508659	Up
+map05410 Hypertrophic cardiomyopathy	Myh7	1242	K	K17751	0.0803123904699113	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	640	K	K17751	0.0793684808016154	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	551	K	K17751	0.0830196928388021	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	559	K	K17751	0.102253394412158	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	1016	K	K17751	0.0927185935607133	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	1026	K	K17751	0.0863359518293413	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	963	K	K17751	0.0747349147783881	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	966	K	K17751	0.0978826236423775	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	234	K	K17751	0.0230758496461142	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	83	K	K17751	0.0821010617821572	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	434	K	K17751	0.0836268858236689	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	1848	K	K17751	1.8499572597424798	Up
+map05410 Hypertrophic cardiomyopathy	Myh7	841	K	K17751	0.111322497184467	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	1728	K	K17751	0.15076769342650598	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	942	K	K17751	0.156866737853609	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	1042	K	K17751	0.0865447535177971	Down
+map05414 Dilated cardiomyopathy	Ttn	4362	K	K12567	1.6494548587803601	Up
+map05414 Dilated cardiomyopathy	Ttn	10166	K	K12567	2.6081148898559197	Up
+map05414 Dilated cardiomyopathy	Ttn	8206	K	K12567	1.53145705835085	Up
+map05414 Dilated cardiomyopathy	Ttn	8292	K	K12567	1.52298352904545	Up
+map05414 Dilated cardiomyopathy	Ttn	8896	K	K12567	1.50013772400806	Up
+map05414 Dilated cardiomyopathy	Ttn	9580	K	K12567	1.5474472145929	Up
+map05414 Dilated cardiomyopathy	Ttn	9610	K	K12567	1.67577314644271	Up
+map05414 Dilated cardiomyopathy	Ttn	650	K	K12567	2.39683573004082	Up
+map05414 Dilated cardiomyopathy	Ttn	9685	K	K12567	1.91229594805556	Up
+map05414 Dilated cardiomyopathy	Ttn	9688	K	K12567	1.52285927531083	Up
+map05414 Dilated cardiomyopathy	Ttn	8521	K	K12567	1.57248809461554	Up
+map05414 Dilated cardiomyopathy	Dmd	3305	K	K10366	1.71327814043648	Up
+map05414 Dilated cardiomyopathy	Myh6	944	K	K17751	1.8434297342873303	Up
+map05414 Dilated cardiomyopathy	Tpm3	153	K	K09290	1.8840435457628302	Up
+map05414 Dilated cardiomyopathy	Tpm3	218	K	K09290	0.45386074155059203	Down
+map05414 Dilated cardiomyopathy	Myh6	1577	K	K17751	1.5544830260205502	Up
+map05414 Dilated cardiomyopathy	Myh6	1785	K	K17751	1.7732118037376499	Up
+map05414 Dilated cardiomyopathy	Myh6	1786	K	K17751	1.7732118037376499	Up
+map05414 Dilated cardiomyopathy	Myh6	1646	K	K17751	1.55282712900462	Up
+map05414 Dilated cardiomyopathy	Myh6	1109	K	K17751	1.5937133531159198	Up
+map05414 Dilated cardiomyopathy	Myh6	1730	K	K17751	1.71418049475674	Up
+map05414 Dilated cardiomyopathy	Myh6	1453	K	K17751	1.6038778532245999	Up
+map05414 Dilated cardiomyopathy	Myh6	1446	K	K17751	1.62549686472443	Up
+map05414 Dilated cardiomyopathy	Myh6	1447	K	K17751	1.6084039247234898	Up
+map05414 Dilated cardiomyopathy	Lama2	1752	K	K05637	1.5032767159404299	Up
+map05414 Dilated cardiomyopathy	Tpm4	11	K	K10375	1.51570619508659	Up
+map05414 Dilated cardiomyopathy	Myh7	1242	K	K17751	0.0803123904699113	Down
+map05414 Dilated cardiomyopathy	Myh7	640	K	K17751	0.0793684808016154	Down
+map05414 Dilated cardiomyopathy	Myh7	551	K	K17751	0.0830196928388021	Down
+map05414 Dilated cardiomyopathy	Myh7	559	K	K17751	0.102253394412158	Down
+map05414 Dilated cardiomyopathy	Myh7	1016	K	K17751	0.0927185935607133	Down
+map05414 Dilated cardiomyopathy	Myh7	1026	K	K17751	0.0863359518293413	Down
+map05414 Dilated cardiomyopathy	Myh7	963	K	K17751	0.0747349147783881	Down
+map05414 Dilated cardiomyopathy	Myh7	966	K	K17751	0.0978826236423775	Down
+map05414 Dilated cardiomyopathy	Myh7	234	K	K17751	0.0230758496461142	Down
+map05414 Dilated cardiomyopathy	Myh7	83	K	K17751	0.0821010617821572	Down
+map05414 Dilated cardiomyopathy	Myh7	434	K	K17751	0.0836268858236689	Down
+map05414 Dilated cardiomyopathy	Myh7	1848	K	K17751	1.8499572597424798	Up
+map05414 Dilated cardiomyopathy	Myh7	841	K	K17751	0.111322497184467	Down
+map05414 Dilated cardiomyopathy	Myh7	1728	K	K17751	0.15076769342650598	Down
+map05414 Dilated cardiomyopathy	Myh7	942	K	K17751	0.156866737853609	Down
+map05414 Dilated cardiomyopathy	Myh7	1042	K	K17751	0.0865447535177971	Down
+map05416 Viral myocarditis	Dmd	3305	K	K10366	1.71327814043648	Up
+map05416 Viral myocarditis	Myh6	944	K	K17751	1.8434297342873303	Up
+map05416 Viral myocarditis	Myh6	1577	K	K17751	1.5544830260205502	Up
+map05416 Viral myocarditis	Myh6	1785	K	K17751	1.7732118037376499	Up
+map05416 Viral myocarditis	Myh6	1786	K	K17751	1.7732118037376499	Up
+map05416 Viral myocarditis	Myh6	1646	K	K17751	1.55282712900462	Up
+map05416 Viral myocarditis	Myh6	1109	K	K17751	1.5937133531159198	Up
+map05416 Viral myocarditis	Myh6	1730	K	K17751	1.71418049475674	Up
+map05416 Viral myocarditis	Myh6	1453	K	K17751	1.6038778532245999	Up
+map05416 Viral myocarditis	Myh6	1446	K	K17751	1.62549686472443	Up
+map05416 Viral myocarditis	Myh6	1447	K	K17751	1.6084039247234898	Up
+map05416 Viral myocarditis	Lama2	1752	K	K05637	1.5032767159404299	Up
+map05416 Viral myocarditis	Myh7	1242	K	K17751	0.0803123904699113	Down
+map05416 Viral myocarditis	Myh7	640	K	K17751	0.0793684808016154	Down
+map05416 Viral myocarditis	Myh7	551	K	K17751	0.0830196928388021	Down
+map05416 Viral myocarditis	Myh7	559	K	K17751	0.102253394412158	Down
+map05416 Viral myocarditis	Myh7	1016	K	K17751	0.0927185935607133	Down
+map05416 Viral myocarditis	Myh7	1026	K	K17751	0.0863359518293413	Down
+map05416 Viral myocarditis	Myh7	963	K	K17751	0.0747349147783881	Down
+map05416 Viral myocarditis	Myh7	966	K	K17751	0.0978826236423775	Down
+map05416 Viral myocarditis	Myh7	234	K	K17751	0.0230758496461142	Down
+map05416 Viral myocarditis	Myh7	83	K	K17751	0.0821010617821572	Down
+map05416 Viral myocarditis	Myh7	434	K	K17751	0.0836268858236689	Down
+map05416 Viral myocarditis	Myh7	1848	K	K17751	1.8499572597424798	Up
+map05416 Viral myocarditis	Myh7	841	K	K17751	0.111322497184467	Down
+map05416 Viral myocarditis	Myh7	1728	K	K17751	0.15076769342650598	Down
+map05416 Viral myocarditis	Myh7	942	K	K17751	0.156866737853609	Down
+map05416 Viral myocarditis	Myh7	1042	K	K17751	0.0865447535177971	Down

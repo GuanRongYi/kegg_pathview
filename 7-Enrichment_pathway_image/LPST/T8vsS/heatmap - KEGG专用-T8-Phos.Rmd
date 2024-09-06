@@ -1,0 +1,135 @@
+---
+title: "Untitled"
+output: html_document
+date: "2024-08-05"
+---
+```{r}
+library(pheatmap)
+library(dplyr)
+library(ggplot2)
+library(readr)
+library(readxl)
+library(openxlsx)
+```
+
+#T8-phos
+```{r}
+kegg_maps<-c("mmu00010","mmu00190","mmu00500","mmu00620","mmu00790","mmu04020","mmu04022","mmu04066","mmu04114","mmu04260","mmu04261","mmu04270","mmu04370","mmu04510","mmu04520","mmu04540","mmu04611","mmu04670","mmu04713","mmu04714","mmu04723","mmu04727","mmu04740","mmu04742","mmu04810","mmu04911","mmu04913","mmu04919","mmu04921","mmu04930","mmu04932","mmu04960","mmu04961","mmu04970","mmu04971","mmu04972","mmu05010","mmu05012","mmu05016","mmu05017","mmu05020","mmu05022","mmu05100","mmu05205","mmu05208","mmu05410","mmu05412","mmu05414","mmu05415","mmu05416")
+```
+
+#T8-phos-大图
+```{r}
+kegg_maps<-c("mmu00190","mmu04020","mmu04022","mmu04260","mmu04261","mmu04270","mmu04510","mmu04520","mmu04611","mmu04670","mmu04714","mmu04810","mmu04919","mmu04921","mmu05010","mmu05012","mmu05016","mmu05017","mmu05020","mmu05022","mmu05205","mmu05208","mmu05410","mmu05412","mmu05414","mmu05415","mmu05416")
+```
+
+
+#T8-phos-再大图
+```{r}
+kegg_maps<-c("mmu05410","mmu05414")
+```
+
+#T4-phos-超大图
+```{r}
+kegg_maps<-c("mmu05410","mmu05414")
+```
+
+```{r}
+data <-read.xlsx("E:/R/T8_S_Phos - no myh7.xlsx",sep=',')#读取数据
+rownames(data)<-data[,1]#第一列为行
+data1<-data[,-1]#去掉第一列
+data2<-data1[grepl("mmu",data1$`KEGG,pathway`),]#筛选出含有mmu的行,去掉空白行
+```
+
+
+#乙酰化组
+```{r}
+save_folder<-"C:\\Users\\Administrator\\Desktop\\4. Pathview\\LPST_7-Enrichment_pathway_image\\T8vsS\\heatmap2"
+data<-data2
+column_name<-"KEGG,pathway"
+```
+#去掉背景颜色bg= "transparent"
+
+ 
+```{r}
+for(kegg_map in  as.vector(kegg_maps)){
+  filtered_data<-data[grepl(kegg_map,data$`KEGG,pathway`),]
+
+selected_columns<-filtered_data[,-which(names(filtered_data)==column_name)]
+
+
+mycol1<-colorRampPalette(c("#0da9ce", "white", "#e74a32"))(100)
+group=data.frame(type = c(rep("S",3),rep("T2",3), rep("T4",3), rep("T8",3)))
+rownames(group)=colnames(selected_columns)
+  #自定义分组颜色；
+group_colors=list(type=c(S = "#76A7C9", T2 = "#F5AD6D", T4 = "#7DBE7D",T8 = "#DB797A"))
+  #添加分组颜色条；
+par(oma = c(0, 0, 0, 0), mar = c(0, 0, 0, 0))
+p <- pheatmap(selected_columns,fontsize = 6,fontsize_row = 6,
+                fontsize_col = 7,cellwidth = 6,cellheight = 6,color = mycol1,border="white",treeheight_col=6,treeheight_row = 6,cluster_cols = F,gaps_col=c(3,6,9),annotation_col=group,annotation_color=group_colors)
+png(paste0(save_folder,"/",kegg_map,"_heatmap.png"),width=3500,height=10000,res=1200)
+#存储为png格式,分辨率
+print(p)
+dev.off()
+}
+```
+
+ 
+```{r}
+
+data<-read.table(file_path,header=T)
+filtered_data<-data2%>% filter(`KEGG,pathway`==kegg_map)
+ 
+  print(filtered_data)
+  data3<-filtered_data[,-13]#去掉非数据列，生成分组信息数据框
+  mycol1<-colorRampPalette(c("#0da9ce", "white", "#e74a32"))(100)
+  group=data.frame(type = c(rep("S",3),rep("T2",3), rep("T4",3), rep("T8",3)))
+  rownames(group)=colnames(data3)
+  #自定义分组颜色；
+  group_colors=list(type=c(S = "#76A7C9", T2 = "#F5AD6D", T4 = "#7DBE7D",T8 = "#DB797A"))
+  #添加分组颜色条；
+  p <- pheatmap(data3,clustering_distance_rows = "correlation",fontsize = 6,fontsize_row = 6,
+                fontsize_col = 7,cellwidth = 25,cellheight = 6,color = mycol1,border="white",treeheight_col=30,cluster_cols = F,gaps_col=c(3,6,9),annotation_col=group,annotation_color=group_colors)
+  
+  pdf(paste0(save_folder,"/",file_path,"_",kegg_map,"_heatmap.pdf"))
+  print(p)
+  
+  dev.off()
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

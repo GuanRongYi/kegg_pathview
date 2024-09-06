@@ -1,0 +1,509 @@
+KEGG pathway	Protein accession	KEGG KO No.	T8/S Ratio	Regulated Type
+map00430 Taurine and hypotaurine metabolism	Fmo5	K00485	1.84874323302647	Up
+map00430 Taurine and hypotaurine metabolism	Fmo2	K00485	2.64631966938456	Up
+map04141 Protein processing in endoplasmic reticulum	Hsp90aa1	K04079	1.8949571571342	Up
+map04141 Protein processing in endoplasmic reticulum	Pdia4	K09582	1.7661948176583502	Up
+map04141 Protein processing in endoplasmic reticulum	P4hb	K09580	1.80429956492498	Up
+map04141 Protein processing in endoplasmic reticulum	Cryab	K09542	1.67276721999361	Up
+map04141 Protein processing in endoplasmic reticulum	Stt3a	K07151	1.64024196873117	Up
+map04141 Protein processing in endoplasmic reticulum	Dnaja1	K09502	2.0665647622069	Up
+map04141 Protein processing in endoplasmic reticulum	Bax	K02159	1.5046829633792298	Up
+map04141 Protein processing in endoplasmic reticulum	Hsph1	K09485	1.8793243420191201	Up
+map04141 Protein processing in endoplasmic reticulum	Uggt1	K11718	1.62464700345152	Up
+map04141 Protein processing in endoplasmic reticulum	Mogs	K01228	1.61408515147137	Up
+map04141 Protein processing in endoplasmic reticulum	Ckap4	K13999	1.7973027619394197	Up
+map04141 Protein processing in endoplasmic reticulum	Ero1a	K10950	2.2724803417859	Up
+map04141 Protein processing in endoplasmic reticulum	Txndc5	K13984	1.73924739791833	Up
+map04141 Protein processing in endoplasmic reticulum	Dnajb2	K09508	1.74226467847158	Up
+map04510 Focal adhesion	Itga9	K06585	2.92501034136348	Up
+map04510 Focal adhesion	Diaph1	K05740	2.2832271223492002	Up
+map04510 Focal adhesion	Itgb5	K06588	3.45483339118362	Up
+map04510 Focal adhesion	Pdgfrb	K05089	1.85613845669372	Up
+map04510 Focal adhesion	Itga5	K06484	1.82560234653258	Up
+map04510 Focal adhesion	Prkca	K02677	1.8275710621552301	Up
+map04510 Focal adhesion	Vtn	K06251	1.7074783185631002	Up
+map04510 Focal adhesion	Itgav	K06487	1.7814719505918704	Up
+map04510 Focal adhesion	Cav3	K12959	0.5477406574579721	Down
+map04510 Focal adhesion	Myl12b	K12757	1.9896298610026597	Up
+map04510 Focal adhesion	Zyx	K06273	1.9403041996470498	Up
+map04510 Focal adhesion	Actn1	K05699	1.8080024441607498	Up
+map04510 Focal adhesion	Col6a6	K06238	0.331618856057341	Down
+map04510 Focal adhesion	Vwf	K03900	3.72992657154797	Up
+map04510 Focal adhesion	Flnc	K04437	1.98759510129496	Up
+map04510 Focal adhesion	Thbs4	K04659	65.96244972010359	Up
+map04512 ECM-receptor interaction	Itga9	K06585	2.92501034136348	Up
+map04512 ECM-receptor interaction	Itgb5	K06588	3.45483339118362	Up
+map04512 ECM-receptor interaction	Itga5	K06484	1.82560234653258	Up
+map04512 ECM-receptor interaction	Vtn	K06251	1.7074783185631002	Up
+map04512 ECM-receptor interaction	Itgav	K06487	1.7814719505918704	Up
+map04512 ECM-receptor interaction	Col6a6	K06238	0.331618856057341	Down
+map04512 ECM-receptor interaction	Vwf	K03900	3.72992657154797	Up
+map04512 ECM-receptor interaction	Thbs4	K04659	65.96244972010359	Up
+map04540 Gap junction	Pdgfrb	K05089	1.85613845669372	Up
+map04540 Gap junction	Prkg1	K07376	1.8525411061285502	Up
+map04540 Gap junction	Itpr1	K04958	2.40202879317972	Up
+map04540 Gap junction	Prkca	K02677	1.8275710621552301	Up
+map04540 Gap junction	Gja1	K07372	0.409514928202096	Down
+map04540 Gap junction	Adcy6	K08046	0.39041894106855496	Down
+map04540 Gap junction	Gnai3	K04630	1.53824141519251	Up
+map04540 Gap junction	Tubb3	K07375	2.03981758234986	Up
+map04713 Circadian entrainment	Ryr2	K04962	0.650801781223322	Down
+map04713 Circadian entrainment	Prkg1	K07376	1.8525411061285502	Up
+map04713 Circadian entrainment	Camk2a	K04515	0.4653693931398421	Down
+map04713 Circadian entrainment	Itpr1	K04958	2.40202879317972	Up
+map04713 Circadian entrainment	Gnao1	K04534	2.10118832570084	Up
+map04713 Circadian entrainment	Prkca	K02677	1.8275710621552301	Up
+map04713 Circadian entrainment	Adcy6	K08046	0.39041894106855496	Down
+map04713 Circadian entrainment	Gng10	K04545	1.63522884882108	Up
+map04713 Circadian entrainment	Gnai3	K04630	1.53824141519251	Up
+map04724 Glutamatergic synapse	Itpr1	K04958	2.40202879317972	Up
+map04724 Glutamatergic synapse	Glul	K01915	1.53409830498882	Up
+map04724 Glutamatergic synapse	Gnao1	K04534	2.10118832570084	Up
+map04724 Glutamatergic synapse	Prkca	K02677	1.8275710621552301	Up
+map04724 Glutamatergic synapse	Adcy6	K08046	0.39041894106855496	Down
+map04724 Glutamatergic synapse	Gng10	K04545	1.63522884882108	Up
+map04724 Glutamatergic synapse	Gnai3	K04630	1.53824141519251	Up
+map04727 GABAergic synapse	Glul	K01915	1.53409830498882	Up
+map04727 GABAergic synapse	Gnao1	K04534	2.10118832570084	Up
+map04727 GABAergic synapse	Prkca	K02677	1.8275710621552301	Up
+map04727 GABAergic synapse	Abat	K13524	5.391603813350309	Up
+map04727 GABAergic synapse	Adcy6	K08046	0.39041894106855496	Down
+map04727 GABAergic synapse	Gng10	K04545	1.63522884882108	Up
+map04727 GABAergic synapse	Gnai3	K04630	1.53824141519251	Up
+map04730 Long-term depression	Prkg1	K07376	1.8525411061285502	Up
+map04730 Long-term depression	Itpr1	K04958	2.40202879317972	Up
+map04730 Long-term depression	Gnao1	K04534	2.10118832570084	Up
+map04730 Long-term depression	Prkca	K02677	1.8275710621552301	Up
+map04730 Long-term depression	Gnai3	K04630	1.53824141519251	Up
+map04810 Regulation of actin cytoskeleton	Itga9	K06585	2.92501034136348	Up
+map04810 Regulation of actin cytoskeleton	Diaph1	K05740	2.2832271223492002	Up
+map04810 Regulation of actin cytoskeleton	Itgb5	K06588	3.45483339118362	Up
+map04810 Regulation of actin cytoskeleton	Pdgfrb	K05089	1.85613845669372	Up
+map04810 Regulation of actin cytoskeleton	Itga5	K06484	1.82560234653258	Up
+map04810 Regulation of actin cytoskeleton	Ezr	K08007	0.569416118248144	Down
+map04810 Regulation of actin cytoskeleton	Itgav	K06487	1.7814719505918704	Up
+map04810 Regulation of actin cytoskeleton	Enah	K05746	6.01634269903357	Up
+map04810 Regulation of actin cytoskeleton	Myl12b	K12757	1.9896298610026597	Up
+map04810 Regulation of actin cytoskeleton	Myh10	K10352	2.12204192236177	Up
+map04810 Regulation of actin cytoskeleton	Actn1	K05699	1.8080024441607498	Up
+map04810 Regulation of actin cytoskeleton	Arhgef12	K07532	2.25478981984558	Up
+map04810 Regulation of actin cytoskeleton	Iqgap1	K16848	1.7218875179229298	Up
+map04918 Thyroid hormone synthesis	Pdia4	K09582	1.7661948176583502	Up
+map04918 Thyroid hormone synthesis	Itpr1	K04958	2.40202879317972	Up
+map04918 Thyroid hormone synthesis	Prkca	K02677	1.8275710621552301	Up
+map04918 Thyroid hormone synthesis	Gpx3	K00432	2.6939443149991806	Up
+map04918 Thyroid hormone synthesis	Adcy6	K08046	0.39041894106855496	Down
+map04918 Thyroid hormone synthesis	Gpx7	K00432	1.71767578125	Up
+map05132 Salmonella infection	Exoc4	K06111	1.54516699663781	Up
+map05132 Salmonella infection	Klc1	K10407	1.80874724024435	Up
+map05132 Salmonella infection	Klc2	K10407	1.9563006939596	Up
+map05132 Salmonella infection	Anxa2	K17092	1.62631652077254	Up
+map05132 Salmonella infection	Hsp90aa1	K04079	1.8949571571342	Up
+map05132 Salmonella infection	S100a10	K17274	1.76864530199132	Up
+map05132 Salmonella infection	Rab5c	K07889	1.5154144933300802	Up
+map05132 Salmonella infection	Mapk14	K04441	0.592220337127846	Down
+map05132 Salmonella infection	Dynlt3	K10420	1.5488207313893203	Up
+map05132 Salmonella infection	Bax	K02159	1.5046829633792298	Up
+map05132 Salmonella infection	Myl12b	K12757	1.9896298610026597	Up
+map05132 Salmonella infection	Acbd3	K23935	1.6701124776823602	Up
+map05132 Salmonella infection	Flnc	K04437	1.98759510129496	Up
+map05132 Salmonella infection	Vps33a	K20182	1.67247083775186	Up
+map05132 Salmonella infection	Klc4	K10407	1.5706451500226999	Up
+map05132 Salmonella infection	Tubb3	K07375	2.03981758234986	Up
+map05132 Salmonella infection	Actr10	K16576	1.56412904852655	Up
+map05132 Salmonella infection	Dctn6	K10428	1.5658418512416001	Up
+map05205 Proteoglycans in cancer	Itgb5	K06588	3.45483339118362	Up
+map05205 Proteoglycans in cancer	Itga5	K06484	1.82560234653258	Up
+map05205 Proteoglycans in cancer	Camk2a	K04515	0.4653693931398421	Down
+map05205 Proteoglycans in cancer	Itpr1	K04958	2.40202879317972	Up
+map05205 Proteoglycans in cancer	Prkca	K02677	1.8275710621552301	Up
+map05205 Proteoglycans in cancer	Ezr	K08007	0.569416118248144	Down
+map05205 Proteoglycans in cancer	Vtn	K06251	1.7074783185631002	Up
+map05205 Proteoglycans in cancer	Itgav	K06487	1.7814719505918704	Up
+map05205 Proteoglycans in cancer	Mapk14	K04441	0.592220337127846	Down
+map05205 Proteoglycans in cancer	Cav3	K12959	0.5477406574579721	Down
+map05205 Proteoglycans in cancer	Cttn	K06106	1.50493884026818	Up
+map05205 Proteoglycans in cancer	Arhgef12	K07532	2.25478981984558	Up
+map05205 Proteoglycans in cancer	Flnc	K04437	1.98759510129496	Up
+map05205 Proteoglycans in cancer	Hspb2	K09543	1.6124951319966498	Up
+map05205 Proteoglycans in cancer	Iqgap1	K16848	1.7218875179229298	Up
+map05410 Hypertrophic cardiomyopathy	Itga9	K06585	2.92501034136348	Up
+map05410 Hypertrophic cardiomyopathy	Ryr2	K04962	0.650801781223322	Down
+map05410 Hypertrophic cardiomyopathy	Itgb5	K06588	3.45483339118362	Up
+map05410 Hypertrophic cardiomyopathy	Ace	K01283	4.5646577949734	Up
+map05410 Hypertrophic cardiomyopathy	Itga5	K06484	1.82560234653258	Up
+map05410 Hypertrophic cardiomyopathy	Itgav	K06487	1.7814719505918704	Up
+map05410 Hypertrophic cardiomyopathy	Prkab2	K07199	1.55473934733855	Up
+map05410 Hypertrophic cardiomyopathy	Cacnb2	K04863	0.638080467110665	Down
+map05410 Hypertrophic cardiomyopathy	Myh7	K17751	51.39804208111379	Up
+map05410 Hypertrophic cardiomyopathy	Prkab1	K07199	0.511766871513126	Down
+map00010 Glycolysis / Gluconeogenesis	Adh1	K13951	0.42241472151335707	Down
+map00010 Glycolysis / Gluconeogenesis	Ldhb	K00016	0.6485890819563471	Down
+map00010 Glycolysis / Gluconeogenesis	Eno3	K01689	0.553555315349187	Down
+map00010 Glycolysis / Gluconeogenesis	Pfkm	K00850	0.618452778461214	Down
+map00010 Glycolysis / Gluconeogenesis	Fbp2	K03841	0.248770814212666	Down
+map00010 Glycolysis / Gluconeogenesis	Acss1	K01895	0.511980591901028	Down
+map00010 Glycolysis / Gluconeogenesis	Aldh1b1	K00128	0.552795814158734	Down
+map00010 Glycolysis / Gluconeogenesis	Aldh9a1	K00149	0.4023221777734411	Down
+map00010 Glycolysis / Gluconeogenesis	Acss2	K01895	0.6209144766007371	Down
+map00010 Glycolysis / Gluconeogenesis	Pfkp	K00850	2.0815157436883402	Up
+map00062 Fatty acid elongation	Acot1	K01068	0.0652228360095501	Down
+map00062 Fatty acid elongation	Hadh	K00022	0.591699590800057	Down
+map00062 Fatty acid elongation	Hadha	K07515	0.590326605902778	Down
+map00062 Fatty acid elongation	Acaa2	K07508	0.44412100456621	Down
+map00062 Fatty acid elongation	Hadhb	K07509	0.565484597721069	Down
+map00062 Fatty acid elongation	Acot2	K01068	0.520733286569902	Down
+map00071 Fatty acid degradation	Adh1	K13951	0.42241472151335707	Down
+map00071 Fatty acid degradation	Acsl1	K01897	0.657667886891515	Down
+map00071 Fatty acid degradation	Eci1	K13238	0.585276882000069	Down
+map00071 Fatty acid degradation	Acadvl	K09479	0.593214569386134	Down
+map00071 Fatty acid degradation	Cpt2	K08766	0.6249126077837329	Down
+map00071 Fatty acid degradation	Hadh	K00022	0.591699590800057	Down
+map00071 Fatty acid degradation	Hadha	K07515	0.590326605902778	Down
+map00071 Fatty acid degradation	Acaa2	K07508	0.44412100456621	Down
+map00071 Fatty acid degradation	Hadhb	K07509	0.565484597721069	Down
+map00071 Fatty acid degradation	Aldh1b1	K00128	0.552795814158734	Down
+map00071 Fatty acid degradation	Ehhadh	K07514	0.432568984784664	Down
+map00071 Fatty acid degradation	Aldh9a1	K00149	0.4023221777734411	Down
+map00071 Fatty acid degradation	Eci2	K13239	0.62829910887253	Down
+map00130 Ubiquinone and other terpenoid-quinone biosynthesis	Coq7	K06134	0.509395193912334	Down
+map00130 Ubiquinone and other terpenoid-quinone biosynthesis	Nqo1	K00355	1.87836826347305	Up
+map00130 Ubiquinone and other terpenoid-quinone biosynthesis	Coq3	K00591	0.60875928747923	Down
+map00130 Ubiquinone and other terpenoid-quinone biosynthesis	Coq6	K06126	0.603721828064412	Down
+map00190 Oxidative phosphorylation	Atp5mf	K02130	0.613461538461539	Down
+map00190 Oxidative phosphorylation	Cox7a1	K02270	0.622071928707829	Down
+map00190 Oxidative phosphorylation	Uqcrh	K00416	0.524741619012644	Down
+map00190 Oxidative phosphorylation	Ndufv3	K03944	0.49451717103026205	Down
+map00190 Oxidative phosphorylation	Cox10	K02257	0.565125099060342	Down
+map00190 Oxidative phosphorylation	Ndufs8	K03941	0.660594495784661	Down
+map00190 Oxidative phosphorylation	Atp5f1c	K02136	0.655017283576817	Down
+map00190 Oxidative phosphorylation	Ndufa2	K03946	0.634595229376334	Down
+map00190 Oxidative phosphorylation	Ndufa3	K03947	0.616424029451138	Down
+map00190 Oxidative phosphorylation	Sdhb	K00235	0.663257105282385	Down
+map00190 Oxidative phosphorylation	Ndufb4	K03960	0.6580519953369209	Down
+map00190 Oxidative phosphorylation	Ndufa6	K03950	0.6665561028464649	Down
+map00190 Oxidative phosphorylation	Ndufb3	K03959	0.629956687696537	Down
+map00190 Oxidative phosphorylation	Uqcrfs1	K00411	0.6618085173435301	Down
+map00190 Oxidative phosphorylation	Ndufs4	K03937	0.510683094198378	Down
+map00190 Oxidative phosphorylation	Ndufs7	K03940	0.661745110054176	Down
+map00190 Oxidative phosphorylation	Ndufa8	K03952	0.6647945018821	Down
+map00190 Oxidative phosphorylation	Ndufa7	K03951	0.556666139490748	Down
+map00280 Valine, leucine and isoleucine degradation	Bckdha	K00166	0.601114658663989	Down
+map00280 Valine, leucine and isoleucine degradation	Dbt	K09699	0.5969320492022099	Down
+map00280 Valine, leucine and isoleucine degradation	Abat	K13524	5.391603813350309	Up
+map00280 Valine, leucine and isoleucine degradation	Mccc2	K01969	0.62020498806837	Down
+map00280 Valine, leucine and isoleucine degradation	Hadh	K00022	0.591699590800057	Down
+map00280 Valine, leucine and isoleucine degradation	Bckdhb	K00167	0.594579881254147	Down
+map00280 Valine, leucine and isoleucine degradation	Hadha	K07515	0.590326605902778	Down
+map00280 Valine, leucine and isoleucine degradation	Acaa2	K07508	0.44412100456621	Down
+map00280 Valine, leucine and isoleucine degradation	Hadhb	K07509	0.565484597721069	Down
+map00280 Valine, leucine and isoleucine degradation	Aldh1b1	K00128	0.552795814158734	Down
+map00280 Valine, leucine and isoleucine degradation	Mcee	K05606	0.655309247668693	Down
+map00280 Valine, leucine and isoleucine degradation	Ehhadh	K07514	0.432568984784664	Down
+map00280 Valine, leucine and isoleucine degradation	Aldh6a1	K00140	0.629240545800583	Down
+map00280 Valine, leucine and isoleucine degradation	Aldh9a1	K00149	0.4023221777734411	Down
+map00310 Lysine degradation	Hadh	K00022	0.591699590800057	Down
+map00310 Lysine degradation	Hadha	K07515	0.590326605902778	Down
+map00310 Lysine degradation	Colgalt1	K11703	1.83413012048193	Up
+map00310 Lysine degradation	Setd7	K11431	1.65610553496314	Up
+map00310 Lysine degradation	Aldh1b1	K00128	0.552795814158734	Down
+map00310 Lysine degradation	Ehhadh	K07514	0.432568984784664	Down
+map00310 Lysine degradation	Aldh9a1	K00149	0.4023221777734411	Down
+map00330 Arginine and proline metabolism	Ckm	K00933	0.586590855247571	Down
+map00330 Arginine and proline metabolism	Sms	K00802	1.5335038449812002	Up
+map00330 Arginine and proline metabolism	P4ha1	K00472	3.9350345483128	Up
+map00330 Arginine and proline metabolism	Srm	K00797	1.5911206534142102	Up
+map00330 Arginine and proline metabolism	Maob	K00274	0.5054750304917079	Down
+map00330 Arginine and proline metabolism	L3hypdh	K18384	0.535655597928875	Down
+map00330 Arginine and proline metabolism	Aldh1b1	K00128	0.552795814158734	Down
+map00330 Arginine and proline metabolism	Aldh9a1	K00149	0.4023221777734411	Down
+map00330 Arginine and proline metabolism	Prodh	K00318	0.44944971946482504	Down
+map00340 Histidine metabolism	Carnmt1	K19787	0.376712823600241	Down
+map00340 Histidine metabolism	Maob	K00274	0.5054750304917079	Down
+map00340 Histidine metabolism	Aldh1b1	K00128	0.552795814158734	Down
+map00340 Histidine metabolism	Aldh9a1	K00149	0.4023221777734411	Down
+map00350 Tyrosine metabolism	Comt	K00545	2.7731060503243703	Up
+map00350 Tyrosine metabolism	Adh1	K13951	0.42241472151335707	Down
+map00350 Tyrosine metabolism	Mif	K07253	1.69809295502522	Up
+map00350 Tyrosine metabolism	Fah	K01555	0.43413951120162897	Down
+map00350 Tyrosine metabolism	Maob	K00274	0.5054750304917079	Down
+map00350 Tyrosine metabolism	Fahd1	K01557	0.644496504264431	Down
+map00380 Tryptophan metabolism	Hadh	K00022	0.591699590800057	Down
+map00380 Tryptophan metabolism	Hadha	K07515	0.590326605902778	Down
+map00380 Tryptophan metabolism	Kyat1	K00816	0.661382443269067	Down
+map00380 Tryptophan metabolism	Maob	K00274	0.5054750304917079	Down
+map00380 Tryptophan metabolism	Aldh1b1	K00128	0.552795814158734	Down
+map00380 Tryptophan metabolism	Ehhadh	K07514	0.432568984784664	Down
+map00380 Tryptophan metabolism	Aldh9a1	K00149	0.4023221777734411	Down
+map00410 beta-Alanine metabolism	Abat	K13524	5.391603813350309	Up
+map00410 beta-Alanine metabolism	Hadha	K07515	0.590326605902778	Down
+map00410 beta-Alanine metabolism	Aldh1b1	K00128	0.552795814158734	Down
+map00410 beta-Alanine metabolism	Ehhadh	K07514	0.432568984784664	Down
+map00410 beta-Alanine metabolism	Aldh6a1	K00140	0.629240545800583	Down
+map00410 beta-Alanine metabolism	Aldh9a1	K00149	0.4023221777734411	Down
+map00620 Pyruvate metabolism	Acacb	K01946	0.622585601404741	Down
+map00620 Pyruvate metabolism	Adh1	K13951	0.42241472151335707	Down
+map00620 Pyruvate metabolism	Ldhb	K00016	0.6485890819563471	Down
+map00620 Pyruvate metabolism	Ldhd	K00102	0.5445212348875801	Down
+map00620 Pyruvate metabolism	Acss1	K01895	0.511980591901028	Down
+map00620 Pyruvate metabolism	Aldh1b1	K00128	0.552795814158734	Down
+map00620 Pyruvate metabolism	Aldh9a1	K00149	0.4023221777734411	Down
+map00620 Pyruvate metabolism	Acss2	K01895	0.6209144766007371	Down
+map00640 Propanoate metabolism	Acacb	K01946	0.622585601404741	Down
+map00640 Propanoate metabolism	Ldhb	K00016	0.6485890819563471	Down
+map00640 Propanoate metabolism	Bckdha	K00166	0.601114658663989	Down
+map00640 Propanoate metabolism	Dbt	K09699	0.5969320492022099	Down
+map00640 Propanoate metabolism	Abat	K13524	5.391603813350309	Up
+map00640 Propanoate metabolism	Bckdhb	K00167	0.594579881254147	Down
+map00640 Propanoate metabolism	Hadha	K07515	0.590326605902778	Down
+map00640 Propanoate metabolism	Acss1	K01895	0.511980591901028	Down
+map00640 Propanoate metabolism	Mcee	K05606	0.655309247668693	Down
+map00640 Propanoate metabolism	Ehhadh	K07514	0.432568984784664	Down
+map00640 Propanoate metabolism	Aldh6a1	K00140	0.629240545800583	Down
+map00640 Propanoate metabolism	Acss2	K01895	0.6209144766007371	Down
+map00640 Propanoate metabolism	Suclg1	K01899	0.631475014679069	Down
+map00640 Propanoate metabolism	Sucla2	K01900	0.6650368596811801	Down
+map00650 Butanoate metabolism	Abat	K13524	5.391603813350309	Up
+map00650 Butanoate metabolism	Hadh	K00022	0.591699590800057	Down
+map00650 Butanoate metabolism	Bdh1	K00019	5.698925965683709	Up
+map00650 Butanoate metabolism	Hadha	K07515	0.590326605902778	Down
+map00650 Butanoate metabolism	Aldh5a1	K00139	0.663673393323039	Down
+map00650 Butanoate metabolism	Ehhadh	K07514	0.432568984784664	Down
+map00760 Nicotinate and nicotinamide metabolism	Nt5c1a	K01081	0.367140804298478	Down
+map00760 Nicotinate and nicotinamide metabolism	Nt5c2	K01081	1.6424266470177	Up
+map00760 Nicotinate and nicotinamide metabolism	Nnt	K00323	0.584916847774733	Down
+map00760 Nicotinate and nicotinamide metabolism	Nadk2	K00858	0.557780097109407	Down
+map00760 Nicotinate and nicotinamide metabolism	Nampt	K03462	0.615192923606326	Down
+map03010 Ribosome	Rpl3	K02925	1.8784025995796299	Up
+map03010 Ribosome	Mrps7	K02992	0.6505329627688861	Down
+map03010 Ribosome	Mrpl22	K02890	0.660217224683603	Down
+map03010 Ribosome	Mrps18a	K02963	0.653265211333024	Down
+map03010 Ribosome	Mrpl27	K02899	0.628752034342053	Down
+map03010 Ribosome	Mrpl16	K02878	0.5185113624541121	Down
+map03010 Ribosome	Mrpl9	K02939	0.640945660232296	Down
+map03010 Ribosome	Mrpl15	K02876	0.660057026476579	Down
+map03010 Ribosome	Mrps17	K02961	0.5840703096974771	Down
+map03010 Ribosome	Mrpl33	K02913	0.6608649320664239	Down
+map03010 Ribosome	Mrpl28	K02902	0.643486726634489	Down
+map03010 Ribosome	Mrpl14	K02874	0.6169757147984211	Down
+map03010 Ribosome	Mrpl13	K02871	0.59734863557352	Down
+map03010 Ribosome	Mrpl19	K02884	0.660799321367291	Down
+map03010 Ribosome	Mrpl2	K02886	0.646059037301152	Down
+map03010 Ribosome	Mrpl17	K02879	0.599589457623026	Down
+map03010 Ribosome	Mrps11	K02948	0.6332915708182709	Down
+map03010 Ribosome	Mrpl4	K02926	0.6186663556579289	Down
+map03320 PPAR signaling pathway	Acsl1	K01897	0.657667886891515	Down
+map03320 PPAR signaling pathway	Plin2	K17284	0.28602884122684996	Down
+map03320 PPAR signaling pathway	Cpt2	K08766	0.6249126077837329	Down
+map03320 PPAR signaling pathway	Slc27a1	K08745	0.5002999018503039	Down
+map03320 PPAR signaling pathway	Plin5	K20255	0.38843469313979	Down
+map03320 PPAR signaling pathway	Cyp27a1	K00488	1.5173229109467399	Up
+map03320 PPAR signaling pathway	Ehhadh	K07514	0.432568984784664	Down
+map04146 Peroxisome	Phyh	K00477	0.591184460454466	Down
+map04146 Peroxisome	Ech1	K12663	0.55523906226132	Down
+map04146 Peroxisome	Sod2	K04564	0.662181554680951	Down
+map04146 Peroxisome	Mpv17	K13348	0.5890113492030981	Down
+map04146 Peroxisome	Ephx2	K08726	0.6658936328550911	Down
+map04146 Peroxisome	Acsl1	K01897	0.657667886891515	Down
+map04146 Peroxisome	Crat	K00624	0.618333014719939	Down
+map04146 Peroxisome	Ehhadh	K07514	0.432568984784664	Down
+map04146 Peroxisome	Gstk1	K13299	0.50584105401142	Down
+map04146 Peroxisome	Eci2	K13239	0.62829910887253	Down
+map04714 Thermogenesis	Ndufaf6	K18163	0.614329639215166	Down
+map04714 Thermogenesis	Prkg1	K07376	1.8525411061285502	Up
+map04714 Thermogenesis	Acsl1	K01897	0.657667886891515	Down
+map04714 Thermogenesis	Mapk14	K04441	0.592220337127846	Down
+map04714 Thermogenesis	Cpt2	K08766	0.6249126077837329	Down
+map04714 Thermogenesis	Lipe	K07188	0.38671779843061405	Down
+map04714 Thermogenesis	Atp5mf	K02130	0.613461538461539	Down
+map04714 Thermogenesis	Cox7a1	K02270	0.622071928707829	Down
+map04714 Thermogenesis	Uqcrh	K00416	0.524741619012644	Down
+map04714 Thermogenesis	Adcy6	K08046	0.39041894106855496	Down
+map04714 Thermogenesis	Prkab2	K07199	1.55473934733855	Up
+map04714 Thermogenesis	Ndufv3	K03944	0.49451717103026205	Down
+map04714 Thermogenesis	Cox10	K02257	0.565125099060342	Down
+map04714 Thermogenesis	Cox19	K18183	1.62610643338958	Up
+map04714 Thermogenesis	Ndufs8	K03941	0.660594495784661	Down
+map04714 Thermogenesis	Atp5f1c	K02136	0.655017283576817	Down
+map04714 Thermogenesis	Ndufa2	K03946	0.634595229376334	Down
+map04714 Thermogenesis	Ndufa3	K03947	0.616424029451138	Down
+map04714 Thermogenesis	Sdhb	K00235	0.663257105282385	Down
+map04714 Thermogenesis	Ndufb4	K03960	0.6580519953369209	Down
+map04714 Thermogenesis	Ndufa6	K03950	0.6665561028464649	Down
+map04714 Thermogenesis	Ndufb3	K03959	0.629956687696537	Down
+map04714 Thermogenesis	Uqcrfs1	K00411	0.6618085173435301	Down
+map04714 Thermogenesis	Ndufs4	K03937	0.510683094198378	Down
+map04714 Thermogenesis	Ndufs7	K03940	0.661745110054176	Down
+map04714 Thermogenesis	Ndufa8	K03952	0.6647945018821	Down
+map04714 Thermogenesis	Prkab1	K07199	0.511766871513126	Down
+map04714 Thermogenesis	Ndufa7	K03951	0.556666139490748	Down
+map04723 Retrograde endocannabinoid signaling	Itpr1	K04958	2.40202879317972	Up
+map04723 Retrograde endocannabinoid signaling	Gnao1	K04534	2.10118832570084	Up
+map04723 Retrograde endocannabinoid signaling	Prkca	K02677	1.8275710621552301	Up
+map04723 Retrograde endocannabinoid signaling	Mapk14	K04441	0.592220337127846	Down
+map04723 Retrograde endocannabinoid signaling	Adcy6	K08046	0.39041894106855496	Down
+map04723 Retrograde endocannabinoid signaling	Ndufv3	K03944	0.49451717103026205	Down
+map04723 Retrograde endocannabinoid signaling	Ndufs8	K03941	0.660594495784661	Down
+map04723 Retrograde endocannabinoid signaling	Ndufa2	K03946	0.634595229376334	Down
+map04723 Retrograde endocannabinoid signaling	Ndufa3	K03947	0.616424029451138	Down
+map04723 Retrograde endocannabinoid signaling	Ndufb4	K03960	0.6580519953369209	Down
+map04723 Retrograde endocannabinoid signaling	Ndufa6	K03950	0.6665561028464649	Down
+map04723 Retrograde endocannabinoid signaling	Ndufb3	K03959	0.629956687696537	Down
+map04723 Retrograde endocannabinoid signaling	Gng10	K04545	1.63522884882108	Up
+map04723 Retrograde endocannabinoid signaling	Ndufs4	K03937	0.510683094198378	Down
+map04723 Retrograde endocannabinoid signaling	Gnai3	K04630	1.53824141519251	Up
+map04723 Retrograde endocannabinoid signaling	Ndufs7	K03940	0.661745110054176	Down
+map04723 Retrograde endocannabinoid signaling	Ndufa8	K03952	0.6647945018821	Down
+map04723 Retrograde endocannabinoid signaling	Ndufa7	K03951	0.556666139490748	Down
+map04911 Insulin secretion	Ryr2	K04962	0.650801781223322	Down
+map04911 Insulin secretion	Camk2a	K04515	0.4653693931398421	Down
+map04911 Insulin secretion	Prkca	K02677	1.8275710621552301	Up
+map04911 Insulin secretion	Rab3a	K07882	0.628089868759347	Down
+map04911 Insulin secretion	Adcy6	K08046	0.39041894106855496	Down
+map04911 Insulin secretion	Kcnj11	K05004	0.554436369781984	Down
+map04913 Ovarian steroidogenesis	Acot1	K01068	0.0652228360095501	Down
+map04913 Ovarian steroidogenesis	Alox5	K00461	0.530405663588931	Down
+map04913 Ovarian steroidogenesis	Adcy6	K08046	0.39041894106855496	Down
+map04913 Ovarian steroidogenesis	Acot2	K01068	0.520733286569902	Down
+map04922 Glucagon signaling pathway	Acacb	K01946	0.622585601404741	Down
+map04922 Glucagon signaling pathway	Camk2a	K04515	0.4653693931398421	Down
+map04922 Glucagon signaling pathway	Itpr1	K04958	2.40202879317972	Up
+map04922 Glucagon signaling pathway	Ldhb	K00016	0.6485890819563471	Down
+map04922 Glucagon signaling pathway	Pfkm	K00850	0.618452778461214	Down
+map04922 Glucagon signaling pathway	Fbp2	K03841	0.248770814212666	Down
+map04922 Glucagon signaling pathway	Prkab2	K07199	1.55473934733855	Up
+map04922 Glucagon signaling pathway	Phkb	K07190	0.595694668539391	Down
+map04922 Glucagon signaling pathway	Prkab1	K07199	0.511766871513126	Down
+map04922 Glucagon signaling pathway	Pfkp	K00850	2.0815157436883402	Up
+map04932 Non-alcoholic fatty liver disease	Mapk14	K04441	0.592220337127846	Down
+map04932 Non-alcoholic fatty liver disease	Cox7a1	K02270	0.622071928707829	Down
+map04932 Non-alcoholic fatty liver disease	Uqcrh	K00416	0.524741619012644	Down
+map04932 Non-alcoholic fatty liver disease	Bax	K02159	1.5046829633792298	Up
+map04932 Non-alcoholic fatty liver disease	Prkab2	K07199	1.55473934733855	Up
+map04932 Non-alcoholic fatty liver disease	Ndufv3	K03944	0.49451717103026205	Down
+map04932 Non-alcoholic fatty liver disease	Ndufs8	K03941	0.660594495784661	Down
+map04932 Non-alcoholic fatty liver disease	Ndufa2	K03946	0.634595229376334	Down
+map04932 Non-alcoholic fatty liver disease	Ndufa3	K03947	0.616424029451138	Down
+map04932 Non-alcoholic fatty liver disease	Sdhb	K00235	0.663257105282385	Down
+map04932 Non-alcoholic fatty liver disease	Ndufb4	K03960	0.6580519953369209	Down
+map04932 Non-alcoholic fatty liver disease	Ndufa6	K03950	0.6665561028464649	Down
+map04932 Non-alcoholic fatty liver disease	Ndufb3	K03959	0.629956687696537	Down
+map04932 Non-alcoholic fatty liver disease	Uqcrfs1	K00411	0.6618085173435301	Down
+map04932 Non-alcoholic fatty liver disease	Ndufs4	K03937	0.510683094198378	Down
+map04932 Non-alcoholic fatty liver disease	Ndufs7	K03940	0.661745110054176	Down
+map04932 Non-alcoholic fatty liver disease	Ndufa8	K03952	0.6647945018821	Down
+map04932 Non-alcoholic fatty liver disease	Prkab1	K07199	0.511766871513126	Down
+map04932 Non-alcoholic fatty liver disease	Ndufa7	K03951	0.556666139490748	Down
+map04936 Alcoholic liver disease	Acacb	K01946	0.622585601404741	Down
+map04936 Alcoholic liver disease	Adh1	K13951	0.42241472151335707	Down
+map04936 Alcoholic liver disease	Mapk14	K04441	0.592220337127846	Down
+map04936 Alcoholic liver disease	Acadvl	K09479	0.593214569386134	Down
+map04936 Alcoholic liver disease	Prkab2	K07199	1.55473934733855	Up
+map04936 Alcoholic liver disease	Lpin1	K15728	0.42778857210833104	Down
+map04936 Alcoholic liver disease	Aldh1b1	K00128	0.552795814158734	Down
+map04936 Alcoholic liver disease	Aldh9a1	K00149	0.4023221777734411	Down
+map04936 Alcoholic liver disease	Prkab1	K07199	0.511766871513126	Down
+map05012 Parkinson disease	Klc1	K10407	1.80874724024435	Up
+map05012 Parkinson disease	Klc2	K10407	1.9563006939596	Up
+map05012 Parkinson disease	Mapt	K04380	1.91219523146693	Up
+map05012 Parkinson disease	Camk2a	K04515	0.4653693931398421	Down
+map05012 Parkinson disease	Itpr1	K04958	2.40202879317972	Up
+map05012 Parkinson disease	Cox7a1	K02270	0.622071928707829	Down
+map05012 Parkinson disease	Uqcrh	K00416	0.524741619012644	Down
+map05012 Parkinson disease	Bax	K02159	1.5046829633792298	Up
+map05012 Parkinson disease	Ndufv3	K03944	0.49451717103026205	Down
+map05012 Parkinson disease	Maob	K00274	0.5054750304917079	Down
+map05012 Parkinson disease	Ndufs8	K03941	0.660594495784661	Down
+map05012 Parkinson disease	Atp5f1c	K02136	0.655017283576817	Down
+map05012 Parkinson disease	Ndufa2	K03946	0.634595229376334	Down
+map05012 Parkinson disease	Ndufa3	K03947	0.616424029451138	Down
+map05012 Parkinson disease	Sdhb	K00235	0.663257105282385	Down
+map05012 Parkinson disease	Ndufb4	K03960	0.6580519953369209	Down
+map05012 Parkinson disease	Ndufa6	K03950	0.6665561028464649	Down
+map05012 Parkinson disease	Ndufb3	K03959	0.629956687696537	Down
+map05012 Parkinson disease	Uqcrfs1	K00411	0.6618085173435301	Down
+map05012 Parkinson disease	Ndufs4	K03937	0.510683094198378	Down
+map05012 Parkinson disease	Klc4	K10407	1.5706451500226999	Up
+map05012 Parkinson disease	Gnai3	K04630	1.53824141519251	Up
+map05012 Parkinson disease	Ndufs7	K03940	0.661745110054176	Down
+map05012 Parkinson disease	Ndufa8	K03952	0.6647945018821	Down
+map05012 Parkinson disease	Tubb3	K07375	2.03981758234986	Up
+map05012 Parkinson disease	Htra2	K08669	0.6530335395175091	Down
+map05012 Parkinson disease	Uchl1	K05611	2.23340636679985	Up
+map05012 Parkinson disease	Ndufa7	K03951	0.556666139490748	Down
+map05020 Prion disease	Ryr2	K04962	0.650801781223322	Down
+map05020 Prion disease	Klc1	K10407	1.80874724024435	Up
+map05020 Prion disease	Klc2	K10407	1.9563006939596	Up
+map05020 Prion disease	Prnp	K05634	2.2276950632486296	Up
+map05020 Prion disease	Itpr1	K04958	2.40202879317972	Up
+map05020 Prion disease	Mapk14	K04441	0.592220337127846	Down
+map05020 Prion disease	Cav3	K12959	0.5477406574579721	Down
+map05020 Prion disease	Cox7a1	K02270	0.622071928707829	Down
+map05020 Prion disease	Uqcrh	K00416	0.524741619012644	Down
+map05020 Prion disease	Bax	K02159	1.5046829633792298	Up
+map05020 Prion disease	Ndufv3	K03944	0.49451717103026205	Down
+map05020 Prion disease	Ndufs8	K03941	0.660594495784661	Down
+map05020 Prion disease	Atp5f1c	K02136	0.655017283576817	Down
+map05020 Prion disease	Ndufa2	K03946	0.634595229376334	Down
+map05020 Prion disease	Ndufa3	K03947	0.616424029451138	Down
+map05020 Prion disease	Sdhb	K00235	0.663257105282385	Down
+map05020 Prion disease	Ndufb4	K03960	0.6580519953369209	Down
+map05020 Prion disease	Ndufa6	K03950	0.6665561028464649	Down
+map05020 Prion disease	Ndufb3	K03959	0.629956687696537	Down
+map05020 Prion disease	Uqcrfs1	K00411	0.6618085173435301	Down
+map05020 Prion disease	Ndufs4	K03937	0.510683094198378	Down
+map05020 Prion disease	Klc4	K10407	1.5706451500226999	Up
+map05020 Prion disease	Ndufs7	K03940	0.661745110054176	Down
+map05020 Prion disease	Ndufa8	K03952	0.6647945018821	Down
+map05020 Prion disease	Tubb3	K07375	2.03981758234986	Up
+map05020 Prion disease	Ndufa7	K03951	0.556666139490748	Down
+map05208 Chemical carcinogenesis - reactive oxygen species	Sod2	K04564	0.662181554680951	Down
+map05208 Chemical carcinogenesis - reactive oxygen species	Ephx2	K08726	0.6658936328550911	Down
+map05208 Chemical carcinogenesis - reactive oxygen species	Ptpn1	K05696	1.6300795708076998	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Mapk14	K04441	0.592220337127846	Down
+map05208 Chemical carcinogenesis - reactive oxygen species	Cox7a1	K02270	0.622071928707829	Down
+map05208 Chemical carcinogenesis - reactive oxygen species	Uqcrh	K00416	0.524741619012644	Down
+map05208 Chemical carcinogenesis - reactive oxygen species	Nqo1	K00355	1.87836826347305	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Gstm7	K00799	0.526424419577611	Down
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufv3	K03944	0.49451717103026205	Down
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufs8	K03941	0.660594495784661	Down
+map05208 Chemical carcinogenesis - reactive oxygen species	Atp5f1c	K02136	0.655017283576817	Down
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufa2	K03946	0.634595229376334	Down
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufa3	K03947	0.616424029451138	Down
+map05208 Chemical carcinogenesis - reactive oxygen species	Sdhb	K00235	0.663257105282385	Down
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufb4	K03960	0.6580519953369209	Down
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufa6	K03950	0.6665561028464649	Down
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufb3	K03959	0.629956687696537	Down
+map05208 Chemical carcinogenesis - reactive oxygen species	Uqcrfs1	K00411	0.6618085173435301	Down
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufs4	K03937	0.510683094198378	Down
+map05208 Chemical carcinogenesis - reactive oxygen species	Ephx1	K01253	2.04680416581581	Up
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufs7	K03940	0.661745110054176	Down
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufa8	K03952	0.6647945018821	Down
+map05208 Chemical carcinogenesis - reactive oxygen species	Ndufa7	K03951	0.556666139490748	Down
+map05415 Diabetic cardiomyopathy	Ryr2	K04962	0.650801781223322	Down
+map05415 Diabetic cardiomyopathy	Ace	K01283	4.5646577949734	Up
+map05415 Diabetic cardiomyopathy	Parp1	K24070	0.589904725447663	Down
+map05415 Diabetic cardiomyopathy	Camk2a	K04515	0.4653693931398421	Down
+map05415 Diabetic cardiomyopathy	Prkca	K02677	1.8275710621552301	Up
+map05415 Diabetic cardiomyopathy	Mapk14	K04441	0.592220337127846	Down
+map05415 Diabetic cardiomyopathy	Cpt2	K08766	0.6249126077837329	Down
+map05415 Diabetic cardiomyopathy	Cox7a1	K02270	0.622071928707829	Down
+map05415 Diabetic cardiomyopathy	Uqcrh	K00416	0.524741619012644	Down
+map05415 Diabetic cardiomyopathy	Ndufv3	K03944	0.49451717103026205	Down
+map05415 Diabetic cardiomyopathy	Tbc1d4	K17902	0.46014014580190993	Down
+map05415 Diabetic cardiomyopathy	Ndufs8	K03941	0.660594495784661	Down
+map05415 Diabetic cardiomyopathy	Atp5f1c	K02136	0.655017283576817	Down
+map05415 Diabetic cardiomyopathy	Ndufa2	K03946	0.634595229376334	Down
+map05415 Diabetic cardiomyopathy	Ndufa3	K03947	0.616424029451138	Down
+map05415 Diabetic cardiomyopathy	Sdhb	K00235	0.663257105282385	Down
+map05415 Diabetic cardiomyopathy	Ndufb4	K03960	0.6580519953369209	Down
+map05415 Diabetic cardiomyopathy	Ndufa6	K03950	0.6665561028464649	Down
+map05415 Diabetic cardiomyopathy	Ndufb3	K03959	0.629956687696537	Down
+map05415 Diabetic cardiomyopathy	Uqcrfs1	K00411	0.6618085173435301	Down
+map05415 Diabetic cardiomyopathy	Ndufs4	K03937	0.510683094198378	Down
+map05415 Diabetic cardiomyopathy	Ndufs7	K03940	0.661745110054176	Down
+map05415 Diabetic cardiomyopathy	Ndufa8	K03952	0.6647945018821	Down
+map05415 Diabetic cardiomyopathy	Ndufa7	K03951	0.556666139490748	Down
+map00910 Nitrogen metabolism	Glul	K01915	1.53409830498882	Up
+map00910 Nitrogen metabolism	Ca4	K18246	0.40688678217282304	Down
+map00910 Nitrogen metabolism	Ca14	K01672	0.44499773092949396	Down
